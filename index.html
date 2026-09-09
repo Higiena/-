@@ -177,7 +177,8 @@ const GFORM_ENTRIES = {
   test: 'entry.769957446',
   name: 'entry.1702920293',
   faculty: 'entry.771242742',
-  result: 'entry.1911688554'
+  result: 'entry.1911688554',
+  specialty: 'entry.722864924'
 };
 
 /* ===================== I18N ===================== */
@@ -538,7 +539,7 @@ async function submitTest(isAutoSubmit){
   const max = activeTestData.questions.length;
   const resultStr = score + '/' + max;
   const specName = currentLang==='en' ? SPECIALTIES[activeSpecialtyKey].nameEn : SPECIALTIES[activeSpecialtyKey].nameBg;
-  const testTitle = specName + ' — ' + (currentLang==='en' ? activeTestData.titleEn : activeTestData.titleBg);
+  const testTitle = currentLang==='en' ? activeTestData.titleEn : activeTestData.titleBg;
 
   const btn = document.getElementById('submitTestBtn');
   btn.disabled = true;
@@ -548,6 +549,7 @@ async function submitTest(isAutoSubmit){
     params.append(GFORM_ENTRIES.name, effectiveName);
     params.append(GFORM_ENTRIES.faculty, effectiveFac);
     params.append(GFORM_ENTRIES.result, resultStr);
+    params.append(GFORM_ENTRIES.specialty, specName);
     await fetch(GFORM_ACTION, {
       method: 'POST',
       mode: 'no-cors',
