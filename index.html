@@ -288,6 +288,10 @@ function applyLanguage(lang){
     }
   });
   renderSpecialtySelector();
+  if(activeTestData && !document.getElementById('testCard').classList.contains('hidden')){
+    document.getElementById('studentTestTitle').textContent = currentLang==='en' ? activeTestData.titleEn : activeTestData.titleBg;
+    renderStudentQuestions();
+  }
 }
 document.getElementById('langBg').onclick = ()=>applyLanguage('bg');
 document.getElementById('langEn').onclick = ()=>applyLanguage('en');
@@ -486,9 +490,21 @@ function handleScanResult(code){
   document.getElementById('studentFacInput').value = '';
   showErrorBox('submitErrorBox', '');
 
+  renderStudentQuestions();
+
+  startTimer(test.questions.length * 60);
+}
+
+function renderStudentQuestions(){
   const qWrapS = document.getElementById('studentQuestions');
+  // Preserve any answers already selected before re-rendering (e.g. on language switch)
+  const prevAnswers = {};
+  activeTestData.questions.forEach((q, qi)=>{
+    const sel = qWrapS.querySelector(`input[name="ans_${qi}"]:checked`);
+    if(sel) prevAnswers[qi] = sel.value;
+  });
   qWrapS.innerHTML = '';
-  test.questions.forEach((q, qi)=>{
+  activeTestData.questions.forEach((q, qi)=>{
     const qText = currentLang==='en' ? (q.textEn || q.text) : q.text;
     const qOptions = currentLang==='en' ? (q.optionsEn || q.options) : q.options;
     const div = document.createElement('div');
@@ -500,9 +516,11 @@ function handleScanResult(code){
       </div>`).join('');
     div.innerHTML = `<b>${qi+1}. ${escapeHtml(qText)}</b>${optsHtml}`;
     qWrapS.appendChild(div);
+    if(prevAnswers[qi] !== undefined){
+      const toCheck = div.querySelector(`input[name="ans_${qi}"][value="${prevAnswers[qi]}"]`);
+      if(toCheck) toCheck.checked = true;
+    }
   });
-
-  startTimer(test.questions.length * 60);
 }
 
 function sanitizeLocalKey(s){
