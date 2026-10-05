@@ -6,7 +6,7 @@ Unicode true
 !define APPNAME "QR Тестова система"
 !define APPID   "QRTestovaSistema"
 !define APPURL  "https://higiena.github.io/-/"
-!define VERSION "1.1.0"
+!define VERSION "1.2.0"
 !define LAUNCHER "QR-Testova-Sistema.exe"
 !define UK "Software\Microsoft\Windows\CurrentVersion\Uninstall\${APPID}"
 
@@ -48,6 +48,7 @@ Section "-Core"
   SetOutPath "$INSTDIR"
   File "app.ico"
   File "${LAUNCHER}"
+  RMDir /r "$INSTDIR\data"
   WriteUninstaller "$INSTDIR\uninstall.exe"
 SectionEnd
 
