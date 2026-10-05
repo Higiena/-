@@ -4,6 +4,14 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 <title>QR Тестова система</title>
+<link rel="manifest" href="manifest.json">
+<link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<meta name="theme-color" content="#0f1115">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="QR Тестове">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
 <script src="https://unpkg.com/html5-qrcode@2.3.8/html5-qrcode.min.js"></script>
 <style>
@@ -66,9 +74,12 @@
     <h1 data-i18n="appTitle">📋 QR Тестова система</h1>
     <div class="sub" data-i18n="appSubtitle">Покажи QR код на лекцията → студентите сканират, вписват име и факултетен номер и решават → резултатите се записват в Google Формуляра ти.</div>
   </div>
+  <div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap">
+  <button id="installBtn" class="green hidden" style="margin:0;padding:7px 14px;font-size:13px" data-i18n="installApp">📲 Инсталирай приложението</button>
   <div class="langsw">
     <button id="langBg" class="active">БГ</button>
     <button id="langEn">EN</button>
+  </div>
   </div>
 </div>
 
@@ -150,7 +161,7 @@
 let SPECIALTIES = {};
 /* Bump together with "appVersion" in tests.json whenever this file's code changes:
    an old cached copy of the page then detects the mismatch and reloads itself. */
-const APP_VERSION = '2026-10-05.1';
+const APP_VERSION = '2026-10-05.2';
 
 /* ===================== HOSTED SITE URL ===================== */
 /* This is the real internet address where this file lives (GitHub Pages).
@@ -223,6 +234,7 @@ const I18N = {
     doneHeader: "Готово! 🎉",
     cameraErrorAlert: e => "Не може да се достъпи камерата: " + e + "\nВъведи кода ръчно отдолу.",
     invalidCodeAlert: "Тестът не е намерен. Провери кода.",
+    installApp: "📲 Инсталирай приложението",
     loadDataError: "Тестовете не могат да се заредят. Провери интернет връзката и презареди страницата.",
     fillIdentityAlert: "Моля, въведи име и факултетен номер, преди да предадеш теста.",
     alreadySubmittedMsg: (name, score, max) => name + ", вече си предал/а този тест от това устройство. Резултат: " + score + "/" + max,
@@ -265,6 +277,7 @@ const I18N = {
     doneHeader: "Done! 🎉",
     cameraErrorAlert: e => "Could not access the camera: " + e + "\nEnter the code manually below.",
     invalidCodeAlert: "Test not found. Check the code.",
+    installApp: "📲 Install the app",
     loadDataError: "The tests could not be loaded. Check your internet connection and reload the page.",
     fillIdentityAlert: "Please enter your name and faculty number before submitting.",
     alreadySubmittedMsg: (name, score, max) => name + ", you already submitted this test from this device. Score: " + score + "/" + max,
@@ -662,6 +675,26 @@ function autoOpenFromLink(){
     document.getElementById('view-student').classList.remove('hidden');
     handleScanResult(specKey + '.' + testKey);
   }
+}
+
+/* ===================== INSTALL AS APP (own icon, own window) ===================== */
+let deferredInstallPrompt = null;
+const installBtn = document.getElementById('installBtn');
+window.addEventListener('beforeinstallprompt', (e)=>{
+  e.preventDefault();
+  deferredInstallPrompt = e;
+  installBtn.classList.remove('hidden');
+});
+installBtn.onclick = async ()=>{
+  if(!deferredInstallPrompt) return;
+  deferredInstallPrompt.prompt();
+  try{ await deferredInstallPrompt.userChoice; }catch(e){}
+  deferredInstallPrompt = null;
+  installBtn.classList.add('hidden');
+};
+window.addEventListener('appinstalled', ()=>installBtn.classList.add('hidden'));
+if('serviceWorker' in navigator){
+  navigator.serviceWorker.register('sw.js').catch(()=>{});
 }
 
 (async function init(){
