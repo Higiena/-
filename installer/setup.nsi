@@ -1,14 +1,17 @@
 Unicode true
 !include "MUI2.nsh"
 !include "LogicLib.nsh"
+!include "Sections.nsh"
 
 !define APPNAME "QR Тестова система"
 !define APPID   "QRTestovaSistema"
 !define APPURL  "https://higiena.github.io/-/"
-!define VERSION "1.0.0"
+!define VERSION "1.1.0"
+!define LAUNCHER "QR-Testova-Sistema.exe"
+!define UK "Software\Microsoft\Windows\CurrentVersion\Uninstall\${APPID}"
 
 Name "${APPNAME}"
-OutFile "QR-Testova-Sistema-Setup.exe"
+OutFile "..\QR-Testova-Sistema-Setup.exe"
 InstallDir "$LOCALAPPDATA\${APPID}"
 RequestExecutionLevel user
 SetCompressor /SOLID lzma
@@ -24,64 +27,38 @@ VIAddVersionKey /LANG=1026 "LegalCopyright" "Higiena"
 !define MUI_ICON "app.ico"
 !define MUI_UNICON "app.ico"
 !define MUI_ABORTWARNING
+!define MUI_COMPONENTSPAGE_NODESC
 !define MUI_WELCOMEPAGE_TITLE "Инсталиране на ${APPNAME}"
-!define MUI_WELCOMEPAGE_TEXT "Този инсталатор ще добави ${APPNAME} на компютъра ви:$\r$\n$\r$\n•  икона на работния плот$\r$\n•  икона в менюто „Старт“$\r$\n$\r$\nСистемата се отваря в собствен прозорец и винаги зарежда най-новите тестове от интернет.$\r$\n$\r$\nНатиснете „Напред“, за да продължите."
-!define MUI_FINISHPAGE_RUN
+!define MUI_WELCOMEPAGE_TEXT "Този инсталатор ще постави ${APPNAME} на компютъра ви или на флашка.$\r$\n$\r$\nСистемата се отваря в собствен прозорец и винаги зарежда най-новите тестове от интернет.$\r$\n$\r$\nАко изберете флашка, на компютъра няма да остане нищо – програмата се стартира директно от флашката на всеки компютър.$\r$\n$\r$\nНатиснете „Напред“, за да продължите."
+!define MUI_DIRECTORYPAGE_TEXT_TOP "Изберете къде да се инсталира ${APPNAME}.$\r$\n$\r$\nЗа флашка: натиснете „Преглед…“ и изберете флашката (напр. E:\)."
+!define MUI_PAGE_CUSTOMFUNCTION_LEAVE DirLeave
+!define MUI_FINISHPAGE_RUN "$INSTDIR\${LAUNCHER}"
 !define MUI_FINISHPAGE_RUN_TEXT "Стартирай ${APPNAME} сега"
-!define MUI_FINISHPAGE_RUN_FUNCTION LaunchApp
 
 !insertmacro MUI_PAGE_WELCOME
+!insertmacro MUI_PAGE_DIRECTORY
+!insertmacro MUI_PAGE_COMPONENTS
 !insertmacro MUI_PAGE_INSTFILES
 !insertmacro MUI_PAGE_FINISH
 !insertmacro MUI_UNPAGE_CONFIRM
 !insertmacro MUI_UNPAGE_INSTFILES
 !insertmacro MUI_LANGUAGE "Bulgarian"
 
-Var Browser
-
-; Find Microsoft Edge (preinstalled on Windows 10/11), else Google Chrome
-Function FindBrowser
-  StrCpy $Browser ""
-  ReadRegStr $Browser HKLM "SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\msedge.exe" ""
-  ${If} $Browser == ""
-    ReadRegStr $Browser HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\msedge.exe" ""
-  ${EndIf}
-  ${If} $Browser == ""
-  ${AndIf} ${FileExists} "$PROGRAMFILES32\Microsoft\Edge\Application\msedge.exe"
-    StrCpy $Browser "$PROGRAMFILES32\Microsoft\Edge\Application\msedge.exe"
-  ${EndIf}
-  ${If} $Browser == ""
-    ReadRegStr $Browser HKLM "SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\chrome.exe" ""
-  ${EndIf}
-  ${If} $Browser == ""
-    ReadRegStr $Browser HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\chrome.exe" ""
-  ${EndIf}
-FunctionEnd
-
-!macro MakeShortcut LNK
-  ${If} $Browser != ""
-    CreateShortcut "${LNK}" "$Browser" "--app=${APPURL}" "$INSTDIR\app.ico" 0 SW_SHOWNORMAL "" "${APPNAME}"
-  ${Else}
-    ; no Edge/Chrome found: open in the default browser instead
-    CreateShortcut "${LNK}" "$INSTDIR\${APPID}.url" "" "$INSTDIR\app.ico" 0
-  ${EndIf}
-!macroend
-
-Section "Install"
+Section "-Core"
   SetOutPath "$INSTDIR"
   File "app.ico"
-  WriteINIStr "$INSTDIR\${APPID}.url" "InternetShortcut" "URL" "${APPURL}"
-  WriteINIStr "$INSTDIR\${APPID}.url" "InternetShortcut" "IconFile" "$INSTDIR\app.ico"
-  WriteINIStr "$INSTDIR\${APPID}.url" "InternetShortcut" "IconIndex" "0"
-
-  Call FindBrowser
-  !insertmacro MakeShortcut "$DESKTOP\${APPNAME}.lnk"
-  CreateDirectory "$SMPROGRAMS\${APPNAME}"
-  !insertmacro MakeShortcut "$SMPROGRAMS\${APPNAME}\${APPNAME}.lnk"
-  CreateShortcut "$SMPROGRAMS\${APPNAME}\Деинсталиране.lnk" "$INSTDIR\uninstall.exe"
-
+  File "${LAUNCHER}"
   WriteUninstaller "$INSTDIR\uninstall.exe"
-  !define UK "Software\Microsoft\Windows\CurrentVersion\Uninstall\${APPID}"
+SectionEnd
+
+Section "Икона на работния плот" SecDesktop
+  CreateShortcut "$DESKTOP\${APPNAME}.lnk" "$INSTDIR\${LAUNCHER}" "" "$INSTDIR\app.ico" 0
+SectionEnd
+
+Section "Меню „Старт“ и списъка с приложения" SecStart
+  CreateDirectory "$SMPROGRAMS\${APPNAME}"
+  CreateShortcut "$SMPROGRAMS\${APPNAME}\${APPNAME}.lnk" "$INSTDIR\${LAUNCHER}" "" "$INSTDIR\app.ico" 0
+  CreateShortcut "$SMPROGRAMS\${APPNAME}\Деинсталиране.lnk" "$INSTDIR\uninstall.exe"
   WriteRegStr HKCU "${UK}" "DisplayName" "${APPNAME}"
   WriteRegStr HKCU "${UK}" "DisplayIcon" "$INSTDIR\app.ico"
   WriteRegStr HKCU "${UK}" "DisplayVersion" "${VERSION}"
@@ -91,15 +68,32 @@ Section "Install"
   WriteRegStr HKCU "${UK}" "UninstallString" '"$INSTDIR\uninstall.exe"'
   WriteRegDWORD HKCU "${UK}" "NoModify" 1
   WriteRegDWORD HKCU "${UK}" "NoRepair" 1
-  WriteRegDWORD HKCU "${UK}" "EstimatedSize" 200
+  WriteRegDWORD HKCU "${UK}" "EstimatedSize" 400
 SectionEnd
 
-Function LaunchApp
-  Call FindBrowser
-  ${If} $Browser != ""
-    Exec '"$Browser" --app=${APPURL}'
-  ${Else}
-    ExecShell "open" "${APPURL}"
+; Is $INSTDIR on a removable drive (USB flash)? -> portable: leave nothing on the PC
+Var IsRemovable
+Function CheckRemovable
+  StrCpy $IsRemovable 0
+  StrCpy $0 $INSTDIR 3
+  System::Call 'kernel32::GetDriveTypeW(w r0) i .r1'
+  ${If} $1 == 2
+    StrCpy $IsRemovable 1
+    !insertmacro UnselectSection ${SecDesktop}
+    !insertmacro UnselectSection ${SecStart}
+  ${EndIf}
+FunctionEnd
+
+Function DirLeave
+  Call CheckRemovable
+  ${If} $IsRemovable == 1
+    MessageBox MB_ICONINFORMATION|MB_OK "Избрана е флашка.$\r$\n$\r$\nИконите на работния плот и в менюто „Старт“ са изключени, за да не остава нищо на този компютър.$\r$\n$\r$\nЗа да стартирате системата, отворете флашката и щракнете два пъти върху „${LAUNCHER}“."
+  ${EndIf}
+FunctionEnd
+
+Function .onInit
+  ${If} ${Silent}
+    Call CheckRemovable
   ${EndIf}
 FunctionEnd
 
@@ -108,9 +102,11 @@ Section "Uninstall"
   Delete "$SMPROGRAMS\${APPNAME}\${APPNAME}.lnk"
   Delete "$SMPROGRAMS\${APPNAME}\Деинсталиране.lnk"
   RMDir "$SMPROGRAMS\${APPNAME}"
-  Delete "$INSTDIR\app.ico"
+  RMDir /r "$INSTDIR\data"
+  Delete "$INSTDIR\${LAUNCHER}"
   Delete "$INSTDIR\${APPID}.url"
+  Delete "$INSTDIR\app.ico"
   Delete "$INSTDIR\uninstall.exe"
   RMDir "$INSTDIR"
-  DeleteRegKey HKCU "Software\Microsoft\Windows\CurrentVersion\Uninstall\${APPID}"
+  DeleteRegKey HKCU "${UK}"
 SectionEnd
