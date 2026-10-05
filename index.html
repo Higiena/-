@@ -70,11 +70,12 @@
 <body>
 
 <div class="topbar">
-  <div>
+  <div style="flex:1 1 420px;min-width:0">
     <h1 data-i18n="appTitle">📋 QR Тестова система</h1>
     <div class="sub" data-i18n="appSubtitle">Покажи QR код на лекцията → студентите сканират, вписват име и факултетен номер и решават → резултатите се записват в Google Формуляра ти.</div>
   </div>
-  <div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap">
+  <div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin-left:auto">
+  <a id="winDownloadBtn" class="hidden" href="QR-Testova-Sistema-Setup.exe" download style="text-decoration:none;background:var(--panel2);border:1px solid var(--line);color:var(--text);padding:7px 14px;border-radius:10px;font-size:13px;font-weight:700" data-i18n="winDownload">💻 Изтегли за Windows</a>
   <button id="installBtn" class="green hidden" style="margin:0;padding:7px 14px;font-size:13px" data-i18n="installApp">📲 Инсталирай приложението</button>
   <div class="langsw">
     <button id="langBg" class="active">БГ</button>
@@ -161,7 +162,7 @@
 let SPECIALTIES = {};
 /* Bump together with "appVersion" in tests.json whenever this file's code changes:
    an old cached copy of the page then detects the mismatch and reloads itself. */
-const APP_VERSION = '2026-10-05.2';
+const APP_VERSION = '2026-10-05.3';
 
 /* ===================== HOSTED SITE URL ===================== */
 /* This is the real internet address where this file lives (GitHub Pages).
@@ -235,6 +236,7 @@ const I18N = {
     cameraErrorAlert: e => "Не може да се достъпи камерата: " + e + "\nВъведи кода ръчно отдолу.",
     invalidCodeAlert: "Тестът не е намерен. Провери кода.",
     installApp: "📲 Инсталирай приложението",
+    winDownload: "💻 Изтегли за Windows",
     loadDataError: "Тестовете не могат да се заредят. Провери интернет връзката и презареди страницата.",
     fillIdentityAlert: "Моля, въведи име и факултетен номер, преди да предадеш теста.",
     alreadySubmittedMsg: (name, score, max) => name + ", вече си предал/а този тест от това устройство. Резултат: " + score + "/" + max,
@@ -278,6 +280,7 @@ const I18N = {
     cameraErrorAlert: e => "Could not access the camera: " + e + "\nEnter the code manually below.",
     invalidCodeAlert: "Test not found. Check the code.",
     installApp: "📲 Install the app",
+    winDownload: "💻 Download for Windows",
     loadDataError: "The tests could not be loaded. Check your internet connection and reload the page.",
     fillIdentityAlert: "Please enter your name and faculty number before submitting.",
     alreadySubmittedMsg: (name, score, max) => name + ", you already submitted this test from this device. Score: " + score + "/" + max,
@@ -693,6 +696,9 @@ installBtn.onclick = async ()=>{
   installBtn.classList.add('hidden');
 };
 window.addEventListener('appinstalled', ()=>installBtn.classList.add('hidden'));
+if(/Windows/i.test(navigator.userAgent)){
+  document.getElementById('winDownloadBtn').classList.remove('hidden');
+}
 if('serviceWorker' in navigator){
   navigator.serviceWorker.register('sw.js').catch(()=>{});
 }
