@@ -8495,6 +8495,353 @@
        ]
       }
      ]
+    },
+    "mikroklimat": {
+     "id": "builtin_okoz1_mikroklimat",
+     "titleBg": "Тест: Конвекционен микроклимат",
+     "titleEn": "Test: Convective Microclimate",
+     "questions": [
+      {
+       "text": "Конвекционният микроклимат е характерен за:",
+       "options": [
+        "Обичайни, немного горещи условия на труда и бита, където топлообменът е основно чрез конвекция и изпарение",
+        "Условия с интензивно топлинно лъчение и ограничена конвекция",
+        "Работа при повишено атмосферно налягане",
+        "Работа с йонизиращи лъчения"
+       ],
+       "correct": 0,
+       "textEn": "Convective microclimate is typical of:",
+       "optionsEn": [
+        "Ordinary, not very hot working and living conditions, where heat exchange is mainly by convection and evaporation",
+        "Conditions with intense thermal radiation and limited convection",
+        "Work at elevated atmospheric pressure",
+        "Work with ionizing radiation"
+       ]
+      },
+      {
+       "text": "Кои са четирите основни параметъра на микроклимата?",
+       "options": [
+        "Температура, налягане, осветеност, шум",
+        "Температура на въздуха, относителна влажност, скорост на въздуха, топлинно лъчение",
+        "Влажност, вибрации, лъчение, доза",
+        "Скорост на въздуха, осветеност, доза, честота"
+       ],
+       "correct": 1,
+       "textEn": "What are the four main parameters of microclimate?",
+       "optionsEn": [
+        "Temperature, pressure, illuminance, noise",
+        "Air temperature, relative humidity, air velocity, thermal radiation",
+        "Humidity, vibration, radiation, dose",
+        "Air velocity, illuminance, dose, frequency"
+       ]
+      },
+      {
+       "text": "Според Наредба № РД-07-3/2014 г., при лека работа (≤210 W) оптималната температура в студен период е:",
+       "options": [
+        "16–18°C",
+        "17–20°C",
+        "20–23°C",
+        "22–25°C"
+       ],
+       "correct": 2,
+       "textEn": "According to Ordinance No. RD-07-3/2014, for light work (≤210 W) the optimal temperature in the cold period is:",
+       "optionsEn": [
+        "16–18°C",
+        "17–20°C",
+        "20–23°C",
+        "22–25°C"
+       ]
+      },
+      {
+       "text": "Уредът, който отчита времето за охлаждане на спирта от 38° до 35°C и се използва за малки скорости на въздуха, е:",
+       "options": [
+        "Анемометър с чашки",
+        "Психрометър на Асман",
+        "Термограф",
+        "Кататермометър на Хил"
+       ],
+       "correct": 3,
+       "textEn": "The instrument that measures the time for the alcohol to cool from 38° to 35°C and is used for low air velocities is:",
+       "optionsEn": [
+        "Cup anemometer",
+        "Assmann psychrometer",
+        "Thermograph",
+        "Hill's katathermometer"
+       ]
+      },
+      {
+       "text": "Формулата за резултираща температура RT = tk + 0,17·√v·(tk − ta) комбинира:",
+       "options": [
+        "Кълбовидна температура, скорост на въздуха и въздушна температура",
+        "Влажност и атмосферно налягане",
+        "Пулсова честота и кожна температура",
+        "Абсолютна и максимална влажност"
+       ],
+       "correct": 0,
+       "textEn": "The resultant temperature formula RT = tk + 0.17·√v·(tk − ta) combines:",
+       "optionsEn": [
+        "Globe temperature, air velocity and air temperature",
+        "Humidity and atmospheric pressure",
+        "Pulse rate and skin temperature",
+        "Absolute and maximum humidity"
+       ]
+      },
+      {
+       "text": "Относителната влажност е:",
+       "options": [
+        "Количеството водни пари във въздуха в момента на изследването",
+        "Отношението на абсолютната към максималната влажност, в проценти",
+        "Максималното количество водни пари при дадена температура",
+        "Отношението спрямо максимална влажност при телесна температура 37°C"
+       ],
+       "correct": 1,
+       "textEn": "Relative humidity is:",
+       "optionsEn": [
+        "The amount of water vapour in the air at the time of measurement",
+        "The ratio of absolute to maximum humidity, in percent",
+        "The maximum amount of water vapour at a given temperature",
+        "The ratio to maximum humidity at a body temperature of 37°C"
+       ]
+      },
+      {
+       "text": "Психрометърът на Асман определя влажността чрез:",
+       "options": [
+        "Време за охлаждане на спирт",
+        "Отчитане по кълбовиден термометър",
+        "Психрометрична разлика между сух и влажен термометър",
+        "Директно отчитане по анемометър"
+       ],
+       "correct": 2,
+       "textEn": "The Assmann psychrometer determines humidity by:",
+       "optionsEn": [
+        "The cooling time of alcohol",
+        "Reading a globe thermometer",
+        "The psychrometric difference between a dry and a wet thermometer",
+        "Direct reading on an anemometer"
+       ]
+      },
+      {
+       "text": "Оптималната относителна влажност за жилищни и производствени помещения е:",
+       "options": [
+        "10–30%",
+        "70–90%",
+        "20–40%",
+        "40–60%"
+       ],
+       "correct": 3,
+       "textEn": "The optimal relative humidity for residential and industrial premises is:",
+       "optionsEn": [
+        "10–30%",
+        "70–90%",
+        "20–40%",
+        "40–60%"
+       ]
+      },
+      {
+       "text": "Анемометърът с чашки се използва за измерване на скорости в диапазона:",
+       "options": [
+        "1–50 m/s",
+        "0,3–5 m/s",
+        "под 0,2 m/s",
+        "над 100 m/s"
+       ],
+       "correct": 0,
+       "textEn": "The cup anemometer is used to measure velocities in the range:",
+       "optionsEn": [
+        "1–50 m/s",
+        "0.3–5 m/s",
+        "below 0.2 m/s",
+        "above 100 m/s"
+       ]
+      },
+      {
+       "text": "Кълбовидният термометър на Йокл отчита:",
+       "options": [
+        "Само скоростта на въздуха",
+        "Сумарно въздушната температура и инфрачервената радиация",
+        "Само относителната влажност",
+        "Атмосферното налягане"
+       ],
+       "correct": 1,
+       "textEn": "Vernon's (Jokl's) globe thermometer measures:",
+       "optionsEn": [
+        "Only air velocity",
+        "The combined effect of air temperature and infrared radiation",
+        "Only relative humidity",
+        "Atmospheric pressure"
+       ]
+      },
+      {
+       "text": "Уравнението за топлинния баланс на организма Q = M ± C ± R − E включва:",
+       "options": [
+        "Метаболитна, химична, биологична топлина и радиация",
+        "Само метаболитна и конвекционна топлина",
+        "Метаболитна, конвекционна, радиационна топлина и топлина от изпарение на потта",
+        "Само топлина от изпарение и налягане"
+       ],
+       "correct": 2,
+       "textEn": "The body heat balance equation Q = M ± C ± R − E includes:",
+       "optionsEn": [
+        "Metabolic, chemical, biological heat and radiation",
+        "Only metabolic and convective heat",
+        "Metabolic, convective, radiant heat and heat lost by evaporation of sweat",
+        "Only heat of evaporation and pressure"
+       ]
+      },
+      {
+       "text": "Ефективно-еквивалентната температура (ЕЕТ) се прилага основно за:",
+       "options": [
+        "Производствени цехове с интензивно лъчение",
+        "Водолазни и кесонни работи",
+        "Оценка на йонизиращи лъчения",
+        "Комунални обекти, с комфортна зона 17,2–21,7 условни градуса"
+       ],
+       "correct": 3,
+       "textEn": "Effective equivalent temperature (EET) is applied mainly to:",
+       "optionsEn": [
+        "Industrial workshops with intense radiation",
+        "Diving and caisson work",
+        "Assessment of ionizing radiation",
+        "Public/communal facilities, with a comfort zone of 17.2–21.7 conventional degrees"
+       ]
+      },
+      {
+       "text": "Индексът на влажния кълбовиден термометър (ИВКТ/WBGT) при тежък труд не трябва да превишава:",
+       "options": [
+        "25°",
+        "30°",
+        "35°",
+        "40°"
+       ],
+       "correct": 0,
+       "textEn": "For heavy work, the wet-bulb globe temperature index (WBGT) should not exceed:",
+       "optionsEn": [
+        "25°",
+        "30°",
+        "35°",
+        "40°"
+       ]
+      },
+      {
+       "text": "Вегетативният индекс на Кердо оценява:",
+       "options": [
+        "Скоростта на въздушното течение",
+        "Баланса на симпатиковата и парасимпатиковата нервна система",
+        "Относителната влажност на въздуха",
+        "Атмосферното налягане"
+       ],
+       "correct": 1,
+       "textEn": "Kerdo's vegetative index assesses:",
+       "optionsEn": [
+        "Air current velocity",
+        "The balance of the sympathetic and parasympathetic nervous system",
+        "Relative air humidity",
+        "Atmospheric pressure"
+       ]
+      },
+      {
+       "text": "При микроклиматичен комфорт средната кожна температура е в диапазона:",
+       "options": [
+        "25,0–28,0°C",
+        "30,0–32,0°C",
+        "33,2–34,0°C",
+        "36,5–37,5°C"
+       ],
+       "correct": 2,
+       "textEn": "Under microclimatic comfort, mean skin temperature is in the range:",
+       "optionsEn": [
+        "25.0–28.0°C",
+        "30.0–32.0°C",
+        "33.2–34.0°C",
+        "36.5–37.5°C"
+       ]
+      },
+      {
+       "text": "Психрометричната формула на Реньо f = F − a·(t − t₁)·B служи за определяне на:",
+       "options": [
+        "Скоростта на въздуха",
+        "Резултиращата температура",
+        "Топлинния баланс на организма",
+        "Абсолютната влажност на въздуха"
+       ],
+       "correct": 3,
+       "textEn": "Regnault's psychrometric formula f = F − a·(t − t₁)·B is used to determine:",
+       "optionsEn": [
+        "Air velocity",
+        "Resultant temperature",
+        "The body's heat balance",
+        "Absolute air humidity"
+       ]
+      },
+      {
+       "text": "Катаградусът H в кататермометрията се изчислява по формулата:",
+       "options": [
+        "H = F / t, където F е факторът на уреда, а t — времето за охлаждане",
+        "H = Q / M",
+        "H = tk − ta",
+        "H = a · B / F"
+       ],
+       "correct": 0,
+       "textEn": "In katathermometry, the kata-degree H is calculated by the formula:",
+       "optionsEn": [
+        "H = F / t, where F is the instrument factor and t is the cooling time",
+        "H = Q / M",
+        "H = tk − ta",
+        "H = a · B / F"
+       ]
+      },
+      {
+       "text": "В ситуационната задача от строителен обект през зимния сезон (2°C, 65% влажност, 5 m/s), основният проблем е:",
+       "options": [
+        "Прегряващ микроклимат",
+        "Охлаждащ ефект от вятъра и ниска температура",
+        "Повишено атмосферно налягане",
+        "Йонизиращо лъчение"
+       ],
+       "correct": 1,
+       "textEn": "In the case study of a construction site in winter (2°C, 65% humidity, 5 m/s), the main problem is:",
+       "optionsEn": [
+        "Overheating microclimate",
+        "Cooling effect of the wind and low temperature",
+        "Elevated atmospheric pressure",
+        "Ionizing radiation"
+       ]
+      },
+      {
+       "text": "Според заключението на презентацията, микроклиматът трябва да се оценява:",
+       "options": [
+        "Само чрез измерване на температурата",
+        "Отделно за всеки компонент, без комплексен анализ",
+        "Комплексно, а не покомпонентно",
+        "Само чрез субективни методи"
+       ],
+       "correct": 2,
+       "textEn": "According to the conclusion of the presentation, microclimate should be assessed:",
+       "optionsEn": [
+        "Only by measuring temperature",
+        "Separately for each component, without complex analysis",
+        "Comprehensively, not component by component",
+        "Only by subjective methods"
+       ]
+      },
+      {
+       "text": "Резултатите от микроклиматичните измервания се сравняват с:",
+       "options": [
+        "Международни стандарти за осветление",
+        "Норми за йонизиращи лъчения",
+        "Психрометрични таблици единствено",
+        "Действащите хигиенни норми (Наредба № РД-07-3/2014 г.)"
+       ],
+       "correct": 3,
+       "textEn": "The results of microclimate measurements are compared with:",
+       "optionsEn": [
+        "International lighting standards",
+        "Norms for ionizing radiation",
+        "Psychrometric tables only",
+        "The current hygiene norms (Ordinance No. RD-07-3/2014)"
+       ]
+      }
+     ]
     }
    }
   }
