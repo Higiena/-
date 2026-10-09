@@ -8842,6 +8842,353 @@
        ]
       }
      ]
+    },
+    "pregriavasht": {
+     "id": "builtin_okoz1_pregriavasht",
+     "titleBg": "Тест: Прегряващ микроклимат",
+     "titleEn": "Test: Overheating Microclimate",
+     "questions": [
+      {
+       "text": "Прегряващият микроклимат се характеризира с:",
+       "options": [
+        "Високи температури, повишено топлинно лъчение и често висока влажност",
+        "Ниски температури и повишена скорост на въздуха",
+        "Нормално атмосферно налягане и ниска влажност",
+        "Липса на топлинно натоварване върху организма"
+       ],
+       "correct": 0,
+       "textEn": "An overheating microclimate is characterized by:",
+       "optionsEn": [
+        "High temperatures, increased thermal radiation and often high humidity",
+        "Low temperatures and increased air velocity",
+        "Normal atmospheric pressure and low humidity",
+        "No heat load on the body"
+       ]
+      },
+      {
+       "text": "За разлика от конвекционния микроклимат, при прегряващия микроклимат водещи фактори са:",
+       "options": [
+        "Скоростта на въздуха и атмосферното налягане",
+        "Топлинното лъчение и високата температура",
+        "Относителната влажност единствено",
+        "Йонизиращите лъчения"
+       ],
+       "correct": 1,
+       "textEn": "Unlike a convective microclimate, in an overheating microclimate the leading factors are:",
+       "optionsEn": [
+        "Air velocity and atmospheric pressure",
+        "Thermal radiation and high temperature",
+        "Relative humidity only",
+        "Ionizing radiation"
+       ]
+      },
+      {
+       "text": "Типични обекти с прегряващ микроклимат са:",
+       "options": [
+        "Административни офиси и библиотеки",
+        "Хладилни складове и строителни обекти през зимата",
+        "Леярни, пекарни, стъкларски и металургични производства",
+        "Болнични операционни зали"
+       ],
+       "correct": 2,
+       "textEn": "Typical sites with an overheating microclimate are:",
+       "optionsEn": [
+        "Administrative offices and libraries",
+        "Cold stores and construction sites in winter",
+        "Foundries, bakeries, glass and metallurgical production",
+        "Hospital operating rooms"
+       ]
+      },
+      {
+       "text": "При прегряващ микроклимат температурата на въздуха се измерва, като се съчетава с:",
+       "options": [
+        "Измерване на атмосферно налягане",
+        "Измерване на йонизиращо лъчение",
+        "Измерване на скорост на звука",
+        "Измерване на повърхностна температура на околните повърхности"
+       ],
+       "correct": 3,
+       "textEn": "In an overheating microclimate, air temperature is measured together with:",
+       "optionsEn": [
+        "Measurement of atmospheric pressure",
+        "Measurement of ionizing radiation",
+        "Measurement of the speed of sound",
+        "Measurement of the surface temperature of surrounding surfaces"
+       ]
+      },
+      {
+       "text": "Високата влажност при прегряване е опасна, защото:",
+       "options": [
+        "Затруднява изпарението на потта — основния механизъм за охлаждане на тялото",
+        "Увеличава скоростта на въздуха",
+        "Намалява топлинното лъчение",
+        "Понижава телесната температура"
+       ],
+       "correct": 0,
+       "textEn": "High humidity is dangerous in overheating because:",
+       "optionsEn": [
+        "It hinders the evaporation of sweat — the main cooling mechanism of the body",
+        "It increases air velocity",
+        "It reduces thermal radiation",
+        "It lowers body temperature"
+       ]
+      },
+      {
+       "text": "Уредите за измерване на влажност при прегряващ микроклимат включват:",
+       "options": [
+        "Анемометри и термоанемометри",
+        "Психрометри (напр. на Асман) и хигрометри",
+        "Радиометри и пирометри",
+        "Дозиметри и радиометри"
+       ],
+       "correct": 1,
+       "textEn": "Instruments for measuring humidity in an overheating microclimate include:",
+       "optionsEn": [
+        "Anemometers and thermoanemometers",
+        "Psychrometers (e.g. Assmann) and hygrometers",
+        "Radiometers and pyrometers",
+        "Dosimeters and radiometers"
+       ]
+      },
+      {
+       "text": "Повишената скорост на въздуха при прегряващ микроклимат:",
+       "options": [
+        "Винаги замества нуждата от намаляване на температурата",
+        "Увеличава топлинното лъчение",
+        "Подпомага охлаждането на тялото чрез конвекция",
+        "Няма отношение към топлинния стрес"
+       ],
+       "correct": 2,
+       "textEn": "Increased air velocity in an overheating microclimate:",
+       "optionsEn": [
+        "Always replaces the need to lower the temperature",
+        "Increases thermal radiation",
+        "Helps cool the body by convection",
+        "Has no relation to heat stress"
+       ]
+      },
+      {
+       "text": "Топлинното лъчение при прегряващ микроклимат се измерва с:",
+       "options": [
+        "Психрометър",
+        "Анемометър",
+        "Хигрометър",
+        "Глобален термометър, радиометри или пирометри"
+       ],
+       "correct": 3,
+       "textEn": "Thermal radiation in an overheating microclimate is measured with:",
+       "optionsEn": [
+        "A psychrometer",
+        "An anemometer",
+        "A hygrometer",
+        "A globe thermometer, radiometers or pyrometers"
+       ]
+      },
+      {
+       "text": "Индексът WBGT (Wet Bulb Globe Temperature) отчита:",
+       "options": [
+        "Температурата на въздуха, влажността и топлинното лъчение",
+        "Само пулсовата честота",
+        "Само атмосферното налягане",
+        "Само скоростта на въздуха"
+       ],
+       "correct": 0,
+       "textEn": "The WBGT index (Wet Bulb Globe Temperature) takes into account:",
+       "optionsEn": [
+        "Air temperature, humidity and thermal radiation",
+        "Only pulse rate",
+        "Only atmospheric pressure",
+        "Only air velocity"
+       ]
+      },
+      {
+       "text": "Индексът PHS (Predicted Heat Strain) служи за:",
+       "options": [
+        "Оценка на осветеността на работното място",
+        "Прогнозиране на физиологичното натоварване при високи температури",
+        "Измерване на нивото на шума",
+        "Оценка на йонизиращи лъчения"
+       ],
+       "correct": 1,
+       "textEn": "The PHS index (Predicted Heat Strain) is used for:",
+       "optionsEn": [
+        "Assessing workplace illuminance",
+        "Predicting physiological strain at high temperatures",
+        "Measuring noise level",
+        "Assessing ionizing radiation"
+       ]
+      },
+      {
+       "text": "Според критериите на Р. Ф. Афанасьева, при тежък труд допустимата ректална температура е:",
+       "options": [
+        "36,0–36,5°C",
+        "36,9–37,2°C",
+        "37,3–37,8°C",
+        "38,5–39,0°C"
+       ],
+       "correct": 2,
+       "textEn": "According to R. F. Afanasyeva's criteria, the permissible rectal temperature for heavy work is:",
+       "optionsEn": [
+        "36.0–36.5°C",
+        "36.9–37.2°C",
+        "37.3–37.8°C",
+        "38.5–39.0°C"
+       ]
+      },
+      {
+       "text": "Действащият норматив за минималните изисквания за микроклимата на работните места в България е:",
+       "options": [
+        "ISO 7243",
+        "Наредба № 6/2005",
+        "Наредба № 9/1991",
+        "Наредба № РД-07-3/2014"
+       ],
+       "correct": 3,
+       "textEn": "The current regulation on minimum requirements for workplace microclimate in Bulgaria is:",
+       "optionsEn": [
+        "ISO 7243",
+        "Ordinance No. 6/2005",
+        "Ordinance No. 9/1991",
+        "Ordinance No. RD-07-3/2014"
+       ]
+      },
+      {
+       "text": "Международният стандарт, определящ WBGT индекса за оценка на топлинното натоварване, е:",
+       "options": [
+        "ISO 7243",
+        "БДС EN 12464-1",
+        "ISO 9001",
+        "IEC 60601"
+       ],
+       "correct": 0,
+       "textEn": "The international standard defining the WBGT index for assessing heat stress is:",
+       "optionsEn": [
+        "ISO 7243",
+        "BDS EN 12464-1",
+        "ISO 9001",
+        "IEC 60601"
+       ]
+      },
+      {
+       "text": "В ситуационния пример работникът в леярния цех е имал пулсова честота и телесна температура съответно:",
+       "options": [
+        "80/мин и 36,9°C",
+        "120/мин и 38,0°C",
+        "60/мин и 37,0°C",
+        "100/мин и 39,5°C"
+       ],
+       "correct": 1,
+       "textEn": "In the case study, the foundry worker's pulse rate and body temperature were, respectively:",
+       "optionsEn": [
+        "80/min and 36.9°C",
+        "120/min and 38.0°C",
+        "60/min and 37.0°C",
+        "100/min and 39.5°C"
+       ]
+      },
+      {
+       "text": "Според референтните стойности на WBGT по ISO 7243, граничната стойност за тежка работа (за аклиматизирани лица) е:",
+       "options": [
+        "≤ 33°C",
+        "≤ 30°C",
+        "≤ 25°C",
+        "≤ 23°C"
+       ],
+       "correct": 2,
+       "textEn": "According to the WBGT reference values of ISO 7243, the limit for heavy work (for acclimatized persons) is:",
+       "optionsEn": [
+        "≤ 33°C",
+        "≤ 30°C",
+        "≤ 25°C",
+        "≤ 23°C"
+       ]
+      },
+      {
+       "text": "За неаклиматизирани лица граничните стойности на WBGT се:",
+       "options": [
+        "Увеличават с 5°C",
+        "Остават същите",
+        "Удвояват",
+        "Намаляват с около 2–3°C"
+       ],
+       "correct": 3,
+       "textEn": "For non-acclimatized persons, the WBGT limit values are:",
+       "optionsEn": [
+        "Increased by 5°C",
+        "Kept the same",
+        "Doubled",
+        "Reduced by about 2–3°C"
+       ]
+      },
+      {
+       "text": "Ранните симптоми на топлинно изтощение включват:",
+       "options": [
+        "Обилно изпотяване, слабост, световъртеж",
+        "Втрисане и ниска телесна температура",
+        "Загуба на слух",
+        "Фотофобия"
+       ],
+       "correct": 0,
+       "textEn": "Early symptoms of heat exhaustion include:",
+       "optionsEn": [
+        "Profuse sweating, weakness, dizziness",
+        "Chills and low body temperature",
+        "Hearing loss",
+        "Photophobia"
+       ]
+      },
+      {
+       "text": "При съмнение за топлинен удар първата мярка е:",
+       "options": [
+        "Даване на топла напитка",
+        "Преместване на пострадалия на хладно място и охлаждане",
+        "Интензивна физическа активност",
+        "Изчакване без намеса"
+       ],
+       "correct": 1,
+       "textEn": "When heat stroke is suspected, the first measure is:",
+       "optionsEn": [
+        "Giving a hot drink",
+        "Moving the casualty to a cool place and cooling them",
+        "Intense physical activity",
+        "Waiting without intervening"
+       ]
+      },
+      {
+       "text": "Личните предпазни средства при работа в прегряващ микроклимат включват:",
+       "options": [
+        "Антифони и шумозаглушители",
+        "Дозиметри за йонизиращо лъчение",
+        "Термозащитно облекло и охлаждащи жилетки",
+        "Луксметри"
+       ],
+       "correct": 2,
+       "textEn": "Personal protective equipment for work in an overheating microclimate includes:",
+       "optionsEn": [
+        "Earmuffs and noise silencers",
+        "Dosimeters for ionizing radiation",
+        "Heat-protective clothing and cooling vests",
+        "Lux meters"
+       ]
+      },
+      {
+       "text": "Профилактиката на прегряващия микроклимат включва всичко изброено, ОСВЕН:",
+       "options": [
+        "Технически екрани и топлоизолация",
+        "Режим на труд и почивка",
+        "Водно-солеви режим",
+        "Увеличаване на продължителността на смяната без прекъсвания"
+       ],
+       "correct": 3,
+       "textEn": "Prevention of an overheating microclimate includes all of the following, EXCEPT:",
+       "optionsEn": [
+        "Technical screens and thermal insulation",
+        "Work–rest regime",
+        "Water and salt intake regime",
+        "Lengthening the shift without breaks"
+       ]
+      }
+     ]
     }
    }
   }
