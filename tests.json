@@ -9195,7 +9195,315 @@
   "farmacia": {
    "nameBg": "Фармация",
    "nameEn": "Pharmacy",
-   "tests": {}
+   "tests": {
+    "test1": {
+     "id": "builtin_farmacia_test1",
+     "titleBg": "Тест 1 – Вода и хигиенно значение на водата",
+     "titleEn": "Test 1 – Water and Its Hygienic Significance",
+     "questions": [
+      {
+       "text": "Какъв процент от теглото на новороденото приблизително представлява водата?",
+       "options": [
+        "45%",
+        "75%",
+        "90%"
+       ],
+       "correct": 1,
+       "textEn": "Approximately what percentage of a newborn's body weight is water?",
+       "optionsEn": [
+        "45%",
+        "75%",
+        "90%"
+       ]
+      },
+      {
+       "text": "Кое от посочените е основна функция на водата в организма?",
+       "options": [
+        "Универсален разтворител и среда за химични и физикохимични реакции",
+        "Единствено източник на енергия",
+        "Основен източник на белтъци"
+       ],
+       "correct": 0,
+       "textEn": "Which of the following is a main function of water in the body?",
+       "optionsEn": [
+        "Universal solvent and medium for chemical and physicochemical reactions",
+        "Solely a source of energy",
+        "Main source of proteins"
+       ]
+      },
+      {
+       "text": "Каква е ролята на водата в терморегулацията на организма?",
+       "options": [
+        "Не участва в терморегулацията",
+        "Активно участва в терморегулацията",
+        "Участва само при повишена телесна температура над 40°C"
+       ],
+       "correct": 1,
+       "textEn": "What is the role of water in the body's thermoregulation?",
+       "optionsEn": [
+        "It does not take part in thermoregulation",
+        "It actively takes part in thermoregulation",
+        "It takes part only at body temperatures above 40°C"
+       ]
+      },
+      {
+       "text": "Кой микроелемент от питейната вода може да покрива до 100% от физиологичните потребности на организма?",
+       "options": [
+        "Флуор",
+        "Йод",
+        "Мед"
+       ],
+       "correct": 0,
+       "textEn": "Which trace element from drinking water can cover up to 100% of the body's physiological needs?",
+       "optionsEn": [
+        "Fluorine",
+        "Iodine",
+        "Copper"
+       ]
+      },
+      {
+       "text": "Какво може да се наблюдава при недостатъчно съдържание на флуор във водата – под 0,7 mg/L?",
+       "options": [
+        "Флуороза",
+        "Кариес",
+        "Метхемоглобинемия"
+       ],
+       "correct": 1,
+       "textEn": "What can be observed when the fluoride content of water is insufficient – below 0.7 mg/L?",
+       "optionsEn": [
+        "Fluorosis",
+        "Dental caries",
+        "Methaemoglobinaemia"
+       ]
+      },
+      {
+       "text": "Какво може да причини прекомерното съдържание на флуор – над 1,5 mg/L?",
+       "options": [
+        "Флуороза",
+        "Ендемична гуша",
+        "Молибденова подагра"
+       ],
+       "correct": 0,
+       "textEn": "What can an excessive fluoride content – above 1.5 mg/L – cause?",
+       "optionsEn": [
+        "Fluorosis",
+        "Endemic goitre",
+        "Molybdenum gout"
+       ]
+      },
+      {
+       "text": "Кое заболяване е свързано с високото съдържание на нитрати в питейната вода, особено при кърмачета?",
+       "options": [
+        "Метхемоглобинемия",
+        "Флуороза",
+        "Стронциев рахит"
+       ],
+       "correct": 0,
+       "textEn": "Which disease is associated with a high nitrate content in drinking water, especially in infants?",
+       "optionsEn": [
+        "Methaemoglobinaemia",
+        "Fluorosis",
+        "Strontium rickets"
+       ]
+      },
+      {
+       "text": "Високото съдържание на молибден при дефицит на мед може да доведе до:",
+       "options": [
+        "Молибденова подагра",
+        "Холера",
+        "Ендемична гуша"
+       ],
+       "correct": 0,
+       "textEn": "A high molybdenum content combined with copper deficiency can lead to:",
+       "optionsEn": [
+        "Molybdenum gout",
+        "Cholera",
+        "Endemic goitre"
+       ]
+      },
+      {
+       "text": "Кои вещества са показател за старо органично замърсяване или замърсяване с азотни торове?",
+       "options": [
+        "Нитрити",
+        "Нитрати",
+        "Хлориди"
+       ],
+       "correct": 1,
+       "textEn": "Which substances indicate old organic pollution or pollution with nitrogen fertilizers?",
+       "optionsEn": [
+        "Nitrites",
+        "Nitrates",
+        "Chlorides"
+       ]
+      },
+      {
+       "text": "Каква е референтната стойност за нитратите в питейната вода според предоставения материал?",
+       "options": [
+        "До 5 mg/L",
+        "До 25 mg/L",
+        "До 50 mg/L"
+       ],
+       "correct": 2,
+       "textEn": "What is the reference value for nitrates in drinking water according to the material provided?",
+       "optionsEn": [
+        "Up to 5 mg/L",
+        "Up to 25 mg/L",
+        "Up to 50 mg/L"
+       ]
+      },
+      {
+       "text": "Кои показатели най-пряко характеризират органолептичните свойства на питейната вода?",
+       "options": [
+        "Цвят, вкус, мирис и мътност",
+        "Калций, магнезий, натрий и желязо",
+        "Радон, тритий и обща бета-активност"
+       ],
+       "correct": 0,
+       "textEn": "Which parameters most directly characterize the organoleptic properties of drinking water?",
+       "optionsEn": [
+        "Colour, taste, odour and turbidity",
+        "Calcium, magnesium, sodium and iron",
+        "Radon, tritium and gross beta activity"
+       ]
+      },
+      {
+       "text": "Каква е максимално допустимата стойност на остатъчния активен хлор, посочена в материала?",
+       "options": [
+        "0,03–0,04 mg/L",
+        "0,3–0,4 mg/L",
+        "3–4 mg/L"
+       ],
+       "correct": 1,
+       "textEn": "What is the maximum permissible value of residual active chlorine given in the material?",
+       "optionsEn": [
+        "0.03–0.04 mg/L",
+        "0.3–0.4 mg/L",
+        "3–4 mg/L"
+       ]
+      },
+      {
+       "text": "Кой от изброените е микробиологичен показател за качеството на питейната вода?",
+       "options": [
+        "E. coli",
+        "Калций",
+        "Нитрати"
+       ],
+       "correct": 0,
+       "textEn": "Which of the following is a microbiological indicator of drinking water quality?",
+       "optionsEn": [
+        "E. coli",
+        "Calcium",
+        "Nitrates"
+       ]
+      },
+      {
+       "text": "Коя категория водоизточници е предназначена за питейни нужди, плувни басейни и хранителната промишленост?",
+       "options": [
+        "I категория",
+        "II категория",
+        "III категория"
+       ],
+       "correct": 0,
+       "textEn": "Which category of water sources is intended for drinking, swimming pools and the food industry?",
+       "optionsEn": [
+        "Category I",
+        "Category II",
+        "Category III"
+       ]
+      },
+      {
+       "text": "Какво характеризира зона А при санитарната охрана на питейните водоизточници?",
+       "options": [
+        "Зона на наблюдение",
+        "Зона на строг режим",
+        "Зона за напояване"
+       ],
+       "correct": 1,
+       "textEn": "What characterizes zone A in the sanitary protection of drinking water sources?",
+       "optionsEn": [
+        "Observation zone",
+        "Strict regime zone",
+        "Irrigation zone"
+       ]
+      },
+      {
+       "text": "Кой водоизточник обикновено е най-добре защитен от замърсяване?",
+       "options": [
+        "Плитки грунтови води",
+        "Повърхностни води",
+        "Артезиански води"
+       ],
+       "correct": 2,
+       "textEn": "Which water source is usually best protected from pollution?",
+       "optionsEn": [
+        "Shallow groundwater",
+        "Surface water",
+        "Artesian water"
+       ]
+      },
+      {
+       "text": "Кой метод за пречистване на водата представлява образуване на пихтиеста маса, която адсорбира дребните частици и микроорганизмите?",
+       "options": [
+        "Коагулация",
+        "Преваряване",
+        "Озониране"
+       ],
+       "correct": 0,
+       "textEn": "Which water treatment method consists of forming a gelatinous mass that adsorbs fine particles and microorganisms?",
+       "optionsEn": [
+        "Coagulation",
+        "Boiling",
+        "Ozonation"
+       ]
+      },
+      {
+       "text": "Кой е основният критерий за ефективността на хлорирането на питейната вода?",
+       "options": [
+        "Съдържанието на нитрати",
+        "Свободният остатъчен хлор",
+        "Общата твърдост"
+       ],
+       "correct": 1,
+       "textEn": "What is the main criterion for the effectiveness of drinking water chlorination?",
+       "optionsEn": [
+        "Nitrate content",
+        "Free residual chlorine",
+        "Total hardness"
+       ]
+      },
+      {
+       "text": "От какво се състои хлорпотребността (работната доза)?",
+       "options": [
+        "Хлорпоглъщаемост + остатъчен хлор",
+        "Нитрати + нитрити",
+        "Хлориди + сулфати"
+       ],
+       "correct": 0,
+       "textEn": "What does the chlorine requirement (working dose) consist of?",
+       "optionsEn": [
+        "Chlorine absorption (demand) + residual chlorine",
+        "Nitrates + nitrites",
+        "Chlorides + sulphates"
+       ]
+      },
+      {
+       "text": "Какво показва наличието на остатъчен хлор във водопроводната мрежа?",
+       "options": [
+        "Само минерализацията на водата",
+        "Качеството на дезинфекцията, херметичността на мрежата и наличие на резерв за допълнително обеззаразяване",
+        "Само твърдостта на водата"
+       ],
+       "correct": 1,
+       "textEn": "What does the presence of residual chlorine in the water supply network show?",
+       "optionsEn": [
+        "Only the mineralization of the water",
+        "The quality of disinfection, the tightness of the network and a reserve for additional disinfection",
+        "Only the hardness of the water"
+       ]
+      }
+     ]
+    }
+   }
   }
  }
 }
