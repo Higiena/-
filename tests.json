@@ -9191,6 +9191,11 @@
      ]
     }
    }
+  },
+  "farmacia": {
+   "nameBg": "Фармация",
+   "nameEn": "Pharmacy",
+   "tests": {}
   }
  }
 }
