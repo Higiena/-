@@ -9189,6 +9189,353 @@
        ]
       }
      ]
+    },
+    "osvetenost": {
+     "id": "builtin_okoz1_osvetenost",
+     "titleBg": "Тест: Методи за измерване на осветеност на сгради",
+     "titleEn": "Test: Methods for Measuring Illuminance in Buildings",
+     "questions": [
+      {
+       "text": "В какви единици се измерва осветеността?",
+       "options": [
+        "cd/m²",
+        "lx",
+        "K",
+        "lm/W"
+       ],
+       "correct": 1,
+       "textEn": "In what units is illuminance measured?",
+       "optionsEn": [
+        "cd/m²",
+        "lx",
+        "K",
+        "lm/W"
+       ]
+      },
+      {
+       "text": "Яркостта се измерва в:",
+       "options": [
+        "lx",
+        "K",
+        "cd/m²",
+        "Ra"
+       ],
+       "correct": 2,
+       "textEn": "Luminance is measured in:",
+       "optionsEn": [
+        "lx",
+        "K",
+        "cd/m²",
+        "Ra"
+       ]
+      },
+      {
+       "text": "Цветната температура на светлината се изразява в:",
+       "options": [
+        "келвини",
+        "лукса",
+        "кандела",
+        "вата"
+       ],
+       "correct": 0,
+       "textEn": "The colour temperature of light is expressed in:",
+       "optionsEn": [
+        "kelvins",
+        "lux",
+        "candelas",
+        "watts"
+       ]
+      },
+      {
+       "text": "Индексът на цветопредаване се бележи със:",
+       "options": [
+        "UGR",
+        "CRI (Ra)",
+        "КЕО",
+        "Ēm"
+       ],
+       "correct": 1,
+       "textEn": "The colour rendering index is denoted by:",
+       "optionsEn": [
+        "UGR",
+        "CRI (Ra)",
+        "DF",
+        "Ēm"
+       ]
+      },
+      {
+       "text": "Кой от следните видове НЕ е изкуствено осветление?",
+       "options": [
+        "общо",
+        "локално (работно)",
+        "аварийно",
+        "естествено"
+       ],
+       "correct": 3,
+       "textEn": "Which of the following is NOT a type of artificial lighting?",
+       "optionsEn": [
+        "general",
+        "local (task)",
+        "emergency",
+        "natural"
+       ]
+      },
+      {
+       "text": "Естественото осветление на помещението зависи най-вече от:",
+       "options": [
+        "светлинния коефициент и ориентацията на сградата",
+        "мощността на лампите",
+        "цветната температура",
+        "индекса CRI"
+       ],
+       "correct": 0,
+       "textEn": "The natural lighting of a room depends mostly on:",
+       "optionsEn": [
+        "the light (window-to-floor) coefficient and the orientation of the building",
+        "the power of the lamps",
+        "the colour temperature",
+        "the CRI index"
+       ]
+      },
+      {
+       "text": "КЕО е:",
+       "options": [
+        "Eвън / Eвътр × 100 %",
+        "Eвътр / Eвън × 100 %",
+        "Eвътр × Eвън",
+        "Eвътр − Eвън"
+       ],
+       "correct": 1,
+       "textEn": "The daylight factor (DF) is:",
+       "optionsEn": [
+        "E_outside / E_inside × 100 %",
+        "E_inside / E_outside × 100 %",
+        "E_inside × E_outside",
+        "E_inside − E_outside"
+       ]
+      },
+      {
+       "text": "Осветеност на бюрото 90 lx при осветеност навън 6000 lx. Колко е КЕО?",
+       "options": [
+        "0,15 %",
+        "1,5 %",
+        "15 %",
+        "6,7 %"
+       ],
+       "correct": 1,
+       "textEn": "Illuminance on the desk is 90 lx while outdoor illuminance is 6000 lx. What is the daylight factor?",
+       "optionsEn": [
+        "0.15 %",
+        "1.5 %",
+        "15 %",
+        "6.7 %"
+       ]
+      },
+      {
+       "text": "КЕО се измерва при:",
+       "options": [
+        "пряко слънце върху фотоелемента",
+        "екраниране от преките слънчеви лъчи",
+        "пълна тъмнина",
+        "само през нощта"
+       ],
+       "correct": 1,
+       "textEn": "The daylight factor is measured with:",
+       "optionsEn": [
+        "direct sunlight on the photocell",
+        "shading from direct sunlight",
+        "complete darkness",
+        "only at night"
+       ]
+      },
+      {
+       "text": "Какъв е минималният КЕО за жилища (общо) по презентацията?",
+       "options": [
+        "≥ 0,5 %",
+        "≥ 5 %",
+        "≥ 10 %",
+        "0 %"
+       ],
+       "correct": 0,
+       "textEn": "What is the minimum daylight factor for dwellings (general) according to the presentation?",
+       "optionsEn": [
+        "≥ 0.5 %",
+        "≥ 5 %",
+        "≥ 10 %",
+        "0 %"
+       ]
+      },
+      {
+       "text": "Кое от следните НЕ влияе на естествената осветеност в стаята?",
+       "options": [
+        "изложението",
+        "разстоянието между сградите",
+        "цветът на стените",
+        "цветната температура на лампите"
+       ],
+       "correct": 3,
+       "textEn": "Which of the following does NOT affect natural illuminance in a room?",
+       "optionsEn": [
+        "the orientation",
+        "the distance between buildings",
+        "the colour of the walls",
+        "the colour temperature of the lamps"
+       ]
+      },
+      {
+       "text": "Луксметърът преобразува светлинната енергия в:",
+       "options": [
+        "звук",
+        "топлина",
+        "електричен потенциал",
+        "магнитно поле"
+       ],
+       "correct": 2,
+       "textEn": "A lux meter converts light energy into:",
+       "optionsEn": [
+        "sound",
+        "heat",
+        "electric potential",
+        "a magnetic field"
+       ]
+      },
+      {
+       "text": "Как се поставя фотоелементът на луксметъра?",
+       "options": [
+        "перпендикулярно на измерваната повърхност",
+        "успоредно на измерваната повърхност",
+        "насочен към лампата",
+        "винаги вертикално"
+       ],
+       "correct": 1,
+       "textEn": "How is the lux meter's photocell positioned?",
+       "optionsEn": [
+        "perpendicular to the measured surface",
+        "parallel to the measured surface",
+        "pointed at the lamp",
+        "always vertically"
+       ]
+      },
+      {
+       "text": "Измерването с луксметър започва с:",
+       "options": [
+        "най-малкия обхват",
+        "най-големия обхват, след което се превключва надолу",
+        "произволен обхват",
+        "калибриране с шумомер"
+       ],
+       "correct": 1,
+       "textEn": "Measurement with a lux meter starts with:",
+       "optionsEn": [
+        "the smallest range",
+        "the largest range, then switching down",
+        "any range",
+        "calibration with a sound level meter"
+       ]
+      },
+      {
+       "text": "Стая 20 m², норма 75 lx, K = 1,3, специфична осветеност 23. Колко е общата мощност (P = Eнорм·K·S / Eсп)?",
+       "options": [
+        "около 85 W",
+        "около 850 W",
+        "около 8,5 W",
+        "около 23 W"
+       ],
+       "correct": 0,
+       "textEn": "A 20 m² room, norm 75 lx, K = 1.3, specific illuminance 23. What is the total power (P = E_norm·K·S / E_sp)?",
+       "optionsEn": [
+        "about 85 W",
+        "about 850 W",
+        "about 8.5 W",
+        "about 23 W"
+       ]
+      },
+      {
+       "text": "Коефициентът на запас K при изчисляване на осветлението е обикновено:",
+       "options": [
+        "0,5–0,8",
+        "1,0",
+        "1,3–1,5",
+        "3–5"
+       ],
+       "correct": 2,
+       "textEn": "The maintenance (safety) factor K in lighting calculations is usually:",
+       "optionsEn": [
+        "0.5–0.8",
+        "1.0",
+        "1.3–1.5",
+        "3–5"
+       ]
+      },
+      {
+       "text": "Кое НЕ намалява осветеността с времето?",
+       "options": [
+        "замърсяване на осветителите",
+        "възраст на лампите (деградация)",
+        "почистване на прозорците",
+        "нова съседна сграда"
+       ],
+       "correct": 2,
+       "textEn": "What does NOT reduce illuminance over time?",
+       "optionsEn": [
+        "dirt on the luminaires",
+        "ageing of the lamps (degradation)",
+        "cleaning the windows",
+        "a new neighbouring building"
+       ]
+      },
+      {
+       "text": "Стробоскопичният ефект е опасен, защото:",
+       "options": [
+        "въртящ се детайл може да изглежда неподвижен",
+        "лампите се нагряват",
+        "светлината е твърде синя",
+        "намалява CRI"
+       ],
+       "correct": 0,
+       "textEn": "The stroboscopic effect is dangerous because:",
+       "optionsEn": [
+        "a rotating part may appear stationary",
+        "the lamps heat up",
+        "the light is too blue",
+        "it reduces the CRI"
+       ]
+      },
+      {
+       "text": "Профилактика на стробоскопичния ефект е:",
+       "options": [
+        "по-слаби лампи",
+        "LED с високочестотен драйвер или електронни баласти",
+        "само естествена светлина",
+        "по-голям КЕО"
+       ],
+       "correct": 1,
+       "textEn": "Prevention of the stroboscopic effect is:",
+       "optionsEn": [
+        "weaker lamps",
+        "LEDs with a high-frequency driver or electronic ballasts",
+        "natural light only",
+        "a higher daylight factor"
+       ]
+      },
+      {
+       "text": "За офис работа с екрани препоръчителният UGR е:",
+       "options": [
+        "≤ 19",
+        "≥ 30",
+        "≥ 25",
+        "няма значение"
+       ],
+       "correct": 0,
+       "textEn": "For office work with screens, the recommended UGR is:",
+       "optionsEn": [
+        "≤ 19",
+        "≥ 30",
+        "≥ 25",
+        "it does not matter"
+       ]
+      }
+     ]
     }
    }
   },
