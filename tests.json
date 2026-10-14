@@ -9502,6 +9502,313 @@
        ]
       }
      ]
+    },
+    "test2": {
+     "id": "builtin_farmacia_test2",
+     "titleBg": "Тест 2 – Хигиена на лечебните заведения",
+     "titleEn": "Test 2 – Hygiene of Healthcare Facilities",
+     "questions": [
+      {
+       "text": "Каква е основната задача на хигиената на лечебните заведения?",
+       "options": [
+        "Да изучава единствено храненето на пациентите",
+        "Да създава оптимални условия за диагностично-лечебния процес и безопасен труд",
+        "Да определя само лекарствената терапия"
+       ],
+       "correct": 1,
+       "textEn": "What is the main task of the hygiene of healthcare facilities?",
+       "optionsEn": [
+        "To study only the nutrition of patients",
+        "To create optimal conditions for the diagnostic and treatment process and for safe work",
+        "To determine only drug therapy"
+       ]
+      },
+      {
+       "text": "Кое от изброените е лечебно заведение за болнична помощ?",
+       "options": [
+        "Диагностично-консултативен център",
+        "Медико-диагностична лаборатория",
+        "Болница за активно лечение"
+       ],
+       "correct": 2,
+       "textEn": "Which of the following is a healthcare facility for inpatient (hospital) care?",
+       "optionsEn": [
+        "Diagnostic and consultative centre",
+        "Medical diagnostic laboratory",
+        "Hospital for active treatment"
+       ]
+      },
+      {
+       "text": "Къде е подходящо да се разполагат инфекциозните болници?",
+       "options": [
+        "В периферията на жилищната зона",
+        "В непосредствена близост до шумни улици",
+        "До промишлени предприятия"
+       ],
+       "correct": 0,
+       "textEn": "Where is it appropriate to locate infectious disease hospitals?",
+       "optionsEn": [
+        "On the periphery of the residential area",
+        "In the immediate vicinity of noisy streets",
+        "Next to industrial plants"
+       ]
+      },
+      {
+       "text": "Каква е основната функция на консултативно-диагностичния блок?",
+       "options": [
+        "Съхраняване и изгаряне на болнични отпадъци",
+        "Провеждане на консултации и диагностични изследвания",
+        "Изпиране на болнично бельо"
+       ],
+       "correct": 1,
+       "textEn": "What is the main function of the consultative-diagnostic unit?",
+       "optionsEn": [
+        "Storing and incinerating hospital waste",
+        "Carrying out consultations and diagnostic examinations",
+        "Washing hospital linen"
+       ]
+      },
+      {
+       "text": "Коя система на болнично строителство се характеризира с отделни специализирани сгради?",
+       "options": [
+        "Централизирана (корпусна)",
+        "Децентрализирана (павилионна)",
+        "Смесена (блокова)"
+       ],
+       "correct": 1,
+       "textEn": "Which hospital building system is characterized by separate specialized buildings?",
+       "optionsEn": [
+        "Centralized (block-type)",
+        "Decentralized (pavilion)",
+        "Mixed"
+       ]
+      },
+      {
+       "text": "Кое е предимство на централизираната система на болнично строителство?",
+       "options": [
+        "Изисква най-голям терен",
+        "Осигурява пълна изолация на всички отделения",
+        "Намалява необходимата площ и позволява общи инсталации"
+       ],
+       "correct": 2,
+       "textEn": "What is an advantage of the centralized hospital building system?",
+       "optionsEn": [
+        "It requires the largest site",
+        "It provides complete isolation of all wards",
+        "It reduces the required area and allows shared installations"
+       ]
+      },
+      {
+       "text": "Какъв е препоръчителният брой легла в едно болнично отделение?",
+       "options": [
+        "25–30 легла",
+        "5–10 легла",
+        "50–60 легла"
+       ],
+       "correct": 0,
+       "textEn": "What is the recommended number of beds in one hospital ward (department)?",
+       "optionsEn": [
+        "25–30 beds",
+        "5–10 beds",
+        "50–60 beds"
+       ]
+      },
+      {
+       "text": "Какъв е максималният брой легла, предвиден за една обикновена болнична стая?",
+       "options": [
+        "2 легла",
+        "4 легла",
+        "6 легла"
+       ],
+       "correct": 1,
+       "textEn": "What is the maximum number of beds provided for an ordinary hospital room?",
+       "optionsEn": [
+        "2 beds",
+        "4 beds",
+        "6 beds"
+       ]
+      },
+      {
+       "text": "Каква е минималната площ на болнична стая с едно легло?",
+       "options": [
+        "6,5 m²",
+        "9 m²",
+        "12 m²"
+       ],
+       "correct": 2,
+       "textEn": "What is the minimum area of a single-bed hospital room?",
+       "optionsEn": [
+        "6.5 m²",
+        "9 m²",
+        "12 m²"
+       ]
+      },
+      {
+       "text": "Какво разстояние трябва да има между две болнични легла?",
+       "options": [
+        "0,8 m",
+        "0,3 m",
+        "1,8 m"
+       ],
+       "correct": 0,
+       "textEn": "What distance should there be between two hospital beds?",
+       "optionsEn": [
+        "0.8 m",
+        "0.3 m",
+        "1.8 m"
+       ]
+      },
+      {
+       "text": "Коя е основната цел на вентилацията в болничната стая?",
+       "options": [
+        "Да поддържа постоянно висока влажност",
+        "Да осигурява необходимия въздухообмен и подходящо качество на въздуха",
+        "Да предотвратява всякакво движение на въздуха"
+       ],
+       "correct": 1,
+       "textEn": "What is the main purpose of ventilation in a hospital room?",
+       "optionsEn": [
+        "To maintain constantly high humidity",
+        "To provide the necessary air exchange and suitable air quality",
+        "To prevent any air movement"
+       ]
+      },
+      {
+       "text": "Каква е оптималната кратност на въздухообмена за един час?",
+       "options": [
+        "Един път",
+        "Два пъти",
+        "Три пъти"
+       ],
+       "correct": 2,
+       "textEn": "What is the optimal air exchange rate per hour?",
+       "optionsEn": [
+        "Once",
+        "Twice",
+        "Three times"
+       ]
+      },
+      {
+       "text": "Каква е нормата за относителна влажност за болничната стая?",
+       "options": [
+        "40–60%",
+        "20–30%",
+        "70–90%"
+       ],
+       "correct": 0,
+       "textEn": "What is the norm for relative humidity in a hospital room?",
+       "optionsEn": [
+        "40–60%",
+        "20–30%",
+        "70–90%"
+       ]
+      },
+      {
+       "text": "Каква е оптималната температура на въздуха за обикновена болнична стая?",
+       "options": [
+        "16–18°C",
+        "21–24°C",
+        "28–30°C"
+       ],
+       "correct": 1,
+       "textEn": "What is the optimal air temperature for an ordinary hospital room?",
+       "optionsEn": [
+        "16–18°C",
+        "21–24°C",
+        "28–30°C"
+       ]
+      },
+      {
+       "text": "Какъв е светлинният коефициент за болнична стая?",
+       "options": [
+        "1:10–1:12",
+        "1:2–1:3",
+        "1:4–1:5"
+       ],
+       "correct": 2,
+       "textEn": "What is the light coefficient (window-to-floor ratio) for a hospital room?",
+       "optionsEn": [
+        "1:10–1:12",
+        "1:2–1:3",
+        "1:4–1:5"
+       ]
+      },
+      {
+       "text": "Кое изискване се отнася до болничния хранителен офис?",
+       "options": [
+        "Трябва да бъде самостоятелен за всяко болнично отделение",
+        "Може да се използва без условия за хигиена на съдовете",
+        "Трябва да се разполага в помещение за инфекциозни отпадъци"
+       ],
+       "correct": 0,
+       "textEn": "Which requirement applies to the hospital food pantry (ward kitchen)?",
+       "optionsEn": [
+        "It must be separate for each hospital ward",
+        "It may be used without facilities for dish hygiene",
+        "It must be located in a room for infectious waste"
+       ]
+      },
+      {
+       "text": "Каква е минималната ширина на болничните коридори?",
+       "options": [
+        "1,2 m",
+        "2,4 m",
+        "3,5 m"
+       ],
+       "correct": 1,
+       "textEn": "What is the minimum width of hospital corridors?",
+       "optionsEn": [
+        "1.2 m",
+        "2.4 m",
+        "3.5 m"
+       ]
+      },
+      {
+       "text": "Кое е основно хигиенно изискване при организацията на болничната пералня?",
+       "options": [
+        "Смесване на чистото и замърсеното бельо",
+        "Съхраняване на цялото бельо в една обща зона",
+        "Функционално разделяне на чистата и замърсената зона"
+       ],
+       "correct": 2,
+       "textEn": "What is a main hygiene requirement in organizing the hospital laundry?",
+       "optionsEn": [
+        "Mixing clean and soiled linen",
+        "Storing all linen in one common area",
+        "Functional separation of the clean and the soiled zone"
+       ]
+      },
+      {
+       "text": "Кой поток включва отпадъци с висок епидемиологичен риск?",
+       "options": [
+        "Опасните в епидемиологично отношение отпадъци",
+        "Отпадъците за вторични суровини",
+        "Обикновените хранителни отпадъци"
+       ],
+       "correct": 0,
+       "textEn": "Which stream includes waste with a high epidemiological risk?",
+       "optionsEn": [
+        "Epidemiologically hazardous waste",
+        "Waste for recycling",
+        "Ordinary food waste"
+       ]
+      },
+      {
+       "text": "Какво е основното предназначение на болничния парк?",
+       "options": [
+        "Съхраняване на медицински изделия и лекарства",
+        "Осигуряване на условия за разходка, почивка и възстановяване на пациентите",
+        "Разполагане на шумни технически съоръжения"
+       ],
+       "correct": 1,
+       "textEn": "What is the main purpose of the hospital park (grounds)?",
+       "optionsEn": [
+        "Storing medical devices and medicines",
+        "Providing conditions for walks, rest and recovery of patients",
+        "Housing noisy technical equipment"
+       ]
+      }
+     ]
     }
    }
   }
