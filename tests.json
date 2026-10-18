@@ -9536,6 +9536,353 @@
        ]
       }
      ]
+    },
+    "preohlazhdasht": {
+     "id": "builtin_okoz1_preohlazhdasht",
+     "titleBg": "Тест: Преохлаждащ микроклимат",
+     "titleEn": "Test: Overcooling Microclimate",
+     "questions": [
+      {
+       "text": "Преохлаждащ микроклимат е такъв, при който:",
+       "options": [
+        "тялото произвежда повече топлина, отколкото губи",
+        "тялото губи повече топлина, отколкото произвежда",
+        "температурата на въздуха е точно 20 °C",
+        "влажността е под 10 %"
+       ],
+       "correct": 1,
+       "textEn": "An overcooling microclimate is one in which:",
+       "optionsEn": [
+        "the body produces more heat than it loses",
+        "the body loses more heat than it produces",
+        "the air temperature is exactly 20 °C",
+        "the humidity is below 10 %"
+       ]
+      },
+      {
+       "text": "Кой от следните фактори НЕ ускорява загубата на топлина?",
+       "options": [
+        "вятър",
+        "мокро облекло",
+        "студен метал при допир",
+        "сухо многослойно облекло"
+       ],
+       "correct": 3,
+       "textEn": "Which of the following factors does NOT accelerate heat loss?",
+       "optionsEn": [
+        "wind",
+        "wet clothing",
+        "touching cold metal",
+        "dry multi-layer clothing"
+       ]
+      },
+      {
+       "text": "Мокрото облекло отнема топлината около ... пъти по-бързо от въздуха:",
+       "options": [
+        "2",
+        "5",
+        "25",
+        "100"
+       ],
+       "correct": 2,
+       "textEn": "Wet clothing removes heat about ... times faster than air:",
+       "optionsEn": [
+        "2",
+        "5",
+        "25",
+        "100"
+       ]
+      },
+      {
+       "text": "Първата реакция на тялото при студ е:",
+       "options": [
+        "разширяване на съдовете в кожата",
+        "потене",
+        "забавяне на метаболизма",
+        "свиване на съдовете в кожата и крайниците"
+       ],
+       "correct": 3,
+       "textEn": "The body's first reaction to cold is:",
+       "optionsEn": [
+        "dilation of the blood vessels in the skin",
+        "sweating",
+        "slowing of metabolism",
+        "constriction of the blood vessels in the skin and limbs"
+       ]
+      },
+      {
+       "text": "Какво показва индексът IREQ?",
+       "options": [
+        "влажността на въздуха",
+        "необходимата изолация на облеклото",
+        "скоростта на вятъра",
+        "нивото на шум"
+       ],
+       "correct": 1,
+       "textEn": "What does the IREQ index show?",
+       "optionsEn": [
+        "the air humidity",
+        "the required clothing insulation",
+        "the wind speed",
+        "the noise level"
+       ]
+      },
+      {
+       "text": "Wind chill (индекс на охлаждане от вятъра) е:",
+       "options": [
+        "реалната температура на въздуха",
+        "усещането за температура на открита кожа при вятър",
+        "температурата на водата",
+        "температурата в помещението"
+       ],
+       "correct": 1,
+       "textEn": "Wind chill (wind chill index) is:",
+       "optionsEn": [
+        "the actual air temperature",
+        "the perceived temperature of exposed skin in wind",
+        "the water temperature",
+        "the indoor temperature"
+       ]
+      },
+      {
+       "text": "Колко е приблизително усещаната температура при 0 °C и вятър 30 km/h?",
+       "options": [
+        "около 0 °C",
+        "около −3 °C",
+        "около −6,5 °C",
+        "около −20 °C"
+       ],
+       "correct": 2,
+       "textEn": "What is the approximate perceived temperature at 0 °C and a wind of 30 km/h?",
+       "optionsEn": [
+        "about 0 °C",
+        "about −3 °C",
+        "about −6.5 °C",
+        "about −20 °C"
+       ]
+      },
+      {
+       "text": "Лека хипотермия съответства на телесна температура:",
+       "options": [
+        "под 28 °C",
+        "28–32 °C",
+        "32–35 °C",
+        "36–37 °C"
+       ],
+       "correct": 2,
+       "textEn": "Mild hypothermia corresponds to a body temperature of:",
+       "optionsEn": [
+        "below 28 °C",
+        "28–32 °C",
+        "32–35 °C",
+        "36–37 °C"
+       ]
+      },
+      {
+       "text": "Кой признак е характерен за средна хипотермия (28–32 °C)?",
+       "options": [
+        "спира треперенето, появява се сънливост и объркване",
+        "силно потене",
+        "ускорено дишане и треска",
+        "червена и гореща кожа"
+       ],
+       "correct": 0,
+       "textEn": "Which sign is typical of moderate hypothermia (28–32 °C)?",
+       "optionsEn": [
+        "shivering stops, drowsiness and confusion appear",
+        "heavy sweating",
+        "rapid breathing and fever",
+        "red and hot skin"
+       ]
+      },
+      {
+       "text": "Тежка хипотермия е при телесна температура:",
+       "options": [
+        "под 28 °C",
+        "32–35 °C",
+        "над 37 °C",
+        "около 36 °C"
+       ],
+       "correct": 0,
+       "textEn": "Severe hypothermia occurs at a body temperature of:",
+       "optionsEn": [
+        "below 28 °C",
+        "32–35 °C",
+        "above 37 °C",
+        "about 36 °C"
+       ]
+      },
+      {
+       "text": "Кои части на тялото измръзват най-лесно?",
+       "options": [
+        "гърбът и коремът",
+        "нос, уши, пръсти на ръцете и краката",
+        "коленете",
+        "раменете"
+       ],
+       "correct": 1,
+       "textEn": "Which parts of the body get frostbitten most easily?",
+       "optionsEn": [
+        "the back and abdomen",
+        "nose, ears, fingers and toes",
+        "the knees",
+        "the shoulders"
+       ]
+      },
+      {
+       "text": "Траншеен (потопен) крак се получава при:",
+       "options": [
+        "бързо замръзване при −30 °C",
+        "дълго стоене във влага при около 0–15 °C",
+        "работа в топла среда",
+        "контакт с електричество"
+       ],
+       "correct": 1,
+       "textEn": "Trench (immersion) foot develops from:",
+       "optionsEn": [
+        "rapid freezing at −30 °C",
+        "prolonged standing in wet conditions at about 0–15 °C",
+        "work in a warm environment",
+        "contact with electricity"
+       ]
+      },
+      {
+       "text": "Синдромът на Рейно се проявява с:",
+       "options": [
+        "пристъпи на побеляване и посиняване на пръстите при студ",
+        "високо кръвно налягане при жега",
+        "загуба на слуха",
+        "кожен обрив от слънцето"
+       ],
+       "correct": 0,
+       "textEn": "Raynaud's syndrome manifests as:",
+       "optionsEn": [
+        "attacks of whitening and bluish discoloration of the fingers in the cold",
+        "high blood pressure in the heat",
+        "hearing loss",
+        "a skin rash from the sun"
+       ]
+      },
+      {
+       "text": "Сръчността на ръцете започва да намалява, когато температурата на кожата на пръстите падне под около:",
+       "options": [
+        "30 °C",
+        "25 °C",
+        "15 °C",
+        "36 °C"
+       ],
+       "correct": 2,
+       "textEn": "Manual dexterity begins to decline when finger skin temperature drops below about:",
+       "optionsEn": [
+        "30 °C",
+        "25 °C",
+        "15 °C",
+        "36 °C"
+       ]
+      },
+      {
+       "text": "Допустимата температура на въздуха на закрито в студения период за тежка работа (РД-07-3/2014) е:",
+       "options": [
+        "18–25 °C",
+        "15–23 °C",
+        "13–19 °C",
+        "25–28 °C"
+       ],
+       "correct": 2,
+       "textEn": "The permissible indoor air temperature in the cold period for heavy work (RD-07-3/2014) is:",
+       "optionsEn": [
+        "18–25 °C",
+        "15–23 °C",
+        "13–19 °C",
+        "25–28 °C"
+       ]
+      },
+      {
+       "text": "Кой документ урежда физиологичните режими на труд и почивка при неблагоприятен микроклимат?",
+       "options": [
+        "Наредба № 15/1999",
+        "Наредба № 6/2006",
+        "ISO 7730",
+        "Директива 2002/49/ЕО"
+       ],
+       "correct": 0,
+       "textEn": "Which document regulates the physiological work–rest regimes in an unfavourable microclimate?",
+       "optionsEn": [
+        "Ordinance No. 15/1999",
+        "Ordinance No. 6/2006",
+        "ISO 7730",
+        "Directive 2002/49/EC"
+       ]
+      },
+      {
+       "text": "Кой материал НЕ е подходящ за бельо при работа на студено, защото се мокри и изстива?",
+       "options": [
+        "функционално синтетично бельо",
+        "вълна",
+        "памук",
+        "мериносова вълна"
+       ],
+       "correct": 2,
+       "textEn": "Which material is NOT suitable for underwear when working in the cold, because it gets wet and cools down?",
+       "optionsEn": [
+        "functional synthetic underwear",
+        "wool",
+        "cotton",
+        "merino wool"
+       ]
+      },
+      {
+       "text": "Принципът „три слоя\" включва:",
+       "options": [
+        "само един дебел пуловер",
+        "бельо, топла прослойка, ветроустойчив външен слой",
+        "само непромокаем плащ",
+        "три чифта чорапи"
+       ],
+       "correct": 1,
+       "textEn": "The \"three layers\" principle includes:",
+       "optionsEn": [
+        "only one thick sweater",
+        "underwear, a warm middle layer, a windproof outer layer",
+        "only a waterproof cloak",
+        "three pairs of socks"
+       ]
+      },
+      {
+       "text": "Кое НЕ се прави при хипотермия?",
+       "options": [
+        "извеждане на закрито",
+        "сухи дрехи и одеяла",
+        "даване на алкохол",
+        "повикване на 112"
+       ],
+       "correct": 2,
+       "textEn": "What should NOT be done in hypothermia?",
+       "optionsEn": [
+        "bringing the person indoors",
+        "dry clothes and blankets",
+        "giving alcohol",
+        "calling 112"
+       ]
+      },
+      {
+       "text": "Как се затопля измръзнало място (първа помощ)?",
+       "options": [
+        "с открит огън",
+        "с триене със сняг",
+        "с топла вода (37–39 °C)",
+        "с много гореща вода (над 60 °C)"
+       ],
+       "correct": 2,
+       "textEn": "How is a frostbitten area warmed (first aid)?",
+       "optionsEn": [
+        "with an open fire",
+        "by rubbing with snow",
+        "with warm water (37–39 °C)",
+        "with very hot water (above 60 °C)"
+       ]
+      }
+     ]
     }
    }
   },
