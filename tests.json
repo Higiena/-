@@ -9883,6 +9883,353 @@
        ]
       }
      ]
+    },
+    "fiziologichni": {
+     "id": "builtin_okoz1_fiziologichni",
+     "titleBg": "Тест: Физиологични режими на труд и почивка и методи за оценка на работоспособността",
+     "titleEn": "Test: Physiological Work–Rest Regimes and Methods for Assessing Work Capacity",
+     "questions": [
+      {
+       "text": "Стойност на индекса на физиологично натоварване (ИФН) над ... показва прекомерно натоварване:",
+       "options": [
+        "0,5",
+        "1,2",
+        "0,8",
+        "2,0"
+       ],
+       "correct": 1,
+       "textEn": "A physiological strain index (PSI) value above ... indicates excessive strain:",
+       "optionsEn": [
+        "0.5",
+        "1.2",
+        "0.8",
+        "2.0"
+       ]
+      },
+      {
+       "text": "Какво показват покачването на пулса и спадането на мускулната сила и издръжливост към края на смяната?",
+       "options": [
+        "нарастваща работоспособност",
+        "пълна адаптация към шума",
+        "липса на промени",
+        "настъпваща умора"
+       ],
+       "correct": 3,
+       "textEn": "What do a rising pulse and declining muscle strength and endurance towards the end of the shift indicate?",
+       "optionsEn": [
+        "increasing work capacity",
+        "full adaptation to noise",
+        "no changes",
+        "onset of fatigue"
+       ]
+      },
+      {
+       "text": "Най-подходяща за проследяване в реални условия на труд е:",
+       "options": [
+        "лабораторният стенд",
+        "само анкетната карта",
+        "телеметричната апаратура",
+        "рентгеновото изследване"
+       ],
+       "correct": 2,
+       "textEn": "Most suitable for monitoring under real working conditions is:",
+       "optionsEn": [
+        "a laboratory test bench",
+        "a questionnaire only",
+        "telemetric equipment",
+        "an X-ray examination"
+       ]
+      },
+      {
+       "text": "Изследването на физиологичното натоварване се провежда:",
+       "options": [
+        "без откъсване на лицето от трудовия процес",
+        "само след края на смяната",
+        "само в почивните дни",
+        "само в лаборатория"
+       ],
+       "correct": 0,
+       "textEn": "The study of physiological strain is carried out:",
+       "optionsEn": [
+        "without removing the person from the work process",
+        "only after the end of the shift",
+        "only on days off",
+        "only in a laboratory"
+       ]
+      },
+      {
+       "text": "FEV1 при спирометрията е:",
+       "options": [
+        "витален капацитет",
+        "минутен обем на дишане",
+        "дихателен коефициент",
+        "форсиран експираторен обем"
+       ],
+       "correct": 3,
+       "textEn": "FEV1 in spirometry is:",
+       "optionsEn": [
+        "vital capacity",
+        "minute ventilation",
+        "respiratory quotient",
+        "forced expiratory volume"
+       ]
+      },
+      {
+       "text": "Работният пулс се отчита в динамика на всеки:",
+       "options": [
+        "15 min",
+        "2 h",
+        "8 h",
+        "24 h"
+       ],
+       "correct": 1,
+       "textEn": "The working pulse is recorded dynamically every:",
+       "optionsEn": [
+        "15 min",
+        "2 h",
+        "8 h",
+        "24 h"
+       ]
+      },
+      {
+       "text": "Методът на Бруха оценява:",
+       "options": [
+        "възстановяването на пулсовата честота след прекратяване на натоварването",
+        "зрителната острота",
+        "силата на мускулите на ръката",
+        "времето на реакция"
+       ],
+       "correct": 0,
+       "textEn": "Brouha's method assesses:",
+       "optionsEn": [
+        "the recovery of heart rate after the load stops",
+        "visual acuity",
+        "hand muscle strength",
+        "reaction time"
+       ]
+      },
+      {
+       "text": "ЕКГ и HRV регистрират електрическата активност на сърцето и:",
+       "options": [
+        "телесната температура",
+        "мускулната издръжливост",
+        "симпатиково-парасимпатиковия баланс",
+        "нивото на шума"
+       ],
+       "correct": 2,
+       "textEn": "ECG and HRV record the electrical activity of the heart and:",
+       "optionsEn": [
+        "body temperature",
+        "muscle endurance",
+        "the sympathetic–parasympathetic balance",
+        "the noise level"
+       ]
+      },
+      {
+       "text": "При ортостатичната проба пулсът и кръвното налягане се отчитат:",
+       "options": [
+        "след 30 min почивка",
+        "само в легнало положение",
+        "в първите 10 s след изправянето",
+        "след 1 h седене"
+       ],
+       "correct": 2,
+       "textEn": "In the orthostatic test, pulse and blood pressure are recorded:",
+       "optionsEn": [
+        "after 30 min of rest",
+        "only lying down",
+        "in the first 10 s after standing up",
+        "after 1 h of sitting"
+       ]
+      },
+      {
+       "text": "Най-благоприятна реакция по Кремптон (оценка 100) е учестяване на пулса до ... и покачване на налягането до 1,33 kPa:",
+       "options": [
+        "≤ 4 уд/min",
+        "≤ 14 уд/min",
+        "≤ 24 уд/min",
+        "≤ 34 уд/min"
+       ],
+       "correct": 0,
+       "textEn": "The most favourable Crampton reaction (score 100) is a pulse increase of up to ... and a pressure rise of up to 1.33 kPa:",
+       "optionsEn": [
+        "≤ 4 beats/min",
+        "≤ 14 beats/min",
+        "≤ 24 beats/min",
+        "≤ 34 beats/min"
+       ]
+      },
+      {
+       "text": "Тремометрията изследва:",
+       "options": [
+        "дихателния обем",
+        "зрително-моторната координация и точността на движенията",
+        "кръвното налягане",
+        "слуховия праг"
+       ],
+       "correct": 1,
+       "textEn": "Tremometry examines:",
+       "optionsEn": [
+        "tidal volume",
+        "visual-motor coordination and accuracy of movements",
+        "blood pressure",
+        "the hearing threshold"
+       ]
+      },
+      {
+       "text": "При настъпване на умора времето на проста сензомоторна реакция:",
+       "options": [
+        "се скъсява",
+        "не се променя",
+        "става нула",
+        "се удължава"
+       ],
+       "correct": 3,
+       "textEn": "With the onset of fatigue, simple sensorimotor reaction time:",
+       "optionsEn": [
+        "shortens",
+        "does not change",
+        "becomes zero",
+        "lengthens"
+       ]
+      },
+      {
+       "text": "Коректурните тестове на Бурдон и Анфимов се прилагат за изследване на:",
+       "options": [
+        "концентрацията на вниманието",
+        "мускулната сила",
+        "дихателния капацитет",
+        "зрителната острота"
+       ],
+       "correct": 0,
+       "textEn": "The Bourdon and Anfimov proofreading tests are used to examine:",
+       "optionsEn": [
+        "concentration of attention",
+        "muscle strength",
+        "respiratory capacity",
+        "visual acuity"
+       ]
+      },
+      {
+       "text": "Таблицата на Шулце–Платонов съдържа:",
+       "options": [
+        "25 квадрата само с букви",
+        "100 кръга",
+        "49 квадрата с черни и червени цифри",
+        "10 светлинни сигнала"
+       ],
+       "correct": 2,
+       "textEn": "The Schulte–Platonov table contains:",
+       "optionsEn": [
+        "25 squares with letters only",
+        "100 circles",
+        "49 squares with black and red numbers",
+        "10 light signals"
+       ]
+      },
+      {
+       "text": "Формулата на Хартридж изчислява:",
+       "options": [
+        "пулсовия индекс",
+        "коефициента на точност",
+        "индекса на Кремптон",
+        "скоростта на преработената информация (bit/s)"
+       ],
+       "correct": 3,
+       "textEn": "Hartridge's formula calculates:",
+       "optionsEn": [
+        "the pulse index",
+        "the accuracy coefficient",
+        "the Crampton index",
+        "the speed of processed information (bit/s)"
+       ]
+      },
+      {
+       "text": "При умора устойчивостта на ясно виждане (УЯВ) спада под:",
+       "options": [
+        "90–100%",
+        "60–70%",
+        "80–90%",
+        "нула процента"
+       ],
+       "correct": 1,
+       "textEn": "With fatigue, the stability of clear vision drops below:",
+       "optionsEn": [
+        "90–100%",
+        "60–70%",
+        "80–90%",
+        "zero percent"
+       ]
+      },
+      {
+       "text": "Зрителната острота 1,0 съответства на:",
+       "options": [
+        "тежко увреждане на зрението",
+        "пълна слепота",
+        "цветна слепота",
+        "нормално зрение"
+       ],
+       "correct": 3,
+       "textEn": "Visual acuity of 1.0 corresponds to:",
+       "optionsEn": [
+        "severe visual impairment",
+        "complete blindness",
+        "colour blindness",
+        "normal vision"
+       ]
+      },
+      {
+       "text": "Скалата на Борг е диапазон на субективна оценка на възприетото усилие:",
+       "options": [
+        "0–5",
+        "6–20",
+        "1–100",
+        "30–60"
+       ],
+       "correct": 1,
+       "textEn": "The Borg scale is a range for subjective rating of perceived exertion:",
+       "optionsEn": [
+        "0–5",
+        "6–20",
+        "1–100",
+        "30–60"
+       ]
+      },
+      {
+       "text": "Категория „особено неблагоприятни\" условия на труд е категория:",
+       "options": [
+        "2",
+        "0",
+        "3",
+        "4"
+       ],
+       "correct": 0,
+       "textEn": "The \"particularly unfavourable\" working conditions category is category:",
+       "optionsEn": [
+        "2",
+        "0",
+        "3",
+        "4"
+       ]
+      },
+      {
+       "text": "Най-висока степен на монотонност отговаря на операции с продължителност:",
+       "options": [
+        "над 60 s",
+        "около 5 min",
+        "под 15 s",
+        "над 1 h"
+       ],
+       "correct": 2,
+       "textEn": "The highest degree of monotony corresponds to operations lasting:",
+       "optionsEn": [
+        "over 60 s",
+        "about 5 min",
+        "under 15 s",
+        "over 1 h"
+       ]
+      }
+     ]
     }
    }
   },
