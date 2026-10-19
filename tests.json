@@ -10505,6 +10505,2788 @@
      ]
     }
    }
+  },
+  "okoz2vks": {
+   "nameBg": "ОКОЗ – 2 курс ВКС",
+   "nameEn": "OKOZ – Year 2 (VKS)",
+   "tests": {
+    "u1": {
+     "id": "builtin_okoz2vks_u1",
+     "titleBg": "Тест: ПУП-ПРЗ — план за регулация и застрояване",
+     "titleEn": "Test: Detailed Development Plan (PUP-PRZ) — Regulation and Development Plan",
+     "questions": [
+      {
+       "text": "ПРЗ означава:",
+       "options": [
+        "план за регулация и застрояване",
+        "проект за ремонт и застрояване",
+        "план за разпределение на земя",
+        "програма за развитие на зоните"
+       ],
+       "correct": 0,
+       "textEn": "PRZ stands for:",
+       "optionsEn": [
+        "regulation and development plan",
+        "repair and development project",
+        "land distribution plan",
+        "zone development programme"
+       ]
+      },
+      {
+       "text": "Обемът и съдържанието на плана се определят с:",
+       "options": [
+        "Закона за водите",
+        "Закона за културното наследство",
+        "Наредба № 8 към ЗУТ",
+        "Наредба за шума"
+       ],
+       "correct": 2,
+       "textEn": "The scope and content of the plan are defined by:",
+       "optionsEn": [
+        "the Water Act",
+        "the Cultural Heritage Act",
+        "Ordinance No. 8 to the Spatial Development Act (ZUT)",
+        "the Noise Ordinance"
+       ]
+      },
+      {
+       "text": "Улично регулационната линия отделя:",
+       "options": [
+        "съседните УПИ",
+        "улицата от квартала",
+        "сградата от оградата",
+        "тротоара от платното"
+       ],
+       "correct": 1,
+       "textEn": "The street regulation line separates:",
+       "optionsEn": [
+        "neighbouring plots (UPI)",
+        "the street from the block",
+        "the building from the fence",
+        "the pavement from the carriageway"
+       ]
+      },
+      {
+       "text": "Дворищно регулационните линии (сините на плана) са границите между:",
+       "options": [
+        "улица и тротоар",
+        "сграда и двор",
+        "квартал и булевард",
+        "съседните УПИ"
+       ],
+       "correct": 3,
+       "textEn": "The plot (yard) regulation lines (blue on the plan) are the boundaries between:",
+       "optionsEn": [
+        "street and pavement",
+        "building and yard",
+        "block and boulevard",
+        "neighbouring plots (UPI)"
+       ]
+      },
+      {
+       "text": "УПИ е:",
+       "options": [
+        "устройствена промишлена инсталация",
+        "улично планиран изход",
+        "урегулиран поземлен имот",
+        "усвоена площ на имота"
+       ],
+       "correct": 2,
+       "textEn": "UPI is:",
+       "optionsEn": [
+        "a development industrial installation",
+        "a street-planned exit",
+        "a regulated land plot",
+        "the used area of the property"
+       ]
+      },
+      {
+       "text": "Ограничителната линия на застрояване показва:",
+       "options": [
+        "докъде най-много може да се доближи сградата",
+        "че сградата трябва да е точно по линията",
+        "границата на улицата",
+        "оста на уличното платно"
+       ],
+       "correct": 0,
+       "textEn": "The limiting building line shows:",
+       "optionsEn": [
+        "how close the building may come at most",
+        "that the building must be exactly on the line",
+        "the boundary of the street",
+        "the axis of the carriageway"
+       ]
+      },
+      {
+       "text": "Задължителната линия на застрояване означава, че сградата:",
+       "options": [
+        "може да е където и да е в имота",
+        "трябва да е най-малко на 10 m от нея",
+        "не се изобразява на плана",
+        "трябва да е точно по линията"
+       ],
+       "correct": 3,
+       "textEn": "The mandatory building line means that the building:",
+       "optionsEn": [
+        "may be anywhere on the plot",
+        "must be at least 10 m from it",
+        "is not shown on the plan",
+        "must be exactly on the line"
+       ]
+      },
+      {
+       "text": "Сключено застрояване е такова, при което:",
+       "options": [
+        "сградата стои отделно от всички страни",
+        "две съседни сгради се допират по обща граница",
+        "сградата е долепена до улицата",
+        "сградите са в редица от повече от две"
+       ],
+       "correct": 1,
+       "textEn": "Joined (semi-detached) development is when:",
+       "optionsEn": [
+        "the building stands apart on all sides",
+        "two neighbouring buildings touch along a common boundary",
+        "the building is attached to the street",
+        "the buildings form a row of more than two"
+       ]
+      },
+      {
+       "text": "На плана сключено застрояване (двойки сгради) има в:",
+       "options": [
+        "УПИ IX до XVIII в кв. 2",
+        "УПИ I до VIII в кв. 2",
+        "всички УПИ в кв. 1",
+        "само в УПИ XII"
+       ],
+       "correct": 1,
+       "textEn": "On the plan, joined development (pairs of buildings) is found in:",
+       "optionsEn": [
+        "UPI IX to XVIII in block 2",
+        "UPI I to VIII in block 2",
+        "all UPI in block 1",
+        "only in UPI XII"
+       ]
+      },
+      {
+       "text": "Паметници на културата на плана са:",
+       "options": [
+        "УПИ I, II и III в кв. 1",
+        "УПИ IX, X и XI в кв. 2",
+        "УПИ VI в кв. 1",
+        "УПИ XII, XV и XVIII в кв. 2"
+       ],
+       "correct": 3,
+       "textEn": "The cultural monuments on the plan are:",
+       "optionsEn": [
+        "UPI I, II and III in block 1",
+        "UPI IX, X and XI in block 2",
+        "UPI VI in block 1",
+        "UPI XII, XV and XVIII in block 2"
+       ]
+      },
+      {
+       "text": "Булевардът вдясно на плана е улица:",
+       "options": [
+        "IV клас",
+        "V клас",
+        "I клас",
+        "е пешеходна зона"
+       ],
+       "correct": 0,
+       "textEn": "The boulevard on the right of the plan is a street of:",
+       "optionsEn": [
+        "class IV",
+        "class V",
+        "class I",
+        "it is a pedestrian zone"
+       ]
+      },
+      {
+       "text": "Плътността на застрояване (Пзастр) се смята по формулата:",
+       "options": [
+        "РЗП : Пуп",
+        "Пуп : ЗП",
+        "ЗП : Пуп × 100 %",
+        "ЗП × Пуп"
+       ],
+       "correct": 2,
+       "textEn": "Building density (P_zastr) is calculated by the formula:",
+       "optionsEn": [
+        "GFA : plot area",
+        "plot area : BA",
+        "BA : plot area × 100 %",
+        "BA × plot area"
+       ]
+      },
+      {
+       "text": "Кинт (коефициент на интензивност) е равен на:",
+       "options": [
+        "ЗП : РЗП",
+        "площта на УПИ : РЗП",
+        "озеленената площ : ЗП",
+        "РЗП : площта на УПИ"
+       ],
+       "correct": 3,
+       "textEn": "K_int (intensity coefficient) equals:",
+       "optionsEn": [
+        "BA : GFA",
+        "plot (UPI) area : GFA",
+        "green area : BA",
+        "GFA : plot (UPI) area"
+       ]
+      },
+      {
+       "text": "При УПИ 800 m² и застроена площ 400 m² плътността на застрояване е:",
+       "options": [
+        "40 %",
+        "50 %",
+        "60 %",
+        "80 %"
+       ],
+       "correct": 1,
+       "textEn": "With a plot of 800 m² and a built-up area of 400 m², the building density is:",
+       "optionsEn": [
+        "40 %",
+        "50 %",
+        "60 %",
+        "80 %"
+       ]
+      },
+      {
+       "text": "При РЗП 800 m² и УПИ 800 m² Кинт е:",
+       "options": [
+        "0,5",
+        "1,5",
+        "1,0",
+        "2,0"
+       ],
+       "correct": 2,
+       "textEn": "With a GFA of 800 m² and a plot of 800 m², K_int is:",
+       "optionsEn": [
+        "0.5",
+        "1.5",
+        "1.0",
+        "2.0"
+       ]
+      },
+      {
+       "text": "РЗП (разгърната застроена площ) е:",
+       "options": [
+        "сборът от площите на всички етажи",
+        "площта на един етаж",
+        "площта на двора",
+        "площта на тротоара"
+       ],
+       "correct": 0,
+       "textEn": "GFA (gross floor area, RZP) is:",
+       "optionsEn": [
+        "the sum of the areas of all floors",
+        "the area of one floor",
+        "the area of the yard",
+        "the area of the pavement"
+       ]
+      },
+      {
+       "text": "Розата на ветровете показва:",
+       "options": [
+        "колко слънце получава сградата",
+        "колко шум има от булеварда",
+        "откъде духа най-често",
+        "колко е дълбока почвата"
+       ],
+       "correct": 2,
+       "textEn": "The wind rose shows:",
+       "optionsEn": [
+        "how much sun the building receives",
+        "how much noise comes from the boulevard",
+        "where the wind blows from most often",
+        "how deep the soil is"
+       ]
+      },
+      {
+       "text": "Източниците на миризми и прах се поставят:",
+       "options": [
+        "от подветрената страна на жилищата",
+        "от наветрената страна на жилищата",
+        "непосредствено до прозорците",
+        "между жилищата и парка"
+       ],
+       "correct": 0,
+       "textEn": "Sources of odours and dust are placed:",
+       "optionsEn": [
+        "on the leeward side of the dwellings",
+        "on the windward side of the dwellings",
+        "right next to the windows",
+        "between the dwellings and the park"
+       ]
+      },
+      {
+       "text": "Тротоарите на плана са в цвят:",
+       "options": [
+        "зелен",
+        "син",
+        "оранжев",
+        "жълт"
+       ],
+       "correct": 3,
+       "textEn": "The pavements on the plan are coloured:",
+       "optionsEn": [
+        "green",
+        "blue",
+        "orange",
+        "yellow"
+       ]
+      },
+      {
+       "text": "Устройствена зона Жм в примера е:",
+       "options": [
+        "многоетажно жилищно застрояване",
+        "малоетажно жилищно застрояване",
+        "производствена зона",
+        "рекреационна зона"
+       ],
+       "correct": 1,
+       "textEn": "Development zone Zhm in the example is:",
+       "optionsEn": [
+        "multi-storey residential development",
+        "low-rise residential development",
+        "industrial zone",
+        "recreational zone"
+       ]
+      }
+     ]
+    },
+    "u2": {
+     "id": "builtin_okoz2vks_u2",
+     "titleBg": "Тест: Упражнение № 2 — разчитане на стени",
+     "titleEn": "Test: Exercise No. 2 — Reading Walls",
+     "questions": [
+      {
+       "text": "Керамична стена 25 cm в упражнението е:",
+       "options": [
+        "само преградна стена",
+        "носеща зидария — основните стени",
+        "стена от естествен камък",
+        "стоманобетонна шайба"
+       ],
+       "correct": 1,
+       "textEn": "A 25 cm ceramic (brick) wall in the exercise is:",
+       "optionsEn": [
+        "only a partition wall",
+        "load-bearing masonry — the main walls",
+        "a natural stone wall",
+        "a reinforced concrete shear wall"
+       ]
+      },
+      {
+       "text": "Керамична стена 12 cm е:",
+       "options": [
+        "основната носеща стена",
+        "стена от бетон",
+        "колона",
+        "преградна — разделя помещенията"
+       ],
+       "correct": 3,
+       "textEn": "A 12 cm ceramic (brick) wall is:",
+       "optionsEn": [
+        "the main load-bearing wall",
+        "a concrete wall",
+        "a column",
+        "a partition — it divides the rooms"
+       ]
+      },
+      {
+       "text": "Стените от естествен камък в заданието са в цвят:",
+       "options": [
+        "жълт",
+        "тъмносив",
+        "сив",
+        "зелен"
+       ],
+       "correct": 2,
+       "textEn": "The natural stone walls in the assignment are coloured:",
+       "optionsEn": [
+        "yellow",
+        "dark grey",
+        "grey",
+        "green"
+       ]
+      },
+      {
+       "text": "Стоманобетонната шайба в заданието е в цвят:",
+       "options": [
+        "тъмносив",
+        "жълт",
+        "светлосив",
+        "червен"
+       ],
+       "correct": 0,
+       "textEn": "The reinforced concrete shear wall in the assignment is coloured:",
+       "optionsEn": [
+        "dark grey",
+        "yellow",
+        "light grey",
+        "red"
+       ]
+      },
+      {
+       "text": "Керамичните стени в заданието се оцветяват:",
+       "options": [
+        "в сиво",
+        "в синьо",
+        "в кафяво",
+        "в жълто"
+       ],
+       "correct": 3,
+       "textEn": "The ceramic (brick) walls in the assignment are coloured:",
+       "optionsEn": [
+        "grey",
+        "blue",
+        "brown",
+        "yellow"
+       ]
+      },
+      {
+       "text": "На плана стените се виждат „в разрез\" на около:",
+       "options": [
+        "при самия под",
+        "един метър над пода",
+        "при тавана",
+        "на покрива"
+       ],
+       "correct": 1,
+       "textEn": "On the plan, the walls are shown \"in section\" at about:",
+       "optionsEn": [
+        "floor level",
+        "one metre above the floor",
+        "ceiling level",
+        "roof level"
+       ]
+      },
+      {
+       "text": "Зидарски отвор е:",
+       "options": [
+        "отвор в стена за врата или прозорец",
+        "изкоп за основи",
+        "отвор в покрива",
+        "процеп между две сгради"
+       ],
+       "correct": 0,
+       "textEn": "A masonry opening is:",
+       "optionsEn": [
+        "an opening in a wall for a door or window",
+        "an excavation for foundations",
+        "an opening in the roof",
+        "a gap between two buildings"
+       ]
+      },
+      {
+       "text": "Вратата на плана се чертае с:",
+       "options": [
+        "три тънки линии",
+        "плътен квадрат",
+        "дъга на отваряне",
+        "диагонален кръст"
+       ],
+       "correct": 2,
+       "textEn": "On the plan, a door is drawn with:",
+       "optionsEn": [
+        "three thin lines",
+        "a solid square",
+        "an opening arc",
+        "a diagonal cross"
+       ]
+      },
+      {
+       "text": "Светъл размер е:",
+       "options": [
+        "външният размер на сградата",
+        "дебелината на стената",
+        "вътрешният размер на помещението между стените",
+        "височината на етажа"
+       ],
+       "correct": 2,
+       "textEn": "The clear (internal) dimension is:",
+       "optionsEn": [
+        "the external dimension of the building",
+        "the thickness of the wall",
+        "the internal dimension of the room between the walls",
+        "the storey height"
+       ]
+      },
+      {
+       "text": "При външен размер 760 cm и две външни стени по 25 cm светлият размер е:",
+       "options": [
+        "710 cm",
+        "735 cm",
+        "760 cm",
+        "685 cm"
+       ],
+       "correct": 0,
+       "textEn": "With an external dimension of 760 cm and two external walls of 25 cm each, the clear dimension is:",
+       "optionsEn": [
+        "710 cm",
+        "735 cm",
+        "760 cm",
+        "685 cm"
+       ]
+      },
+      {
+       "text": "Коминът на плана се означава с:",
+       "options": [
+        "плътен тъмен квадрат",
+        "квадрат с диагонали",
+        "дъга",
+        "три тънки линии"
+       ],
+       "correct": 1,
+       "textEn": "On the plan, a chimney is shown as:",
+       "optionsEn": [
+        "a solid dark square",
+        "a square with diagonals",
+        "an arc",
+        "three thin lines"
+       ]
+      },
+      {
+       "text": "Колоните на плана са:",
+       "options": [
+        "квадрати с диагонали",
+        "дъги",
+        "щриховани ивици",
+        "плътни тъмни квадрати или правоъгълници"
+       ],
+       "correct": 3,
+       "textEn": "On the plan, columns are:",
+       "optionsEn": [
+        "squares with diagonals",
+        "arcs",
+        "hatched strips",
+        "solid dark squares or rectangles"
+       ]
+      },
+      {
+       "text": "Скелетът на сградата се състои от:",
+       "options": [
+        "колони, греди и плочи",
+        "само тухлени стени",
+        "само покрив",
+        "само основи"
+       ],
+       "correct": 0,
+       "textEn": "The structural frame of the building consists of:",
+       "optionsEn": [
+        "columns, beams and slabs",
+        "brick walls only",
+        "the roof only",
+        "the foundations only"
+       ]
+      },
+      {
+       "text": "Мащаб 1:50 означава, че:",
+       "options": [
+        "1 cm на чертежа е 5 cm в сградата",
+        "1 cm на чертежа е 50 m в сградата",
+        "1 cm на чертежа е 50 cm в сградата",
+        "1 m на чертежа е 5 m в сградата"
+       ],
+       "correct": 2,
+       "textEn": "Scale 1:50 means that:",
+       "optionsEn": [
+        "1 cm on the drawing is 5 cm in the building",
+        "1 cm on the drawing is 50 m in the building",
+        "1 cm on the drawing is 50 cm in the building",
+        "1 m on the drawing is 5 m in the building"
+       ]
+      },
+      {
+       "text": "Бетонните стени най-често се срещат в:",
+       "options": [
+        "покрива",
+        "терасата",
+        "двора",
+        "сутерена"
+       ],
+       "correct": 3,
+       "textEn": "Concrete walls are most often found in:",
+       "optionsEn": [
+        "the roof",
+        "the terrace",
+        "the yard",
+        "the basement"
+       ]
+      },
+      {
+       "text": "С колко чертежа работим в упражнението?",
+       "options": [
+        "1 — само първи етаж",
+        "3 — първи етаж, втори етаж и сутерен",
+        "2 — първи и втори етаж",
+        "5 — с покрива и разреза"
+       ],
+       "correct": 1,
+       "textEn": "How many drawings do we work with in the exercise?",
+       "optionsEn": [
+        "1 — ground floor only",
+        "3 — ground floor, first floor and basement",
+        "2 — ground and first floor",
+        "5 — with the roof and the section"
+       ]
+      },
+      {
+       "text": "Условните означения и общите изисквания са в:",
+       "options": [
+        "Наредба за шума",
+        "Закона за водите",
+        "Закона за храните",
+        "Наредба № 7 към ЗУТ"
+       ],
+       "correct": 3,
+       "textEn": "The conventional symbols and general requirements are in:",
+       "optionsEn": [
+        "the Noise Ordinance",
+        "the Water Act",
+        "the Food Act",
+        "Ordinance No. 7 to the Spatial Development Act (ZUT)"
+       ]
+      },
+      {
+       "text": "Прозорецът на плана се чертае с:",
+       "options": [
+        "дъга на отваряне",
+        "три тънки линии — стена, стъкло, стена",
+        "плътен квадрат",
+        "диагонален кръст"
+       ],
+       "correct": 1,
+       "textEn": "On the plan, a window is drawn with:",
+       "optionsEn": [
+        "an opening arc",
+        "three thin lines — wall, glass, wall",
+        "a solid square",
+        "a diagonal cross"
+       ]
+      },
+      {
+       "text": "Кое НЕ се определя от стените според презентацията?",
+       "options": [
+        "цената на дограмата",
+        "топлинният комфорт",
+        "влажността",
+        "шумът"
+       ],
+       "correct": 0,
+       "textEn": "According to the presentation, which is NOT determined by the walls?",
+       "optionsEn": [
+        "the price of the windows and doors",
+        "thermal comfort",
+        "humidity",
+        "noise"
+       ]
+      },
+      {
+       "text": "Вентилационният канал е:",
+       "options": [
+        "отвор в покрива",
+        "тръба за вода",
+        "кухина в стената за въздух",
+        "колона"
+       ],
+       "correct": 2,
+       "textEn": "A ventilation duct is:",
+       "optionsEn": [
+        "an opening in the roof",
+        "a water pipe",
+        "a cavity in the wall for air",
+        "a column"
+       ]
+      }
+     ]
+    },
+    "u3": {
+     "id": "builtin_okoz2vks_u3",
+     "titleBg": "Тест: Упражнение № 3 — стълби",
+     "titleEn": "Test: Exercise No. 3 — Stairs",
+     "questions": [
+      {
+       "text": "Степенка е:",
+       "options": [
+        "вертикалната част на стъпалото",
+        "парапетът",
+        "хоризонталната част на стъпалото",
+        "площадката"
+       ],
+       "correct": 2,
+       "textEn": "The tread is:",
+       "optionsEn": [
+        "the vertical part of the step",
+        "the balustrade",
+        "the horizontal part of the step",
+        "the landing"
+       ]
+      },
+      {
+       "text": "Подстъпенка е:",
+       "options": [
+        "вертикалната част на стъпалото",
+        "хоризонталната част на стъпалото",
+        "ръкохватът",
+        "линията на срязване"
+       ],
+       "correct": 0,
+       "textEn": "The riser is:",
+       "optionsEn": [
+        "the vertical part of the step",
+        "the horizontal part of the step",
+        "the handrail",
+        "the cut line"
+       ]
+      },
+      {
+       "text": "Рамо е:",
+       "options": [
+        "ограда на стълбата",
+        "хоризонтална площ между рамена",
+        "помещението със стълбата",
+        "редица стъпала между две нива"
+       ],
+       "correct": 3,
+       "textEn": "A flight is:",
+       "optionsEn": [
+        "the stair railing",
+        "a horizontal area between flights",
+        "the stairwell",
+        "a series of steps between two levels"
+       ]
+      },
+      {
+       "text": "Площадка е:",
+       "options": [
+        "вертикалната част на стъпалото",
+        "хоризонтална площ между рамена или при вход",
+        "ограда на стълбата",
+        "начупена линия на плана"
+       ],
+       "correct": 1,
+       "textEn": "A landing is:",
+       "optionsEn": [
+        "the vertical part of the step",
+        "a horizontal area between flights or at an entrance",
+        "the stair railing",
+        "a broken line on the plan"
+       ]
+      },
+      {
+       "text": "Правилото за удобна стълба е:",
+       "options": [
+        "2h + b ≈ 63 cm",
+        "h + b ≈ 63 cm",
+        "h − b ≈ 63 cm",
+        "2b + h ≈ 63 cm"
+       ],
+       "correct": 0,
+       "textEn": "The rule for a comfortable stair is:",
+       "optionsEn": [
+        "2h + b ≈ 63 cm",
+        "h + b ≈ 63 cm",
+        "h − b ≈ 63 cm",
+        "2b + h ≈ 63 cm"
+       ]
+      },
+      {
+       "text": "При h = 17 cm и b = 29 cm сборът 2h + b е:",
+       "options": [
+        "46 cm",
+        "75 cm",
+        "63 cm",
+        "58 cm"
+       ],
+       "correct": 2,
+       "textEn": "With h = 17 cm and b = 29 cm, the sum 2h + b is:",
+       "optionsEn": [
+        "46 cm",
+        "75 cm",
+        "63 cm",
+        "58 cm"
+       ]
+      },
+      {
+       "text": "Броят на подстъпенките се получава като:",
+       "options": [
+        "височината на етажа × h",
+        "височината на етажа : h",
+        "ширината на рамото : b",
+        "дължината на рамото : h"
+       ],
+       "correct": 1,
+       "textEn": "The number of risers is obtained as:",
+       "optionsEn": [
+        "storey height × h",
+        "storey height : h",
+        "flight width : b",
+        "flight length : h"
+       ]
+      },
+      {
+       "text": "При етаж 280 cm и h = 17,5 cm подстъпенките са:",
+       "options": [
+        "15",
+        "14",
+        "17",
+        "16"
+       ],
+       "correct": 3,
+       "textEn": "With a storey height of 280 cm and h = 17.5 cm, the number of risers is:",
+       "optionsEn": [
+        "15",
+        "14",
+        "17",
+        "16"
+       ]
+      },
+      {
+       "text": "Броят на стъпалата в плана е:",
+       "options": [
+        "равен на броя на подстъпенките",
+        "с две повече от подстъпенките",
+        "два пъти по-малък",
+        "с едно по-малко от броя на подстъпенките"
+       ],
+       "correct": 3,
+       "textEn": "The number of treads on the plan is:",
+       "optionsEn": [
+        "equal to the number of risers",
+        "two more than the risers",
+        "half as many",
+        "one less than the number of risers"
+       ]
+      },
+      {
+       "text": "Стрелката на стълбата в плана показва:",
+       "options": [
+        "посока надолу",
+        "посока нагоре",
+        "разстоянието до улицата",
+        "посока север"
+       ],
+       "correct": 1,
+       "textEn": "The arrow of the stair on the plan shows:",
+       "optionsEn": [
+        "the direction down",
+        "the direction up",
+        "the distance to the street",
+        "north"
+       ]
+      },
+      {
+       "text": "Линията на срязване на плана е:",
+       "options": [
+        "ръкохватът на парапета",
+        "оста на улицата",
+        "начупена линия, където стълбата „свършва\"",
+        "границата на имота"
+       ],
+       "correct": 2,
+       "textEn": "The cut line on the plan is:",
+       "optionsEn": [
+        "the handrail of the balustrade",
+        "the axis of the street",
+        "a broken line where the stair \"ends\"",
+        "the boundary of the property"
+       ]
+      },
+      {
+       "text": "При стълба върху стълба на един план:",
+       "options": [
+        "едното рамо е плътно, другото — прекъснато",
+        "и двете са плътни",
+        "и двете са прекъснати",
+        "се чертае само горната"
+       ],
+       "correct": 0,
+       "textEn": "With one stair above another on the same plan:",
+       "optionsEn": [
+        "one flight is solid, the other dashed",
+        "both are solid",
+        "both are dashed",
+        "only the upper one is drawn"
+       ]
+      },
+      {
+       "text": "Винтовата стълба:",
+       "options": [
+        "пести най-много дължина и е най-удобна",
+        "заема малко място, но е по-неудобна",
+        "се ползва само външно",
+        "няма стъпала"
+       ],
+       "correct": 1,
+       "textEn": "A spiral stair:",
+       "optionsEn": [
+        "saves the most length and is the most comfortable",
+        "takes up little space but is less comfortable",
+        "is used only outdoors",
+        "has no steps"
+       ]
+      },
+      {
+       "text": "Двураменната стълба с площадка:",
+       "options": [
+        "изисква най-много дължина",
+        "няма площадка",
+        "е само външна",
+        "пести дължина"
+       ],
+       "correct": 3,
+       "textEn": "A two-flight stair with a landing:",
+       "optionsEn": [
+        "requires the most length",
+        "has no landing",
+        "is outdoor only",
+        "saves length"
+       ]
+      },
+      {
+       "text": "Ситуация М 1:1000 означава, че:",
+       "options": [
+        "1 cm = 10 m",
+        "1 cm = 1 m",
+        "1 cm = 100 m",
+        "1 cm = 1000 m"
+       ],
+       "correct": 0,
+       "textEn": "A site plan at scale 1:1000 means that:",
+       "optionsEn": [
+        "1 cm = 10 m",
+        "1 cm = 1 m",
+        "1 cm = 100 m",
+        "1 cm = 1000 m"
+       ]
+      },
+      {
+       "text": "Каменната стена на втория етаж не се оцветява, защото:",
+       "options": [
+        "е от стоманобетон",
+        "е прозрачна",
+        "вижда се в изглед, а не в разрез",
+        "не съществува"
+       ],
+       "correct": 2,
+       "textEn": "The stone wall on the first floor is not coloured because:",
+       "optionsEn": [
+        "it is reinforced concrete",
+        "it is transparent",
+        "it is seen in elevation, not in section",
+        "it does not exist"
+       ]
+      },
+      {
+       "text": "Парапетът е:",
+       "options": [
+        "ограда на стълбата с ръкохват",
+        "вертикалната част на стъпалото",
+        "площадка",
+        "помещението на стълбата"
+       ],
+       "correct": 0,
+       "textEn": "The balustrade is:",
+       "optionsEn": [
+        "the stair railing with a handrail",
+        "the vertical part of the step",
+        "a landing",
+        "the stairwell"
+       ]
+      },
+      {
+       "text": "Означението на стълба включва:",
+       "options": [
+        "само името на етажа",
+        "само цвета",
+        "брой подстъпенки и размери h/b",
+        "само ширината на улицата"
+       ],
+       "correct": 2,
+       "textEn": "The designation of a stair includes:",
+       "optionsEn": [
+        "only the name of the floor",
+        "only the colour",
+        "the number of risers and the dimensions h/b",
+        "only the width of the street"
+       ]
+      },
+      {
+       "text": "От гледна точка на хигиената стълбите са честа причина за:",
+       "options": [
+        "хранителни отравяния",
+        "битови и трудови травми",
+        "шумово замърсяване",
+        "прегряване"
+       ],
+       "correct": 1,
+       "textEn": "From a hygiene point of view, stairs are a frequent cause of:",
+       "optionsEn": [
+        "food poisoning",
+        "domestic and occupational injuries",
+        "noise pollution",
+        "overheating"
+       ]
+      },
+      {
+       "text": "Стълбата най-често се носи от:",
+       "options": [
+        "стъклен под",
+        "дървена ограда",
+        "тухлен комин",
+        "стоманобетонна плоча"
+       ],
+       "correct": 3,
+       "textEn": "The stair is most often supported by:",
+       "optionsEn": [
+        "a glass floor",
+        "a wooden fence",
+        "a brick chimney",
+        "a reinforced concrete slab"
+       ]
+      }
+     ]
+    },
+    "u4": {
+     "id": "builtin_okoz2vks_u4",
+     "titleBg": "Тест: Упражнение № 4 — покрив и дограма",
+     "titleEn": "Test: Exercise No. 4 — Roof, Windows and Doors",
+     "questions": [
+      {
+       "text": "Скат е:",
+       "options": [
+        "най-високата линия на покрива",
+        "вътрешен ъгъл между два ската",
+        "излизащата част на покрива",
+        "наклонената повърхност на покрива"
+       ],
+       "correct": 3,
+       "textEn": "A roof slope (pitch) is:",
+       "optionsEn": [
+        "the highest line of the roof",
+        "the internal angle between two slopes",
+        "the projecting part of the roof",
+        "the inclined surface of the roof"
+       ]
+      },
+      {
+       "text": "Било е:",
+       "options": [
+        "вътрешният ъгъл между два ската",
+        "най-високата хоризонтална линия, където се срещат два ската",
+        "канал за вода",
+        "триъгълната част на стената"
+       ],
+       "correct": 1,
+       "textEn": "The ridge is:",
+       "optionsEn": [
+        "the internal angle between two slopes",
+        "the highest horizontal line where two slopes meet",
+        "a water channel",
+        "the triangular part of the wall"
+       ]
+      },
+      {
+       "text": "Улей е:",
+       "options": [
+        "вътрешен ъгъл между два ската",
+        "външен диагонален ръб",
+        "най-високата линия",
+        "излизащата част на покрива"
+       ],
+       "correct": 0,
+       "textEn": "A valley is:",
+       "optionsEn": [
+        "the internal angle between two slopes",
+        "an external diagonal edge",
+        "the highest line",
+        "the projecting part of the roof"
+       ]
+      },
+      {
+       "text": "Стреха е:",
+       "options": [
+        "каналът за вода",
+        "вътрешният ъгъл на покрива",
+        "излизащата част на покрива пред стената",
+        "отворът за прозорец"
+       ],
+       "correct": 2,
+       "textEn": "The eaves are:",
+       "optionsEn": [
+        "the water channel",
+        "the internal angle of the roof",
+        "the part of the roof projecting beyond the wall",
+        "the window opening"
+       ]
+      },
+      {
+       "text": "Калкан е:",
+       "options": [
+        "вътрешен ъгъл между два ската",
+        "триъгълната част на стената под двускатен покрив",
+        "тръба за вода",
+        "вид дограма"
+       ],
+       "correct": 1,
+       "textEn": "A gable is:",
+       "optionsEn": [
+        "the internal angle between two slopes",
+        "the triangular part of the wall under a gable roof",
+        "a water pipe",
+        "a type of joinery"
+       ]
+      },
+      {
+       "text": "Четирискатният покрив се нарича още:",
+       "options": [
+        "плосък",
+        "едноскатен",
+        "мансарден",
+        "шатров"
+       ],
+       "correct": 3,
+       "textEn": "A four-slope roof is also called:",
+       "optionsEn": [
+        "flat",
+        "mono-pitch",
+        "mansard",
+        "hipped (pyramid)"
+       ]
+      },
+      {
+       "text": "Мансардният покрив е полезен, защото:",
+       "options": [
+        "е винаги плосък",
+        "няма скатове",
+        "позволява използваем тавански етаж",
+        "не се нуждае от олуци"
+       ],
+       "correct": 2,
+       "textEn": "A mansard roof is useful because:",
+       "optionsEn": [
+        "it is always flat",
+        "it has no slopes",
+        "it allows a usable attic floor",
+        "it does not need gutters"
+       ]
+      },
+      {
+       "text": "Плоският покрив се нуждае от:",
+       "options": [
+        "хидроизолация и лек наклон за отток",
+        "керемиди и голям наклон",
+        "само вятър",
+        "основи"
+       ],
+       "correct": 0,
+       "textEn": "A flat roof needs:",
+       "optionsEn": [
+        "waterproofing and a slight slope for drainage",
+        "tiles and a steep slope",
+        "only wind",
+        "foundations"
+       ]
+      },
+      {
+       "text": "Олукът е:",
+       "options": [
+        "канал, който събира водата от ската",
+        "най-високата линия на покрива",
+        "вид прозорец",
+        "колона"
+       ],
+       "correct": 0,
+       "textEn": "A gutter is:",
+       "optionsEn": [
+        "a channel that collects water from the slope",
+        "the highest line of the roof",
+        "a type of window",
+        "a column"
+       ]
+      },
+      {
+       "text": "Водата от покрива се отвежда по пътя:",
+       "options": [
+        "олук → скат → комин",
+        "тръба → скат → олук",
+        "скат → олук → водосточна тръба → земя или канал",
+        "скат → шахта → бойлер"
+       ],
+       "correct": 2,
+       "textEn": "Water from the roof is carried away along the path:",
+       "optionsEn": [
+        "gutter → slope → chimney",
+        "pipe → slope → gutter",
+        "slope → gutter → downpipe → ground or sewer",
+        "slope → manhole → boiler"
+       ]
+      },
+      {
+       "text": "Зидарският размер е:",
+       "options": [
+        "размерът на дограмата след монтаж",
+        "височината на етажа",
+        "дебелината на стената",
+        "размерът на отвора в стената"
+       ],
+       "correct": 3,
+       "textEn": "The masonry dimension is:",
+       "optionsEn": [
+        "the size of the joinery after installation",
+        "the storey height",
+        "the wall thickness",
+        "the size of the opening in the wall"
+       ]
+      },
+      {
+       "text": "Означението „90/210\" значи:",
+       "options": [
+        "височина 90 cm и ширина 210 cm",
+        "ширина 90 cm и височина 210 cm",
+        "90 прозореца на 210 m",
+        "дебелина 90 cm"
+       ],
+       "correct": 1,
+       "textEn": "The designation \"90/210\" means:",
+       "optionsEn": [
+        "height 90 cm and width 210 cm",
+        "width 90 cm and height 210 cm",
+        "90 windows of 210 m",
+        "thickness 90 cm"
+       ]
+      },
+      {
+       "text": "Подпрозоречният парапет е:",
+       "options": [
+        "височината на прозореца",
+        "дебелината на стената",
+        "височината от пода до долния ръб на прозореца",
+        "височината на етажа"
+       ],
+       "correct": 2,
+       "textEn": "The window sill height (parapet) is:",
+       "optionsEn": [
+        "the height of the window",
+        "the thickness of the wall",
+        "the height from the floor to the bottom edge of the window",
+        "the storey height"
+       ]
+      },
+      {
+       "text": "Прекъснатите линии върху символа на прозорец показват:",
+       "options": [
+        "наклоняване",
+        "завъртане към страната на пантите",
+        "че прозорецът е фиксиран",
+        "че прозорецът е двукрил"
+       ],
+       "correct": 0,
+       "textEn": "Dashed lines on a window symbol indicate:",
+       "optionsEn": [
+        "tilting",
+        "turning towards the hinge side",
+        "that the window is fixed",
+        "that the window is double-leaf"
+       ]
+      },
+      {
+       "text": "В разреза плочите и стълбите се оцветяват в:",
+       "options": [
+        "жълто",
+        "сиво",
+        "кафяво",
+        "синьо"
+       ],
+       "correct": 1,
+       "textEn": "In the section, slabs and stairs are coloured:",
+       "optionsEn": [
+        "yellow",
+        "grey",
+        "brown",
+        "blue"
+       ]
+      },
+      {
+       "text": "В разреза вертикалните стени се оцветяват в:",
+       "options": [
+        "сиво",
+        "кафяво",
+        "зелено",
+        "жълто"
+       ],
+       "correct": 3,
+       "textEn": "In the section, vertical walls are coloured:",
+       "optionsEn": [
+        "grey",
+        "brown",
+        "green",
+        "yellow"
+       ]
+      },
+      {
+       "text": "В разреза покривът се оцветява в:",
+       "options": [
+        "жълто",
+        "кафяво",
+        "сиво",
+        "синьо"
+       ],
+       "correct": 1,
+       "textEn": "In the section, the roof is coloured:",
+       "optionsEn": [
+        "yellow",
+        "brown",
+        "grey",
+        "blue"
+       ]
+      },
+      {
+       "text": "Дограма са:",
+       "options": [
+        "покривът и олуците",
+        "комините",
+        "плочите",
+        "прозорците и вратите"
+       ],
+       "correct": 3,
+       "textEn": "Joinery (dograma) means:",
+       "optionsEn": [
+        "the roof and gutters",
+        "the chimneys",
+        "the slabs",
+        "the windows and doors"
+       ]
+      },
+      {
+       "text": "На строежа гледаме:",
+       "options": [
+        "само цената на материалите",
+        "само цвета на фасадата",
+        "табелата с информация и разрешението за строеж",
+        "само мебелите"
+       ],
+       "correct": 2,
+       "textEn": "On a construction site we look at:",
+       "optionsEn": [
+        "only the price of materials",
+        "only the colour of the facade",
+        "the information board and the building permit",
+        "only the furniture"
+       ]
+      },
+      {
+       "text": "Пластмасовите (PVC) олуци са:",
+       "options": [
+        "леки и евтини, но по-малко устойчиви на слънце",
+        "най-скъпите и най-трайни",
+        "от мед",
+        "невъзможни за закрепване"
+       ],
+       "correct": 0,
+       "textEn": "Plastic (PVC) gutters are:",
+       "optionsEn": [
+        "light and cheap, but less resistant to the sun",
+        "the most expensive and most durable",
+        "made of copper",
+        "impossible to fix"
+       ]
+      }
+     ]
+    },
+    "u5": {
+     "id": "builtin_okoz2vks_u5",
+     "titleBg": "Тест: Упражнение № 5 — студена вода",
+     "titleEn": "Test: Exercise No. 5 — Cold Water",
+     "questions": [
+      {
+       "text": "Пътят на студената вода започва от:",
+       "options": [
+        "бойлера",
+        "ревизионната шахта",
+        "покрива",
+        "уличния водопровод"
+       ],
+       "correct": 3,
+       "textEn": "The path of cold water begins at:",
+       "optionsEn": [
+        "the water heater",
+        "the inspection manhole",
+        "the roof",
+        "the street water main"
+       ]
+      },
+      {
+       "text": "Спирателният кран на отклонението е разположен:",
+       "options": [
+        "на покрива",
+        "при тротоара",
+        "в бойлера",
+        "в стаята"
+       ],
+       "correct": 1,
+       "textEn": "The shut-off valve of the service connection is located:",
+       "optionsEn": [
+        "on the roof",
+        "at the pavement",
+        "in the water heater",
+        "in the room"
+       ]
+      },
+      {
+       "text": "Водомерният възел служи за:",
+       "options": [
+        "подгряване на водата",
+        "отвеждане на отпадни води",
+        "измерване на потреблението на вода",
+        "вентилация"
+       ],
+       "correct": 2,
+       "textEn": "The water meter assembly is used for:",
+       "optionsEn": [
+        "heating the water",
+        "carrying away wastewater",
+        "measuring water consumption",
+        "ventilation"
+       ]
+      },
+      {
+       "text": "Филтърът във водомерния възел:",
+       "options": [
+        "пази водомера от замърсяване",
+        "измерва водата",
+        "подгрява водата",
+        "отвежда отпадъците"
+       ],
+       "correct": 0,
+       "textEn": "The filter in the water meter assembly:",
+       "optionsEn": [
+        "protects the meter from dirt",
+        "measures the water",
+        "heats the water",
+        "carries away waste"
+       ]
+      },
+      {
+       "text": "Възвратният клапан:",
+       "options": [
+        "измерва водата",
+        "не пуска водата обратно в уличната мрежа",
+        "пречиства водата",
+        "затопля водата"
+       ],
+       "correct": 1,
+       "textEn": "The non-return (check) valve:",
+       "optionsEn": [
+        "measures the water",
+        "does not let water flow back into the street network",
+        "purifies the water",
+        "heats the water"
+       ]
+      },
+      {
+       "text": "Студената вода в заданието е в цвят:",
+       "options": [
+        "червено",
+        "кафяво",
+        "зелено",
+        "синьо"
+       ],
+       "correct": 3,
+       "textEn": "Cold water in the assignment is coloured:",
+       "optionsEn": [
+        "red",
+        "brown",
+        "green",
+        "blue"
+       ]
+      },
+      {
+       "text": "Топлата вода в заданието е в цвят:",
+       "options": [
+        "червено",
+        "синьо",
+        "кафяво",
+        "жълто"
+       ],
+       "correct": 0,
+       "textEn": "Hot water in the assignment is coloured:",
+       "optionsEn": [
+        "red",
+        "blue",
+        "brown",
+        "yellow"
+       ]
+      },
+      {
+       "text": "Каналът в заданието е в цвят:",
+       "options": [
+        "синьо",
+        "червено",
+        "кафяво",
+        "сиво"
+       ],
+       "correct": 2,
+       "textEn": "The sewer in the assignment is coloured:",
+       "optionsEn": [
+        "blue",
+        "red",
+        "brown",
+        "grey"
+       ]
+      },
+      {
+       "text": "Означението Ø на тръба показва:",
+       "options": [
+        "дължина в метри",
+        "наклон",
+        "диаметър в милиметри",
+        "налягане"
+       ],
+       "correct": 2,
+       "textEn": "The symbol Ø on a pipe shows:",
+       "optionsEn": [
+        "length in metres",
+        "slope",
+        "diameter in millimetres",
+        "pressure"
+       ]
+      },
+      {
+       "text": "Наклон 2 % означава:",
+       "options": [
+        "2 cm на 1 m дължина",
+        "2 m на 1 cm дължина",
+        "20 cm на 1 m",
+        "0,2 cm на 1 m"
+       ],
+       "correct": 0,
+       "textEn": "A slope of 2 % means:",
+       "optionsEn": [
+        "2 cm per 1 m of length",
+        "2 m per 1 cm of length",
+        "20 cm per 1 m",
+        "0.2 cm per 1 m"
+       ]
+      },
+      {
+       "text": "Стояк е:",
+       "options": [
+        "хоризонтална тръба към уред",
+        "шахта в двора",
+        "вид кран",
+        "вертикална тръба през етажите"
+       ],
+       "correct": 3,
+       "textEn": "A riser is:",
+       "optionsEn": [
+        "a horizontal pipe to a fixture",
+        "a manhole in the yard",
+        "a type of tap",
+        "a vertical pipe through the floors"
+       ]
+      },
+      {
+       "text": "Кота −2,55 е планът на:",
+       "options": [
+        "първия етаж",
+        "сутерена",
+        "втория етаж",
+        "покрива"
+       ],
+       "correct": 1,
+       "textEn": "Level −2.55 is the plan of:",
+       "optionsEn": [
+        "the ground floor",
+        "the basement",
+        "the first floor",
+        "the roof"
+       ]
+      },
+      {
+       "text": "Ситуацията в упражнението е в мащаб:",
+       "options": [
+        "1:200",
+        "1:50",
+        "1:1000",
+        "1:10"
+       ],
+       "correct": 0,
+       "textEn": "The site plan in the exercise is at scale:",
+       "optionsEn": [
+        "1:200",
+        "1:50",
+        "1:1000",
+        "1:10"
+       ]
+      },
+      {
+       "text": "Наредба № 8 на МРРБ урежда:",
+       "options": [
+        "хигиената на храните",
+        "шума в жилищата",
+        "технически проводи и съоръжения в населените места",
+        "детските градини"
+       ],
+       "correct": 2,
+       "textEn": "Ordinance No. 8 of the Ministry of Regional Development (MRRB) regulates:",
+       "optionsEn": [
+        "food hygiene",
+        "noise in dwellings",
+        "technical networks and facilities in settlements",
+        "kindergartens"
+       ]
+      },
+      {
+       "text": "К1 и К2 са:",
+       "options": [
+        "водопроводни тръби за топла вода",
+        "канализационни тръби",
+        "вентилационни канали за въздух",
+        "електрически проводи"
+       ],
+       "correct": 1,
+       "textEn": "K1 and K2 are:",
+       "optionsEn": [
+        "hot water supply pipes",
+        "sewer pipes",
+        "air ventilation ducts",
+        "electrical lines"
+       ]
+      },
+      {
+       "text": "Застоялата вода в тръбите:",
+       "options": [
+        "подобрява вкуса на водата",
+        "няма значение",
+        "увеличава налягането",
+        "влошава качеството на питейната вода"
+       ],
+       "correct": 3,
+       "textEn": "Stagnant water in the pipes:",
+       "optionsEn": [
+        "improves the taste of the water",
+        "does not matter",
+        "increases the pressure",
+        "worsens the quality of drinking water"
+       ]
+      },
+      {
+       "text": "Водопроводът и каналът под улицата са:",
+       "options": [
+        "винаги в една тръба",
+        "на различна дълбочина",
+        "на една и съща дълбочина",
+        "извън улицата"
+       ],
+       "correct": 1,
+       "textEn": "The water main and the sewer under the street are:",
+       "optionsEn": [
+        "always in one pipe",
+        "at different depths",
+        "at the same depth",
+        "outside the street"
+       ]
+      },
+      {
+       "text": "С колко чертежа работим в упражнението?",
+       "options": [
+        "1 — само ситуацията",
+        "2 — първи и втори етаж",
+        "6 — с разрези",
+        "4 — ситуация, сутерен, първи и втори етаж"
+       ],
+       "correct": 3,
+       "textEn": "How many drawings do we work with in the exercise?",
+       "optionsEn": [
+        "1 — the site plan only",
+        "2 — ground and first floor",
+        "6 — with sections",
+        "4 — site plan, basement, ground and first floor"
+       ]
+      },
+      {
+       "text": "Водомерът в схемата е разположен в:",
+       "options": [
+        "сутерена",
+        "покрива",
+        "втория етаж",
+        "двора"
+       ],
+       "correct": 0,
+       "textEn": "In the diagram, the water meter is located in:",
+       "optionsEn": [
+        "the basement",
+        "the roof",
+        "the first floor",
+        "the yard"
+       ]
+      },
+      {
+       "text": "Чертежът е и хигиенен документ, защото:",
+       "options": [
+        "показва цената на тръбите",
+        "показва цвета на стените",
+        "показва как водата е защитена по пътя си",
+        "показва мебелите"
+       ],
+       "correct": 2,
+       "textEn": "The drawing is also a hygiene document because:",
+       "optionsEn": [
+        "it shows the price of the pipes",
+        "it shows the colour of the walls",
+        "it shows how the water is protected along its way",
+        "it shows the furniture"
+       ]
+      }
+     ]
+    },
+    "u6": {
+     "id": "builtin_okoz2vks_u6",
+     "titleBg": "Тест: Упражнение № 6 — топла вода",
+     "titleEn": "Test: Exercise No. 6 — Hot Water",
+     "questions": [
+      {
+       "text": "Топлата вода в сградата най-често се получава от:",
+       "options": [
+        "бойлер",
+        "водомер",
+        "ревизионна шахта",
+        "сифон"
+       ],
+       "correct": 0,
+       "textEn": "Hot water in a building is most often obtained from:",
+       "optionsEn": [
+        "a water heater (boiler)",
+        "a water meter",
+        "an inspection manhole",
+        "a trap (siphon)"
+       ]
+      },
+      {
+       "text": "Топлата вода в заданието е в цвят:",
+       "options": [
+        "синьо",
+        "кафяво",
+        "червено",
+        "зелено"
+       ],
+       "correct": 2,
+       "textEn": "Hot water in the assignment is coloured:",
+       "optionsEn": [
+        "blue",
+        "brown",
+        "red",
+        "green"
+       ]
+      },
+      {
+       "text": "Проточният нагревател:",
+       "options": [
+        "съхранява вода в резервоар",
+        "отвежда отпадни води",
+        "измерва потреблението",
+        "загрява водата при минаването ѝ през него"
+       ],
+       "correct": 3,
+       "textEn": "An instantaneous (flow-through) water heater:",
+       "optionsEn": [
+        "stores water in a tank",
+        "carries away wastewater",
+        "measures consumption",
+        "heats the water as it flows through"
+       ]
+      },
+      {
+       "text": "Аксонометрията е:",
+       "options": [
+        "план на етаж",
+        "пространствена схема на тръбите",
+        "разрез на покрива",
+        "снимка на сградата"
+       ],
+       "correct": 1,
+       "textEn": "An axonometric drawing is:",
+       "optionsEn": [
+        "a floor plan",
+        "a three-dimensional diagram of the pipes",
+        "a section through the roof",
+        "a photo of the building"
+       ]
+      },
+      {
+       "text": "Стояк е:",
+       "options": [
+        "хоризонтална тръба към уред",
+        "шахта в двора",
+        "вертикална тръба",
+        "вид кран"
+       ],
+       "correct": 2,
+       "textEn": "A riser is:",
+       "optionsEn": [
+        "a horizontal pipe to a fixture",
+        "a manhole in the yard",
+        "a vertical pipe",
+        "a type of tap"
+       ]
+      },
+      {
+       "text": "Клон е:",
+       "options": [
+        "хоризонтална тръба към уред",
+        "вертикална тръба през етажите",
+        "вид бойлер",
+        "вид шахта"
+       ],
+       "correct": 0,
+       "textEn": "A branch is:",
+       "optionsEn": [
+        "a horizontal pipe to a fixture",
+        "a vertical pipe through the floors",
+        "a type of water heater",
+        "a type of manhole"
+       ]
+      },
+      {
+       "text": "Legionella се размножава най-активно при температура на водата:",
+       "options": [
+        "под 20 °C",
+        "20–45 °C",
+        "45–60 °C",
+        "над 60 °C"
+       ],
+       "correct": 1,
+       "textEn": "Legionella multiplies most actively at a water temperature of:",
+       "optionsEn": [
+        "below 20 °C",
+        "20–45 °C",
+        "45–60 °C",
+        "above 60 °C"
+       ]
+      },
+      {
+       "text": "Над 60 °C бактериите Legionella:",
+       "options": [
+        "се размножават най-бързо",
+        "растат бавно",
+        "не се влияят",
+        "бързо се унищожават"
+       ],
+       "correct": 3,
+       "textEn": "Above 60 °C, Legionella bacteria:",
+       "optionsEn": [
+        "multiply fastest",
+        "grow slowly",
+        "are not affected",
+        "are rapidly killed"
+       ]
+      },
+      {
+       "text": "Препоръчителната работна температура на бойлера е около:",
+       "options": [
+        "30 °C",
+        "20 °C",
+        "45 °C",
+        "60 °C"
+       ],
+       "correct": 3,
+       "textEn": "The recommended operating temperature of the water heater is about:",
+       "optionsEn": [
+        "30 °C",
+        "20 °C",
+        "45 °C",
+        "60 °C"
+       ]
+      },
+      {
+       "text": "Какво трябва да се избягва в системата за топла вода?",
+       "options": [
+        "изолация на тръбите",
+        "„мъртви\" клонове и дълго застояла вода",
+        "бойлер",
+        "спирателни кранове"
+       ],
+       "correct": 1,
+       "textEn": "What should be avoided in a hot water system?",
+       "optionsEn": [
+        "pipe insulation",
+        "\"dead\" branches and long-standing stagnant water",
+        "a water heater",
+        "shut-off valves"
+       ]
+      },
+      {
+       "text": "Водата над около 50 °C може да опарва за:",
+       "options": [
+        "минути (над 60 °C — за секунди)",
+        "часове",
+        "дни",
+        "никога"
+       ],
+       "correct": 0,
+       "textEn": "Water above about 50 °C can scald within:",
+       "optionsEn": [
+        "minutes (above 60 °C — within seconds)",
+        "hours",
+        "days",
+        "never"
+       ]
+      },
+      {
+       "text": "Най-уязвими от опарване са:",
+       "options": [
+        "спортистите",
+        "работниците на открито",
+        "децата и възрастните",
+        "студентите"
+       ],
+       "correct": 2,
+       "textEn": "Those most vulnerable to scalding are:",
+       "optionsEn": [
+        "athletes",
+        "outdoor workers",
+        "children and the elderly",
+        "students"
+       ]
+      },
+      {
+       "text": "Мярка срещу опарване е:",
+       "options": [
+        "премахване на изолацията",
+        "смесителна батерия с ограничител на температурата",
+        "по-висока температура на бойлера",
+        "по-тънки тръби"
+       ],
+       "correct": 1,
+       "textEn": "A measure against scalding is:",
+       "optionsEn": [
+        "removing the insulation",
+        "a mixer tap with a temperature limiter",
+        "a higher water heater temperature",
+        "thinner pipes"
+       ]
+      },
+      {
+       "text": "Сифонът е:",
+       "options": [
+        "вид бойлер",
+        "вид водомер",
+        "вентилационен канал",
+        "воден затвор срещу миризми"
+       ],
+       "correct": 3,
+       "textEn": "A trap (siphon) is:",
+       "optionsEn": [
+        "a type of water heater",
+        "a type of water meter",
+        "a ventilation duct",
+        "a water seal against odours"
+       ]
+      },
+      {
+       "text": "Ревизионната шахта служи за:",
+       "options": [
+        "подгряване на водата",
+        "измерване на водата",
+        "достъп и прочистване на канала",
+        "вентилация"
+       ],
+       "correct": 2,
+       "textEn": "The inspection manhole is used for:",
+       "optionsEn": [
+        "heating the water",
+        "measuring the water",
+        "access to and cleaning of the sewer",
+        "ventilation"
+       ]
+      },
+      {
+       "text": "Каналната вентилация излиза:",
+       "options": [
+        "над покрива",
+        "в сутерена",
+        "в кухнята",
+        "в двора"
+       ],
+       "correct": 0,
+       "textEn": "The sewer vent pipe exits:",
+       "optionsEn": [
+        "above the roof",
+        "in the basement",
+        "in the kitchen",
+        "in the yard"
+       ]
+      },
+      {
+       "text": "Наклонът на канала осигурява:",
+       "options": [
+        "налягане на водата",
+        "подгряване",
+        "гравитачно оттичане",
+        "филтриране"
+       ],
+       "correct": 2,
+       "textEn": "The slope of the sewer ensures:",
+       "optionsEn": [
+        "water pressure",
+        "heating",
+        "gravity drainage",
+        "filtration"
+       ]
+      },
+      {
+       "text": "Тръбите К1 и К2 в заданието са в цвят:",
+       "options": [
+        "кафяво",
+        "синьо",
+        "червено",
+        "жълто"
+       ],
+       "correct": 0,
+       "textEn": "Pipes K1 and K2 in the assignment are coloured:",
+       "optionsEn": [
+        "brown",
+        "blue",
+        "red",
+        "yellow"
+       ]
+      },
+      {
+       "text": "Изолацията на тръбите за топла вода служи за:",
+       "options": [
+        "увеличаване на налягането",
+        "намаляване на загубите на топлина",
+        "цвят",
+        "вентилация"
+       ],
+       "correct": 1,
+       "textEn": "Insulation of hot water pipes is used for:",
+       "optionsEn": [
+        "increasing the pressure",
+        "reducing heat losses",
+        "colour",
+        "ventilation"
+       ]
+      },
+      {
+       "text": "Кое е възможен източник на топла вода?",
+       "options": [
+        "водомер",
+        "сифон",
+        "ревизионна шахта",
+        "слънчеви колектори"
+       ],
+       "correct": 3,
+       "textEn": "Which is a possible source of hot water?",
+       "optionsEn": [
+        "a water meter",
+        "a trap (siphon)",
+        "an inspection manhole",
+        "solar collectors"
+       ]
+      }
+     ]
+    },
+    "u7": {
+     "id": "builtin_okoz2vks_u7",
+     "titleBg": "Тест: Упражнение № 7 — сградна и дворна канализация",
+     "titleEn": "Test: Exercise No. 7 — Building and Yard Sewerage",
+     "questions": [
+      {
+       "text": "К на чертежа е:",
+       "options": [
+        "водопроводен кран",
+        "главна канализационна тръба (стояк)",
+        "вид сифон",
+        "колона"
+       ],
+       "correct": 1,
+       "textEn": "K on the drawing is:",
+       "optionsEn": [
+        "a water tap",
+        "the main sewer pipe (stack)",
+        "a type of trap",
+        "a column"
+       ]
+      },
+      {
+       "text": "След вертикалния стояк К пътят на отпадните води продължава към:",
+       "options": [
+        "покрива",
+        "бойлера",
+        "водомера",
+        "сградното отклонение през сутерена"
+       ],
+       "correct": 3,
+       "textEn": "After the vertical stack K, the path of wastewater continues to:",
+       "optionsEn": [
+        "the roof",
+        "the water heater",
+        "the water meter",
+        "the building sewer connection through the basement"
+       ]
+      },
+      {
+       "text": "Сифонът под прибора е:",
+       "options": [
+        "воден затвор срещу миризми и газове",
+        "вид водомер",
+        "вид бойлер",
+        "вентилационен канал"
+       ],
+       "correct": 0,
+       "textEn": "The trap (siphon) under the fixture is:",
+       "optionsEn": [
+        "a water seal against odours and gases",
+        "a type of water meter",
+        "a type of water heater",
+        "a ventilation duct"
+       ]
+      },
+      {
+       "text": "Ако сифонът изсъхне:",
+       "options": [
+        "водата се подгрява",
+        "тръбата се запушва веднага",
+        "миризми влизат в дома",
+        "налягането се покачва"
+       ],
+       "correct": 2,
+       "textEn": "If the trap dries out:",
+       "optionsEn": [
+        "the water heats up",
+        "the pipe clogs immediately",
+        "odours enter the home",
+        "the pressure rises"
+       ]
+      },
+      {
+       "text": "Вентилацията над покрива служи за:",
+       "options": [
+        "подгряване на водата",
+        "измерване на водата",
+        "осветление",
+        "изравняване на налягането и отвеждане на газове"
+       ],
+       "correct": 3,
+       "textEn": "The vent above the roof is used for:",
+       "optionsEn": [
+        "heating the water",
+        "measuring the water",
+        "lighting",
+        "equalizing pressure and removing gases"
+       ]
+      },
+      {
+       "text": "Ревизионната шахта позволява:",
+       "options": [
+        "подгряване на водата",
+        "достъп и прочистване на канала",
+        "измерване на потреблението",
+        "вентилиране на стаята"
+       ],
+       "correct": 1,
+       "textEn": "The inspection manhole allows:",
+       "optionsEn": [
+        "heating the water",
+        "access to and cleaning of the sewer",
+        "measuring consumption",
+        "ventilating the room"
+       ]
+      },
+      {
+       "text": "Наклон 2 % означава:",
+       "options": [
+        "2 m на 1 cm дължина",
+        "20 cm на 1 m",
+        "2 cm на 1 m дължина",
+        "0,2 cm на 1 m"
+       ],
+       "correct": 2,
+       "textEn": "A slope of 2 % means:",
+       "optionsEn": [
+        "2 m per 1 cm of length",
+        "20 cm per 1 m",
+        "2 cm per 1 m of length",
+        "0.2 cm per 1 m"
+       ]
+      },
+      {
+       "text": "Каналът в заданието е в цвят:",
+       "options": [
+        "кафяво",
+        "синьо",
+        "червено",
+        "жълто"
+       ],
+       "correct": 0,
+       "textEn": "The sewer in the assignment is coloured:",
+       "optionsEn": [
+        "brown",
+        "blue",
+        "red",
+        "yellow"
+       ]
+      },
+      {
+       "text": "Студеният водопровод в заданието е в цвят:",
+       "options": [
+        "синьо",
+        "кафяво",
+        "червено",
+        "зелено"
+       ],
+       "correct": 0,
+       "textEn": "The cold water main in the assignment is coloured:",
+       "optionsEn": [
+        "blue",
+        "brown",
+        "red",
+        "green"
+       ]
+      },
+      {
+       "text": "Топлата вода в заданието е в цвят:",
+       "options": [
+        "синьо",
+        "кафяво",
+        "червено",
+        "сиво"
+       ],
+       "correct": 2,
+       "textEn": "Hot water in the assignment is coloured:",
+       "optionsEn": [
+        "blue",
+        "brown",
+        "red",
+        "grey"
+       ]
+      },
+      {
+       "text": "Означението ПС в упражнението вероятно е:",
+       "options": [
+        "подземен станционен",
+        "подов сифон",
+        "пречиствателна станция за питейна вода",
+        "подпорна стена"
+       ],
+       "correct": 1,
+       "textEn": "The designation PS (ПС) in the exercise is probably:",
+       "optionsEn": [
+        "underground station",
+        "floor drain (floor trap)",
+        "drinking water treatment plant",
+        "retaining wall"
+       ]
+      },
+      {
+       "text": "РШ е означение за:",
+       "options": [
+        "работна шахта за вода",
+        "регулатор на шума",
+        "редовен шлюз",
+        "ревизионна шахта"
+       ],
+       "correct": 3,
+       "textEn": "RSh (РШ) is the designation for:",
+       "optionsEn": [
+        "a working water shaft",
+        "a noise regulator",
+        "a regular sluice",
+        "an inspection manhole"
+       ]
+      },
+      {
+       "text": "Течове от канала замърсяват:",
+       "options": [
+        "въздуха на помещението",
+        "само стените",
+        "почвата и подпочвените води",
+        "покрива"
+       ],
+       "correct": 2,
+       "textEn": "Leaks from the sewer pollute:",
+       "optionsEn": [
+        "the indoor air",
+        "only the walls",
+        "the soil and groundwater",
+        "the roof"
+       ]
+      },
+      {
+       "text": "Правилата за технически проводи в населените места са в:",
+       "options": [
+        "Наредба № 8 на МРРБ",
+        "Наредба за шума",
+        "Закона за храните",
+        "Закона за здравето"
+       ],
+       "correct": 0,
+       "textEn": "The rules for technical networks in settlements are in:",
+       "optionsEn": [
+        "Ordinance No. 8 of the MRRB",
+        "the Noise Ordinance",
+        "the Food Act",
+        "the Health Act"
+       ]
+      },
+      {
+       "text": "На чертеж на канал четем:",
+       "options": [
+        "цвета на стените",
+        "само мебелите",
+        "само името на улицата",
+        "материал, диаметър, наклон и метраж"
+       ],
+       "correct": 3,
+       "textEn": "On a sewer drawing we read:",
+       "optionsEn": [
+        "the colour of the walls",
+        "only the furniture",
+        "only the name of the street",
+        "material, diameter, slope and length"
+       ]
+      },
+      {
+       "text": "Аксонометрията показва:",
+       "options": [
+        "само плана на етажа",
+        "тръбите „в пространството\"",
+        "само покрива",
+        "само двора"
+       ],
+       "correct": 1,
+       "textEn": "An axonometric drawing shows:",
+       "optionsEn": [
+        "only the floor plan",
+        "the pipes \"in space\"",
+        "only the roof",
+        "only the yard"
+       ]
+      },
+      {
+       "text": "Ревизионната шахта не бива да се бърка с:",
+       "options": [
+        "тоалетната",
+        "бойлера",
+        "комина",
+        "водомерната шахта"
+       ],
+       "correct": 3,
+       "textEn": "The inspection manhole should not be confused with:",
+       "optionsEn": [
+        "the toilet",
+        "the water heater",
+        "the chimney",
+        "the water meter chamber"
+       ]
+      },
+      {
+       "text": "Първата стъпка при следене на канал е:",
+       "options": [
+        "проверяваме покрива",
+        "намираме прибора и сифона му",
+        "намираме уличния канал",
+        "оцветяваме стените"
+       ],
+       "correct": 1,
+       "textEn": "The first step when tracing a sewer line is:",
+       "optionsEn": [
+        "checking the roof",
+        "finding the fixture and its trap",
+        "finding the street sewer",
+        "colouring the walls"
+       ]
+      },
+      {
+       "text": "Правилният наклон на канала предотвратява:",
+       "options": [
+        "нагряването на тръбите",
+        "шума от улицата",
+        "натрупването на отпадъци",
+        "образуването на сянка"
+       ],
+       "correct": 2,
+       "textEn": "The correct slope of the sewer prevents:",
+       "optionsEn": [
+        "heating of the pipes",
+        "street noise",
+        "accumulation of waste",
+        "formation of shade"
+       ]
+      },
+      {
+       "text": "Подовият сифон отвежда:",
+       "options": [
+        "водата от пода",
+        "студената вода към кранчето",
+        "топлата вода към душа",
+        "въздуха от помещението"
+       ],
+       "correct": 0,
+       "textEn": "A floor drain carries away:",
+       "optionsEn": [
+        "water from the floor",
+        "cold water to the tap",
+        "hot water to the shower",
+        "air from the room"
+       ]
+      }
+     ]
+    },
+    "u8": {
+     "id": "builtin_okoz2vks_u8",
+     "titleBg": "Тест: Упражнение № 8 — устойчива архитектура и пасивна къща",
+     "titleEn": "Test: Exercise No. 8 — Sustainable Architecture and the Passive House",
+     "questions": [
+      {
+       "text": "Трите стълба на устойчивостта са:",
+       "options": [
+        "цена, цвят и размер",
+        "земя, въздух и огън",
+        "околна среда, икономика, общество и здраве",
+        "проект, строеж и ремонт"
+       ],
+       "correct": 2,
+       "textEn": "The three pillars of sustainability are:",
+       "optionsEn": [
+        "price, colour and size",
+        "earth, air and fire",
+        "environment, economy, society and health",
+        "design, construction and repair"
+       ]
+      },
+      {
+       "text": "Устойчива е архитектурата, която:",
+       "options": [
+        "задоволява нуждите днес, без да лишава бъдещите поколения",
+        "е най-евтина",
+        "е най-висока",
+        "използва само стъкло"
+       ],
+       "correct": 0,
+       "textEn": "Sustainable architecture is architecture that:",
+       "optionsEn": [
+        "meets today's needs without depriving future generations",
+        "is the cheapest",
+        "is the tallest",
+        "uses only glass"
+       ]
+      },
+      {
+       "text": "Жизненият цикъл на сградата включва:",
+       "options": [
+        "само строителство",
+        "проектиране, строителство, експлоатация, разрушаване",
+        "само експлоатация",
+        "само проектиране"
+       ],
+       "correct": 1,
+       "textEn": "The life cycle of a building includes:",
+       "optionsEn": [
+        "construction only",
+        "design, construction, operation, demolition",
+        "operation only",
+        "design only"
+       ]
+      },
+      {
+       "text": "По данни на Европейската комисия сградите използват около ... от енергията в Европа:",
+       "options": [
+        "5 %",
+        "10 %",
+        "90 %",
+        "40 %"
+       ],
+       "correct": 3,
+       "textEn": "According to the European Commission, buildings use about ... of the energy in Europe:",
+       "optionsEn": [
+        "5 %",
+        "10 %",
+        "90 %",
+        "40 %"
+       ]
+      },
+      {
+       "text": "Пасивната къща е сграда, която:",
+       "options": [
+        "почти не се нуждае от активно отопление и охлаждане",
+        "няма прозорци",
+        "няма покрив",
+        "се отоплява само с печка"
+       ],
+       "correct": 0,
+       "textEn": "A passive house is a building that:",
+       "optionsEn": [
+        "hardly needs active heating and cooling",
+        "has no windows",
+        "has no roof",
+        "is heated only with a stove"
+       ]
+      },
+      {
+       "text": "Стандартът Passivhaus се поддържа от:",
+       "options": [
+        "Лундския университет",
+        "Европейската комисия",
+        "Passivhaus-Institut в Дармщат",
+        "Световната здравна организация"
+       ],
+       "correct": 2,
+       "textEn": "The Passivhaus standard is maintained by:",
+       "optionsEn": [
+        "Lund University",
+        "the European Commission",
+        "the Passivhaus-Institut in Darmstadt",
+        "the World Health Organization"
+       ]
+      },
+      {
+       "text": "Идеята възниква през 1988 г. в разговор между:",
+       "options": [
+        "Волфганг Файст и Албърт Айнщайн",
+        "две европейски комисии",
+        "двама строителни инженери от САЩ",
+        "Бо Адамсон и Волфганг Файст"
+       ],
+       "correct": 3,
+       "textEn": "The idea arose in 1988 in a conversation between:",
+       "optionsEn": [
+        "Wolfgang Feist and Albert Einstein",
+        "two European commissions",
+        "two civil engineers from the USA",
+        "Bo Adamson and Wolfgang Feist"
+       ]
+      },
+      {
+       "text": "Първите къщи по стандарта са построени в:",
+       "options": [
+        "Лунд (1988)",
+        "Дармщат-Кранихщайн (1990–1991)",
+        "Берлин (2000)",
+        "Виена (1996)"
+       ],
+       "correct": 1,
+       "textEn": "The first houses built to the standard were in:",
+       "optionsEn": [
+        "Lund (1988)",
+        "Darmstadt-Kranichstein (1990–1991)",
+        "Berlin (2000)",
+        "Vienna (1996)"
+       ]
+      },
+      {
+       "text": "Критерият за потребност от отопление е до:",
+       "options": [
+        "150 kWh/(m²·година)",
+        "15 kWh/(m²·година)",
+        "60 kWh/(m²·година)",
+        "1 kWh/(m²·година)"
+       ],
+       "correct": 1,
+       "textEn": "The heating demand criterion is up to:",
+       "optionsEn": [
+        "150 kWh/(m²·year)",
+        "15 kWh/(m²·year)",
+        "60 kWh/(m²·year)",
+        "1 kWh/(m²·year)"
+       ]
+      },
+      {
+       "text": "Пиковата топлинна нужда по стандарта е до:",
+       "options": [
+        "100 W/m²",
+        "1 W/m²",
+        "50 W/m²",
+        "10 W/m²"
+       ],
+       "correct": 3,
+       "textEn": "The peak heating load under the standard is up to:",
+       "optionsEn": [
+        "100 W/m²",
+        "1 W/m²",
+        "50 W/m²",
+        "10 W/m²"
+       ]
+      },
+      {
+       "text": "Въздухонепропускливостта по Passivhaus е:",
+       "options": [
+        "n50 ≤ 6 h⁻¹",
+        "n50 ≤ 60 h⁻¹",
+        "n50 ≤ 0,6 h⁻¹",
+        "n50 ≥ 0,6 h⁻¹"
+       ],
+       "correct": 2,
+       "textEn": "Airtightness according to Passivhaus is:",
+       "optionsEn": [
+        "n50 ≤ 6 h⁻¹",
+        "n50 ≤ 60 h⁻¹",
+        "n50 ≤ 0.6 h⁻¹",
+        "n50 ≥ 0.6 h⁻¹"
+       ]
+      },
+      {
+       "text": "Херметичността се проверява с:",
+       "options": [
+        "тест с вентилатор (blower door)",
+        "термометър",
+        "водомер",
+        "кантар"
+       ],
+       "correct": 0,
+       "textEn": "Airtightness is checked with:",
+       "optionsEn": [
+        "a fan test (blower door)",
+        "a thermometer",
+        "a water meter",
+        "a weighing scale"
+       ]
+      },
+      {
+       "text": "Топлинната ефективност на вентилацията с рекуперация обикновено е над:",
+       "options": [
+        "10 %",
+        "30 %",
+        "50 %",
+        "75 %"
+       ],
+       "correct": 3,
+       "textEn": "The heat recovery efficiency of ventilation with heat recovery is usually above:",
+       "optionsEn": [
+        "10 %",
+        "30 %",
+        "50 %",
+        "75 %"
+       ]
+      },
+      {
+       "text": "Топлинен мост е:",
+       "options": [
+        "вид прозорец",
+        "място, през което топлината бяга по-бързо",
+        "вид вентилация",
+        "слънчев колектор"
+       ],
+       "correct": 1,
+       "textEn": "A thermal bridge is:",
+       "optionsEn": [
+        "a type of window",
+        "a place through which heat escapes faster",
+        "a type of ventilation",
+        "a solar collector"
+       ]
+      },
+      {
+       "text": "В пасивната къща прозорците на юг са:",
+       "options": [
+        "големи — за слънчева печалба",
+        "най-малките",
+        "липсват",
+        "само на покрива"
+       ],
+       "correct": 0,
+       "textEn": "In a passive house, the south-facing windows are:",
+       "optionsEn": [
+        "large — for solar gain",
+        "the smallest",
+        "absent",
+        "only on the roof"
+       ]
+      },
+      {
+       "text": "През лятото прегряването се намалява с:",
+       "options": [
+        "премахване на изолацията",
+        "по-тесни прозорци на север",
+        "външно засенчване — стрехи и щори",
+        "затваряне на вентилацията"
+       ],
+       "correct": 2,
+       "textEn": "In summer, overheating is reduced by:",
+       "optionsEn": [
+        "removing the insulation",
+        "narrower north windows",
+        "external shading — eaves and blinds",
+        "closing the ventilation"
+       ]
+      },
+      {
+       "text": "Според директива (ЕС) 2024/1275 всички нови сгради, освен обществените, трябва да са с нулеви емисии от:",
+       "options": [
+        "1 януари 2030 г.",
+        "1 януари 2020 г.",
+        "1 януари 2035 г.",
+        "1 януари 2050 г."
+       ],
+       "correct": 0,
+       "textEn": "Under Directive (EU) 2024/1275, all new buildings except public ones must be zero-emission from:",
+       "optionsEn": [
+        "1 January 2030",
+        "1 January 2020",
+        "1 January 2035",
+        "1 January 2050"
+       ]
+      },
+      {
+       "text": "Директива 2010/31/ЕС изисква от 2020 г. новите сгради да бъдат:",
+       "options": [
+        "без прозорци",
+        "само от дърво",
+        "с почти нулево потребление на енергия",
+        "само пасивни къщи"
+       ],
+       "correct": 2,
+       "textEn": "Directive 2010/31/EU requires new buildings from 2020 to be:",
+       "optionsEn": [
+        "without windows",
+        "made only of wood",
+        "nearly zero-energy",
+        "passive houses only"
+       ]
+      },
+      {
+       "text": "BREEAM е система за сертифициране с произход от:",
+       "options": [
+        "САЩ",
+        "Германия",
+        "Франция",
+        "Великобритания"
+       ],
+       "correct": 3,
+       "textEn": "BREEAM is a certification system originating from:",
+       "optionsEn": [
+        "the USA",
+        "Germany",
+        "France",
+        "the United Kingdom"
+       ]
+      },
+      {
+       "text": "Риск при пасивна къща, ако не се прилага правилно, е:",
+       "options": [
+        "липса на слънце",
+        "недостатъчна вентилация — лош въздух",
+        "студени стени",
+        "шум отвън"
+       ],
+       "correct": 1,
+       "textEn": "A risk of a passive house if not applied correctly is:",
+       "optionsEn": [
+        "lack of sun",
+        "insufficient ventilation — poor air",
+        "cold walls",
+        "outside noise"
+       ]
+      }
+     ]
+    }
+   }
   }
  }
 }
