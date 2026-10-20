@@ -10850,6 +10850,313 @@
        ]
       }
      ]
+    },
+    "test3": {
+     "id": "builtin_farmacia_test3",
+     "titleBg": "Тест 3 – Хигиена на аптеките",
+     "titleEn": "Test 3 – Hygiene of Pharmacies",
+     "questions": [
+      {
+       "text": "Коя от изброените дейности се извършва в аптеката?",
+       "options": [
+        "Производство на активни фармацевтични субстанции в промишлен мащаб",
+        "Съхраняване, приготвяне и отпускане на лекарствени продукти",
+        "Извършване на хирургични интервенции"
+       ],
+       "correct": 1,
+       "textEn": "Which of the following activities is carried out in a pharmacy?",
+       "optionsEn": [
+        "Production of active pharmaceutical ingredients on an industrial scale",
+        "Storage, preparation and dispensing of medicinal products",
+        "Performing surgical interventions"
+       ]
+      },
+      {
+       "text": "Каква е минималната площ на аптека с готови и екстемпорални лекарствени форми без стерилни форми при едно работно място?",
+       "options": [
+        "20 кв. м",
+        "30 кв. м",
+        "40 кв. м"
+       ],
+       "correct": 2,
+       "textEn": "What is the minimum area of a pharmacy with ready-made and extemporaneous dosage forms, without sterile forms, with one workstation?",
+       "optionsEn": [
+        "20 m²",
+        "30 m²",
+        "40 m²"
+       ]
+      },
+      {
+       "text": "С колко се увеличава минималната площ за всяко следващо работно място?",
+       "options": [
+        "5 кв. м",
+        "10 кв. м",
+        "15 кв. м"
+       ],
+       "correct": 0,
+       "textEn": "By how much does the minimum area increase for each additional workstation?",
+       "optionsEn": [
+        "5 m²",
+        "10 m²",
+        "15 m²"
+       ]
+      },
+      {
+       "text": "Каква е минималната площ на болнична аптека?",
+       "options": [
+        "0,25 кв. м на легло, но не по-малко от 30 кв. м",
+        "0,50 кв. м на легло, но не по-малко от 50 кв. м",
+        "1 кв. м на легло, но не по-малко от 40 кв. м"
+       ],
+       "correct": 1,
+       "textEn": "What is the minimum area of a hospital pharmacy?",
+       "optionsEn": [
+        "0.25 m² per bed, but not less than 30 m²",
+        "0.50 m² per bed, but not less than 50 m²",
+        "1 m² per bed, but not less than 40 m²"
+       ]
+      },
+      {
+       "text": "Каква е минималната площ на билкова аптека?",
+       "options": [
+        "40 кв. м",
+        "50 кв. м",
+        "60 кв. м"
+       ],
+       "correct": 2,
+       "textEn": "What is the minimum area of a herbal pharmacy?",
+       "optionsEn": [
+        "40 m²",
+        "50 m²",
+        "60 m²"
+       ]
+      },
+      {
+       "text": "Кое помещение е основното производствено помещение в аптеката?",
+       "options": [
+        "Асистентското помещение",
+        "Приемното отделение",
+        "Складовото помещение"
+       ],
+       "correct": 0,
+       "textEn": "Which room is the main production room in a pharmacy?",
+       "optionsEn": [
+        "The assistant's (compounding) room",
+        "The reception (dispensing) area",
+        "The storage room"
+       ]
+      },
+      {
+       "text": "Кое е основното предназначение на приемното отделение?",
+       "options": [
+        "Съхранение на наркотични вещества",
+        "Рецептурна работа и отпускане на лекарствени продукти",
+        "Измиване на лабораторни съдове"
+       ],
+       "correct": 1,
+       "textEn": "What is the main purpose of the reception (dispensing) area?",
+       "optionsEn": [
+        "Storage of narcotic substances",
+        "Prescription work and dispensing of medicinal products",
+        "Washing laboratory glassware"
+       ]
+      },
+      {
+       "text": "Как трябва да се съхраняват наркотичните вещества в аптеката?",
+       "options": [
+        "В открити рафтове в приемното отделение",
+        "В обикновен хладилник без заключване",
+        "В метална каса, неподвижно закрепена и свързана със СОТ"
+       ],
+       "correct": 2,
+       "textEn": "How must narcotic substances be stored in a pharmacy?",
+       "optionsEn": [
+        "On open shelves in the dispensing area",
+        "In an ordinary unlocked refrigerator",
+        "In a metal safe, fixed in place and connected to a security alarm system"
+       ]
+      },
+      {
+       "text": "Каква е минималната светла височина на основните помещения в аптеката?",
+       "options": [
+        "2,0 м",
+        "2,5 м",
+        "3,5 м"
+       ],
+       "correct": 1,
+       "textEn": "What is the minimum clear height of the main rooms in a pharmacy?",
+       "optionsEn": [
+        "2.0 m",
+        "2.5 m",
+        "3.5 m"
+       ]
+      },
+      {
+       "text": "Какви трябва да бъдат стените в помещенията на аптеката?",
+       "options": [
+        "Гладки, с покритие, позволяващо лесно почистване",
+        "С релефни мазилки за по-добра вентилация",
+        "С необработени порести повърхности"
+       ],
+       "correct": 0,
+       "textEn": "What should the walls of pharmacy rooms be like?",
+       "optionsEn": [
+        "Smooth, with a finish that allows easy cleaning",
+        "With textured plaster for better ventilation",
+        "With untreated porous surfaces"
+       ]
+      },
+      {
+       "text": "Каква температура на въздуха е оптимална за микроклимата в аптеката?",
+       "options": [
+        "10–15 °C",
+        "18–21 °C",
+        "25–30 °C"
+       ],
+       "correct": 1,
+       "textEn": "What air temperature is optimal for the pharmacy microclimate?",
+       "optionsEn": [
+        "10–15 °C",
+        "18–21 °C",
+        "25–30 °C"
+       ]
+      },
+      {
+       "text": "Каква относителна влажност е оптимална за микроклимата в аптеката?",
+       "options": [
+        "10–20 %",
+        "70–90 %",
+        "40–60 %"
+       ],
+       "correct": 2,
+       "textEn": "What relative humidity is optimal for the pharmacy microclimate?",
+       "optionsEn": [
+        "10–20 %",
+        "70–90 %",
+        "40–60 %"
+       ]
+      },
+      {
+       "text": "Каква трябва да бъде скоростта на движение на въздуха в аптеката?",
+       "options": [
+        "0,1–0,2 м/с",
+        "0,5–0,8 м/с",
+        "1,0–1,5 м/с"
+       ],
+       "correct": 0,
+       "textEn": "What should the air velocity be in a pharmacy?",
+       "optionsEn": [
+        "0.1–0.2 m/s",
+        "0.5–0.8 m/s",
+        "1.0–1.5 m/s"
+       ]
+      },
+      {
+       "text": "Какво е изискването към осветеността в аптеката?",
+       "options": [
+        "Не по-малко от 100 lx",
+        "Не по-малко от 300 lx",
+        "Не повече от 150 lx"
+       ],
+       "correct": 1,
+       "textEn": "What is the requirement for illuminance in a pharmacy?",
+       "optionsEn": [
+        "Not less than 100 lx",
+        "Not less than 300 lx",
+        "Not more than 150 lx"
+       ]
+      },
+      {
+       "text": "Къде трябва да има мивки с топла и студена вода?",
+       "options": [
+        "Само в приемното отделение",
+        "Само в складовото помещение",
+        "В асистентското помещение, миялната и изолационното преддверие пред санитарния възел"
+       ],
+       "correct": 2,
+       "textEn": "Where must there be sinks with hot and cold water?",
+       "optionsEn": [
+        "Only in the dispensing area",
+        "Only in the storage room",
+        "In the assistant's room, the washing room and the lobby in front of the toilet"
+       ]
+      },
+      {
+       "text": "При каква температура се съхраняват ваксини и серуми?",
+       "options": [
+        "При температура не по-висока от 8 °C",
+        "При 18–21 °C",
+        "При температура не по-ниска от 15 °C"
+       ],
+       "correct": 0,
+       "textEn": "At what temperature are vaccines and sera stored?",
+       "optionsEn": [
+        "At a temperature not higher than 8 °C",
+        "At 18–21 °C",
+        "At a temperature not lower than 15 °C"
+       ]
+      },
+      {
+       "text": "Кои фактори могат да повлияят неблагоприятно върху качествата на лекарствените продукти?",
+       "options": [
+        "Само шумът и вибрациите",
+        "Светлината, UV-лъчите и параметрите на микроклимата",
+        "Само цветът на стените"
+       ],
+       "correct": 1,
+       "textEn": "Which factors can adversely affect the quality of medicinal products?",
+       "optionsEn": [
+        "Only noise and vibration",
+        "Light, UV rays and microclimate parameters",
+        "Only the colour of the walls"
+       ]
+      },
+      {
+       "text": "Как трябва да се съхраняват билките в аптеката?",
+       "options": [
+        "Заедно с всички останали лекарствени форми в отворени съдове",
+        "Във влажно помещение за запазване на аромата",
+        "Отделно от другите лекарствени форми, в добре затворени шкафове"
+       ],
+       "correct": 2,
+       "textEn": "How should herbs be stored in a pharmacy?",
+       "optionsEn": [
+        "Together with all other dosage forms in open containers",
+        "In a humid room to preserve the aroma",
+        "Separately from other dosage forms, in well-closed cabinets"
+       ]
+      },
+      {
+       "text": "Какво е изискването към работното облекло на аптечния персонал?",
+       "options": [
+        "Да бъде чисто и да съдържа информация за името, квалификацията и длъжността на фармацевта",
+        "Да се носи само при приготвяне на лекарствени форми",
+        "Да може да се използва извън аптеката без ограничения"
+       ],
+       "correct": 0,
+       "textEn": "What is the requirement for the work clothing of pharmacy staff?",
+       "optionsEn": [
+        "It must be clean and show the pharmacist's name, qualification and position",
+        "It is worn only when preparing dosage forms",
+        "It may be used outside the pharmacy without restriction"
+       ]
+      },
+      {
+       "text": "Коя от изброените групи продукти може да се продава в дрогерия?",
+       "options": [
+        "Всички лекарствени продукти, включително отпусканите само по лекарско предписание",
+        "Лекарствени продукти без лекарско предписание, медицински изделия и определени други продукти",
+        "Само лекарствени продукти, приготвени екстемпорално"
+       ],
+       "correct": 1,
+       "textEn": "Which of the following product groups may be sold in a drugstore?",
+       "optionsEn": [
+        "All medicinal products, including prescription-only ones",
+        "Non-prescription medicinal products, medical devices and certain other products",
+        "Only extemporaneously prepared medicinal products"
+       ]
+      }
+     ]
     }
    }
   },
