@@ -11157,6 +11157,620 @@
        ]
       }
      ]
+    },
+    "test4": {
+     "id": "builtin_farmacia_test4",
+     "titleBg": "Тест 4 – Аптеки: устройство и хигиенни изисквания",
+     "titleEn": "Test 4 – Pharmacies: Layout and Hygiene Requirements",
+     "questions": [
+      {
+       "text": "Какво представлява аптеката?",
+       "options": [
+        "Търговски обект за продажба на хранителни продукти",
+        "Здравно заведение, в което се извършват дейности с лекарствени продукти",
+        "Лечебно заведение само за болнично лечение"
+       ],
+       "correct": 1,
+       "textEn": "What is a pharmacy?",
+       "optionsEn": [
+        "A retail outlet for selling food products",
+        "A healthcare establishment in which activities with medicinal products are carried out",
+        "A medical facility for inpatient treatment only"
+       ]
+      },
+      {
+       "text": "Кои помещения са задължителни за аптека с готови и екстемпорални лекарствени форми без стерилни форми?",
+       "options": [
+        "Приемно, склад, асистентско помещение, бокс за дестилирана вода и санитарен възел",
+        "Само приемно помещение и санитарен възел",
+        "Приемно, операционна зала и стая за пациенти"
+       ],
+       "correct": 0,
+       "textEn": "Which rooms are mandatory for a pharmacy with ready-made and extemporaneous dosage forms, without sterile forms?",
+       "optionsEn": [
+        "Dispensing area, storage room, assistant's room, distilled water booth and toilet",
+        "Only a dispensing area and a toilet",
+        "Dispensing area, operating theatre and patient room"
+       ]
+      },
+      {
+       "text": "Каква е минималната площ на аптека с готови и екстемпорални лекарствени форми без стерилни форми при един работещ фармацевт?",
+       "options": [
+        "30 кв. м",
+        "40 кв. м",
+        "50 кв. м"
+       ],
+       "correct": 1,
+       "textEn": "What is the minimum area of a pharmacy with ready-made and extemporaneous dosage forms, without sterile forms, with one working pharmacist?",
+       "optionsEn": [
+        "30 m²",
+        "40 m²",
+        "50 m²"
+       ]
+      },
+      {
+       "text": "Каква допълнителна площ се предвижда за всяко следващо работно място?",
+       "options": [
+        "2 кв. м",
+        "5 кв. м",
+        "10 кв. м"
+       ],
+       "correct": 1,
+       "textEn": "What additional area is provided for each additional workstation?",
+       "optionsEn": [
+        "2 m²",
+        "5 m²",
+        "10 m²"
+       ]
+      },
+      {
+       "text": "Каква е минималната площ на аптека с готови и екстемпорални лекарствени форми със стерилни форми при един фармацевт?",
+       "options": [
+        "40 кв. м",
+        "50 кв. м",
+        "60 кв. м"
+       ],
+       "correct": 1,
+       "textEn": "What is the minimum area of a pharmacy with ready-made and extemporaneous dosage forms, with sterile forms, with one pharmacist?",
+       "optionsEn": [
+        "40 m²",
+        "50 m²",
+        "60 m²"
+       ]
+      },
+      {
+       "text": "Каква е минималната площ на болнична аптека?",
+       "options": [
+        "0,25 кв. м на легло, но не по-малко от 30 кв. м",
+        "0,50 кв. м на легло, но не по-малко от 50 кв. м",
+        "1 кв. м на легло, но не по-малко от 100 кв. м"
+       ],
+       "correct": 1,
+       "textEn": "What is the minimum area of a hospital pharmacy?",
+       "optionsEn": [
+        "0.25 m² per bed, but not less than 30 m²",
+        "0.50 m² per bed, but not less than 50 m²",
+        "1 m² per bed, but not less than 100 m²"
+       ]
+      },
+      {
+       "text": "Каква е минималната площ на билкова аптека?",
+       "options": [
+        "40 кв. м",
+        "50 кв. м",
+        "60 кв. м"
+       ],
+       "correct": 2,
+       "textEn": "What is the minimum area of a herbal pharmacy?",
+       "optionsEn": [
+        "40 m²",
+        "50 m²",
+        "60 m²"
+       ]
+      },
+      {
+       "text": "Каква е минималната площ на аптека в населено място без друга аптека?",
+       "options": [
+        "20 кв. м",
+        "30 кв. м",
+        "40 кв. м"
+       ],
+       "correct": 0,
+       "textEn": "What is the minimum area of a pharmacy in a settlement with no other pharmacy?",
+       "optionsEn": [
+        "20 m²",
+        "30 m²",
+        "40 m²"
+       ]
+      },
+      {
+       "text": "Кое е основното предназначение на приемното отделение?",
+       "options": [
+        "Съхранение на наркотични вещества",
+        "Рецептурна работа и отпускане на лекарствени продукти",
+        "Измиване и стерилизиране на съдовете"
+       ],
+       "correct": 1,
+       "textEn": "What is the main purpose of the dispensing (reception) area?",
+       "optionsEn": [
+        "Storage of narcotic substances",
+        "Prescription work and dispensing of medicinal products",
+        "Washing and sterilizing containers"
+       ]
+      },
+      {
+       "text": "Кое помещение е основното производствено помещение в аптеката?",
+       "options": [
+        "Асистентското помещение",
+        "Приемното отделение",
+        "Складовото помещение"
+       ],
+       "correct": 0,
+       "textEn": "Which room is the main production room in a pharmacy?",
+       "optionsEn": [
+        "The assistant's (compounding) room",
+        "The dispensing area",
+        "The storage room"
+       ]
+      },
+      {
+       "text": "Как трябва да се съхраняват наркотичните вещества в аптеката?",
+       "options": [
+        "На открити рафтове",
+        "В метална каса, неподвижно закрепена и свързана със СОТ",
+        "В обикновен шкаф в приемното отделение"
+       ],
+       "correct": 1,
+       "textEn": "How must narcotic substances be stored in a pharmacy?",
+       "optionsEn": [
+        "On open shelves",
+        "In a metal safe, fixed in place and connected to a security alarm system",
+        "In an ordinary cabinet in the dispensing area"
+       ]
+      },
+      {
+       "text": "Каква е минималната светла височина на основните помещения?",
+       "options": [
+        "2,0 м",
+        "2,5 м",
+        "3,5 м"
+       ],
+       "correct": 1,
+       "textEn": "What is the minimum clear height of the main rooms?",
+       "optionsEn": [
+        "2.0 m",
+        "2.5 m",
+        "3.5 m"
+       ]
+      },
+      {
+       "text": "Какви трябва да бъдат стенните повърхности в аптеката?",
+       "options": [
+        "Гладки и позволяващи лесно почистване",
+        "С релефни мазилки за по-добра вентилация",
+        "Покрити с необработено дърво"
+       ],
+       "correct": 0,
+       "textEn": "What should the wall surfaces in a pharmacy be like?",
+       "optionsEn": [
+        "Smooth and easy to clean",
+        "With textured plaster for better ventilation",
+        "Covered with untreated wood"
+       ]
+      },
+      {
+       "text": "Каква температура на въздуха е посочена като оптимална за микроклимата в аптеката?",
+       "options": [
+        "10–15 °C",
+        "18–21 °C",
+        "25–30 °C"
+       ],
+       "correct": 1,
+       "textEn": "What air temperature is given as optimal for the pharmacy microclimate?",
+       "optionsEn": [
+        "10–15 °C",
+        "18–21 °C",
+        "25–30 °C"
+       ]
+      },
+      {
+       "text": "Каква относителна влажност е посочена като оптимална за микроклимата в аптеката?",
+       "options": [
+        "20–30 %",
+        "40–60 %",
+        "70–90 %"
+       ],
+       "correct": 1,
+       "textEn": "What relative humidity is given as optimal for the pharmacy microclimate?",
+       "optionsEn": [
+        "20–30 %",
+        "40–60 %",
+        "70–90 %"
+       ]
+      },
+      {
+       "text": "Каква трябва да бъде скоростта на движение на въздуха?",
+       "options": [
+        "0,1–0,2 м/с",
+        "0,5–1,0 м/с",
+        "2–3 м/с"
+       ],
+       "correct": 0,
+       "textEn": "What should the air velocity be?",
+       "optionsEn": [
+        "0.1–0.2 m/s",
+        "0.5–1.0 m/s",
+        "2–3 m/s"
+       ]
+      },
+      {
+       "text": "Какво е минималното осветление за аптеката?",
+       "options": [
+        "Не по-малко от 100 lx",
+        "Не по-малко от 200 lx",
+        "Не по-малко от 300 lx"
+       ],
+       "correct": 2,
+       "textEn": "What is the minimum lighting for a pharmacy?",
+       "optionsEn": [
+        "Not less than 100 lx",
+        "Not less than 200 lx",
+        "Not less than 300 lx"
+       ]
+      },
+      {
+       "text": "При каква максимална температура се съхраняват ваксините и серумите?",
+       "options": [
+        "Не по-висока от 8 °C",
+        "Не по-висока от 15 °C",
+        "Не по-висока от 25 °C"
+       ],
+       "correct": 0,
+       "textEn": "At what maximum temperature are vaccines and sera stored?",
+       "optionsEn": [
+        "Not higher than 8 °C",
+        "Not higher than 15 °C",
+        "Not higher than 25 °C"
+       ]
+      },
+      {
+       "text": "Как трябва да се съхраняват билките в аптеката?",
+       "options": [
+        "Заедно с всички останали лекарствени форми на открити рафтове",
+        "Отделно от другите лекарствени форми, в добре затворени шкафове",
+        "Във влажно помещение за запазване на аромата"
+       ],
+       "correct": 1,
+       "textEn": "How should herbs be stored in a pharmacy?",
+       "optionsEn": [
+        "Together with all other dosage forms on open shelves",
+        "Separately from other dosage forms, in well-closed cabinets",
+        "In a humid room to preserve the aroma"
+       ]
+      },
+      {
+       "text": "Кое изискване се отнася до работното облекло на аптечния персонал?",
+       "options": [
+        "Може да се носи извън аптеката",
+        "Задължително е чисто работно облекло и работни обувки",
+        "Работното облекло е необходимо само при приготвяне на стерилни форми"
+       ],
+       "correct": 1,
+       "textEn": "Which requirement applies to the work clothing of pharmacy staff?",
+       "optionsEn": [
+        "It may be worn outside the pharmacy",
+        "Clean work clothing and work shoes are mandatory",
+        "Work clothing is needed only when preparing sterile forms"
+       ]
+      }
+     ]
+    },
+    "test5": {
+     "id": "builtin_farmacia_test5",
+     "titleBg": "Тест 5 – Лична хигиена и здравословен начин на живот",
+     "titleEn": "Test 5 – Personal Hygiene and a Healthy Lifestyle",
+     "questions": [
+      {
+       "text": "Каква е основната цел на личната хигиена?",
+       "options": [
+        "Запазване и укрепване на личното здраве",
+        "Лечение единствено на инфекциозни заболявания",
+        "Ограничаване на физическата активност"
+       ],
+       "correct": 0,
+       "textEn": "What is the main goal of personal hygiene?",
+       "optionsEn": [
+        "Preserving and strengthening personal health",
+        "Treating only infectious diseases",
+        "Limiting physical activity"
+       ]
+      },
+      {
+       "text": "Кой фактор има най-голям относителен дял при определяне на здравето?",
+       "options": [
+        "Генетичните фактори – 20%",
+        "Начинът на живот – 50%",
+        "Здравните системи – 10%"
+       ],
+       "correct": 1,
+       "textEn": "Which factor has the largest relative share in determining health?",
+       "optionsEn": [
+        "Genetic factors – 20%",
+        "Lifestyle – 50%",
+        "Health systems – 10%"
+       ]
+      },
+      {
+       "text": "Кои са седемте златни правила за здравословен начин на живот?",
+       "options": [
+        "Редовен сън, здравословно хранене, закуска, нормално тегло, физическа активност и закаляване, отказ от цигари и наркотици, въздържане от алкохол и медикаменти",
+        "Само диета, прием на витамини и ежедневно спортуване",
+        "Продължителен сън, ограничаване на водата и избягване на движение"
+       ],
+       "correct": 0,
+       "textEn": "What are the seven golden rules for a healthy lifestyle?",
+       "optionsEn": [
+        "Regular sleep, healthy eating, breakfast, normal weight, physical activity and hardening, no smoking or drugs, abstaining from alcohol and medicines",
+        "Only diet, taking vitamins and daily sport",
+        "Long sleep, limiting water and avoiding movement"
+       ]
+      },
+      {
+       "text": "Какво е нормалното pH на човешката кожа?",
+       "options": [
+        "2,0–3,0",
+        "4,5–5,5",
+        "8,0–9,0"
+       ],
+       "correct": 1,
+       "textEn": "What is the normal pH of human skin?",
+       "optionsEn": [
+        "2.0–3.0",
+        "4.5–5.5",
+        "8.0–9.0"
+       ]
+      },
+      {
+       "text": "Какъв тип сапуни се препоръчват за ежедневна хигиена на кожата?",
+       "options": [
+        "Силно алкални сапуни с високо съдържание на свободна основа",
+        "Неутрални сапуни с минимално съдържание на свободна основа",
+        "Сапуни с възможно най-високо съдържание на абразивни вещества"
+       ],
+       "correct": 1,
+       "textEn": "What type of soap is recommended for daily skin hygiene?",
+       "optionsEn": [
+        "Strongly alkaline soaps with a high free alkali content",
+        "Neutral soaps with a minimal free alkali content",
+        "Soaps with the highest possible content of abrasives"
+       ]
+      },
+      {
+       "text": "Какъв е основният механизъм на действие на сапуните и повърхностноактивните вещества при почистване на кожата?",
+       "options": [
+        "Повишават повърхностното напрежение на водата",
+        "Намаляват повърхностното напрежение и улесняват отмиването на замърсителите",
+        "Запечатват кожата и възпрепятстват отмиването на мазнините"
+       ],
+       "correct": 1,
+       "textEn": "What is the main mechanism of action of soaps and surfactants in cleaning the skin?",
+       "optionsEn": [
+        "They increase the surface tension of water",
+        "They reduce surface tension and make it easier to wash off contaminants",
+        "They seal the skin and prevent fats from being washed off"
+       ]
+      },
+      {
+       "text": "Каква е една от основните хигиенни функции на кожата?",
+       "options": [
+        "Участие в терморегулацията и защитата на организма",
+        "Пълно предотвратяване на загубата на вода от организма",
+        "Осъществяване на основната газова обмяна на организма"
+       ],
+       "correct": 0,
+       "textEn": "What is one of the main hygienic functions of the skin?",
+       "optionsEn": [
+        "Taking part in thermoregulation and protecting the body",
+        "Completely preventing water loss from the body",
+        "Carrying out the body's main gas exchange"
+       ]
+      },
+      {
+       "text": "Кое е основно изискване към козметичните средства?",
+       "options": [
+        "Да имат алкално pH независимо от предназначението си",
+        "Да не увреждат здравето при спазване на инструкциите за употреба",
+        "Да съдържат задължително антимикробни вещества"
+       ],
+       "correct": 1,
+       "textEn": "What is a basic requirement for cosmetic products?",
+       "optionsEn": [
+        "To have an alkaline pH regardless of their purpose",
+        "Not to harm health when the instructions for use are followed",
+        "To necessarily contain antimicrobial substances"
+       ]
+      },
+      {
+       "text": "Кое е основно хигиенно изискване към облеклото?",
+       "options": [
+        "Да бъде плътно прилепнало към тялото във всички случаи",
+        "Да не затруднява движенията, дишането и кръвообращението",
+        "Да не пропуска никакъв въздух"
+       ],
+       "correct": 1,
+       "textEn": "What is a basic hygienic requirement for clothing?",
+       "optionsEn": [
+        "To fit tightly to the body in all cases",
+        "Not to restrict movement, breathing and blood circulation",
+        "Not to let any air through"
+       ]
+      },
+      {
+       "text": "Кое свойство на тъканите представлява способността им да поглъщат водни пари от въздуха и поддрешното пространство?",
+       "options": [
+        "Хигроскопичност",
+        "Водоемкост",
+        "Топлопроводимост"
+       ],
+       "correct": 0,
+       "textEn": "Which property of fabrics is their ability to absorb water vapour from the air and the space under the clothing?",
+       "optionsEn": [
+        "Hygroscopicity",
+        "Water-holding capacity",
+        "Thermal conductivity"
+       ]
+      },
+      {
+       "text": "Кои тъкани са подходящи за бельо поради добрата си хигроскопичност?",
+       "options": [
+        "Тъкани с висока хигроскопичност",
+        "Тъкани с минимална хигроскопичност",
+        "Само непропускливи синтетични тъкани"
+       ],
+       "correct": 0,
+       "textEn": "Which fabrics are suitable for underwear because of their good hygroscopicity?",
+       "optionsEn": [
+        "Fabrics with high hygroscopicity",
+        "Fabrics with minimal hygroscopicity",
+        "Only impermeable synthetic fabrics"
+       ]
+      },
+      {
+       "text": "Какъв цвят облекло е най-подходящ през лятото с оглед ограничаване на поглъщането на слънчевата радиация?",
+       "options": [
+        "Тъмно",
+        "Светло",
+        "Цветът няма никакво значение"
+       ],
+       "correct": 1,
+       "textEn": "Which colour of clothing is most suitable in summer to limit absorption of solar radiation?",
+       "optionsEn": [
+        "Dark",
+        "Light",
+        "Colour does not matter at all"
+       ]
+      },
+      {
+       "text": "Каква е препоръчителната височина на тока на обувките?",
+       "options": [
+        "2–3 см",
+        "6–8 см",
+        "10–12 см"
+       ],
+       "correct": 0,
+       "textEn": "What is the recommended heel height of shoes?",
+       "optionsEn": [
+        "2–3 cm",
+        "6–8 cm",
+        "10–12 cm"
+       ]
+      },
+      {
+       "text": "Какво може да причини продължителното носене на тесни и неудобни обувки?",
+       "options": [
+        "Подобряване на кръвообращението в стъпалото",
+        "Деформация на стъпалото и затруднено кръвообращение",
+        "Повишаване на въздухопроводимостта на кожата"
+       ],
+       "correct": 1,
+       "textEn": "What can prolonged wearing of tight and uncomfortable shoes cause?",
+       "optionsEn": [
+        "Improved blood circulation in the foot",
+        "Foot deformity and impaired blood circulation",
+        "Increased air permeability of the skin"
+       ]
+      },
+      {
+       "text": "Как се определя физическата активност?",
+       "options": [
+        "Всяко телесно движение, произведено от скелетните мускули, което изисква разход на енергия",
+        "Само системните занимания с професионален спорт",
+        "Само физическите упражнения на работното място"
+       ],
+       "correct": 0,
+       "textEn": "How is physical activity defined?",
+       "optionsEn": [
+        "Any bodily movement produced by skeletal muscles that requires energy expenditure",
+        "Only regular professional sport",
+        "Only physical exercise at the workplace"
+       ]
+      },
+      {
+       "text": "Каква минимална продължителност на аеробната физическа активност с умерена интензивност седмично е подходяща за възрастни?",
+       "options": [
+        "30–60 минути",
+        "150–300 минути",
+        "500–600 минути"
+       ],
+       "correct": 1,
+       "textEn": "What minimum weekly duration of moderate-intensity aerobic physical activity is appropriate for adults?",
+       "optionsEn": [
+        "30–60 minutes",
+        "150–300 minutes",
+        "500–600 minutes"
+       ]
+      },
+      {
+       "text": "Кои са основните принципи на закаляването?",
+       "options": [
+        "Постепенност и системност",
+        "Рязко увеличаване на натоварването и прекъсване на процедурите",
+        "Прилагане само при ниски температури"
+       ],
+       "correct": 0,
+       "textEn": "What are the main principles of hardening (cold conditioning)?",
+       "optionsEn": [
+        "Gradualness and regularity",
+        "A sharp increase in load and interrupting the procedures",
+        "Applying it only at low temperatures"
+       ]
+      },
+      {
+       "text": "При каква температура започват въздушните бани?",
+       "options": [
+        "5–10 °C",
+        "18–20 °C",
+        "30–35 °C"
+       ],
+       "correct": 1,
+       "textEn": "At what temperature do air baths begin?",
+       "optionsEn": [
+        "5–10 °C",
+        "18–20 °C",
+        "30–35 °C"
+       ]
+      },
+      {
+       "text": "При каква температура започва обливането с вода при закаляване?",
+       "options": [
+        "10–15 °C",
+        "18–20 °C",
+        "28–32 °C"
+       ],
+       "correct": 2,
+       "textEn": "At what temperature does pouring water over the body begin in hardening?",
+       "optionsEn": [
+        "10–15 °C",
+        "18–20 °C",
+        "28–32 °C"
+       ]
+      },
+      {
+       "text": "Кога се препоръчва провеждането на слънчеви бани?",
+       "options": [
+        "В часовете с най-силно слънцегреене",
+        "В сутрешните часове между 8 и 11 часа, с постепенно увеличаване на експозицията",
+        "Само след 18 часа, без значение от сезона"
+       ],
+       "correct": 1,
+       "textEn": "When are sunbaths recommended?",
+       "optionsEn": [
+        "During the hours of strongest sunshine",
+        "In the morning between 8 and 11 a.m., with gradually increasing exposure",
+        "Only after 6 p.m., regardless of the season"
+       ]
+      }
+     ]
     }
    }
   },
