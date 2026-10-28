@@ -10230,6 +10230,2435 @@
        ]
       }
      ]
+    },
+    "bezjichni": {
+     "id": "builtin_okoz1_bezjichni",
+     "titleBg": "Тест: Видове безжични технологии и рискове за здравето",
+     "titleEn": "Test: Types of Wireless Technologies and Health Risks",
+     "questions": [
+      {
+       "text": "Wi-Fi работи в диапазони:",
+       "options": [
+        "24–40 GHz само",
+        "2,4 GHz и 5 GHz",
+        "100 kHz",
+        "1,2 и 1,5 GHz само"
+       ],
+       "correct": 1,
+       "textEn": "Wi-Fi operates in the bands:",
+       "optionsEn": [
+        "24–40 GHz only",
+        "2.4 GHz and 5 GHz",
+        "100 kHz",
+        "1.2 and 1.5 GHz only"
+       ]
+      },
+      {
+       "text": "Обхватът на Bluetooth е до около:",
+       "options": [
+        "1 km",
+        "100 km",
+        "1 cm",
+        "10 m"
+       ],
+       "correct": 3,
+       "textEn": "The range of Bluetooth is up to about:",
+       "optionsEn": [
+        "1 km",
+        "100 km",
+        "1 cm",
+        "10 m"
+       ]
+      },
+      {
+       "text": "Безжичните технологии излъчват:",
+       "options": [
+        "йонизиращо лъчение",
+        "гама лъчи",
+        "нейонизиращо лъчение",
+        "рентгенови лъчи"
+       ],
+       "correct": 2,
+       "textEn": "Wireless technologies emit:",
+       "optionsEn": [
+        "ionizing radiation",
+        "gamma rays",
+        "non-ionizing radiation",
+        "X-rays"
+       ]
+      },
+      {
+       "text": "Основният доказан ефект на ЕМП при безжичните технологии е:",
+       "options": [
+        "леко локално затопляне на тъканите",
+        "откъсване на електрони от атомите",
+        "ядрени промени",
+        "оцветяване на кожата"
+       ],
+       "correct": 0,
+       "textEn": "The main proven effect of EMFs from wireless technologies is:",
+       "optionsEn": [
+        "slight local heating of tissues",
+        "stripping electrons from atoms",
+        "nuclear changes",
+        "skin discolouration"
+       ]
+      },
+      {
+       "text": "SAR е:",
+       "options": [
+        "честота на излъчване (Hz)",
+        "разстояние до антената (m)",
+        "напрегнатост на полето (V/m)",
+        "специфична степен на поглъщане (W/kg)"
+       ],
+       "correct": 3,
+       "textEn": "SAR is:",
+       "optionsEn": [
+        "emission frequency (Hz)",
+        "distance to the antenna (m)",
+        "field strength (V/m)",
+        "specific absorption rate (W/kg)"
+       ]
+      },
+      {
+       "text": "Допустимият SAR в ЕС и по ICNIRP е:",
+       "options": [
+        "1,6 W/kg, усреднено за 1 g тъкан",
+        "2,0 W/kg, усреднено за 10 g тъкан",
+        "10 W/kg за цялото тяло",
+        "0,1 W/kg"
+       ],
+       "correct": 1,
+       "textEn": "The permissible SAR in the EU and according to ICNIRP is:",
+       "optionsEn": [
+        "1.6 W/kg, averaged over 1 g of tissue",
+        "2.0 W/kg, averaged over 10 g of tissue",
+        "10 W/kg for the whole body",
+        "0.1 W/kg"
+       ]
+      },
+      {
+       "text": "Допустимият SAR в САЩ е:",
+       "options": [
+        "1,6 W/kg, усреднено за 1 g тъкан",
+        "2,0 W/kg, усреднено за 10 g тъкан",
+        "10 µW/cm²",
+        "20 W/kg"
+       ],
+       "correct": 0,
+       "textEn": "The permissible SAR in the USA is:",
+       "optionsEn": [
+        "1.6 W/kg, averaged over 1 g of tissue",
+        "2.0 W/kg, averaged over 10 g of tissue",
+        "10 µW/cm²",
+        "20 W/kg"
+       ]
+      },
+      {
+       "text": "IARC (СЗО) класифицира радиочестотните ЕМП в:",
+       "options": [
+        "Група 1 — доказано канцерогенни",
+        "Група 3 — не е класифицируемо за човека",
+        "Група 2B — възможно канцерогенни",
+        "Група 4 — вероятно неканцерогенни"
+       ],
+       "correct": 2,
+       "textEn": "IARC (WHO) classifies radiofrequency EMFs in:",
+       "optionsEn": [
+        "Group 1 — carcinogenic",
+        "Group 3 — not classifiable for humans",
+        "Group 2B — possibly carcinogenic",
+        "Group 4 — probably not carcinogenic"
+       ]
+      },
+      {
+       "text": "Група 2B означава:",
+       "options": [
+        "доказан риск",
+        "липса на какъвто и да е риск",
+        "възможен, а не доказан риск",
+        "задължителна забрана"
+       ],
+       "correct": 2,
+       "textEn": "Group 2B means:",
+       "optionsEn": [
+        "a proven risk",
+        "no risk whatsoever",
+        "a possible, not proven, risk",
+        "a mandatory ban"
+       ]
+      },
+      {
+       "text": "Нормата за населени територии в България по Наредба № 9/1991 г. за честоти над 300 MHz е:",
+       "options": [
+        "10 µW/cm²",
+        "100 µW/cm²",
+        "1 µW/cm²",
+        "0,1 µW/cm²"
+       ],
+       "correct": 0,
+       "textEn": "The norm for populated areas in Bulgaria under Ordinance No. 9/1991 for frequencies above 300 MHz is:",
+       "optionsEn": [
+        "10 µW/cm²",
+        "100 µW/cm²",
+        "1 µW/cm²",
+        "0.1 µW/cm²"
+       ]
+      },
+      {
+       "text": "NFC обменя информация на разстояния до:",
+       "options": [
+        "10 km",
+        "няколко сантиметра",
+        "100 m",
+        "1 m"
+       ],
+       "correct": 1,
+       "textEn": "NFC exchanges information over distances of up to:",
+       "optionsEn": [
+        "10 km",
+        "a few centimetres",
+        "100 m",
+        "1 m"
+       ]
+      },
+      {
+       "text": "RFID се използва за:",
+       "options": [
+        "пренос на електрическа енергия",
+        "рентгенова диагностика",
+        "определяне на pH",
+        "идентификация чрез радиочестотни тагове — логистика, контрол на достъп"
+       ],
+       "correct": 3,
+       "textEn": "RFID is used for:",
+       "optionsEn": [
+        "transmitting electrical power",
+        "X-ray diagnostics",
+        "determining pH",
+        "identification by radio-frequency tags — logistics, access control"
+       ]
+      },
+      {
+       "text": "5G мрежите се характеризират с:",
+       "options": [
+        "масивни MIMO антени и ниска латентност",
+        "само ниски честоти под 100 MHz",
+        "липса на базови станции",
+        "излъчване на гама лъчи"
+       ],
+       "correct": 0,
+       "textEn": "5G networks are characterized by:",
+       "optionsEn": [
+        "massive MIMO antennas and low latency",
+        "only low frequencies below 100 MHz",
+        "no base stations",
+        "emission of gamma rays"
+       ]
+      },
+      {
+       "text": "По-високите честоти (по-къса дължина на вълната) изискват:",
+       "options": [
+        "по-малко базови станции",
+        "изключване на мрежите",
+        "по-плътна мрежа от базови станции",
+        "преминаване към йонизиращо лъчение"
+       ],
+       "correct": 2,
+       "textEn": "Higher frequencies (shorter wavelength) require:",
+       "optionsEn": [
+        "fewer base stations",
+        "switching off the networks",
+        "a denser network of base stations",
+        "a switch to ionizing radiation"
+       ]
+      },
+      {
+       "text": "Честотите mmWave проникват в тъканите:",
+       "options": [
+        "по-дълбоко от всички други",
+        "без ограничение",
+        "не проникват, нито се поглъщат",
+        "по-плитко"
+       ],
+       "correct": 3,
+       "textEn": "mmWave frequencies penetrate tissues:",
+       "optionsEn": [
+        "deeper than all others",
+        "without limit",
+        "neither penetrate nor are absorbed",
+        "more shallowly"
+       ]
+      },
+      {
+       "text": "Мярка за намаляване на експозицията при мобилен телефон е:",
+       "options": [
+        "притискане на телефона до ухото",
+        "слушалки с кабел или високоговорител",
+        "носене до тялото при активно предаване",
+        "продължителни разговори при слаб сигнал"
+       ],
+       "correct": 1,
+       "textEn": "A measure to reduce exposure from a mobile phone is:",
+       "optionsEn": [
+        "pressing the phone to the ear",
+        "a wired headset or loudspeaker",
+        "carrying it against the body while transmitting",
+        "long calls with a weak signal"
+       ]
+      },
+      {
+       "text": "Нетермичните ефекти на ЕМП към момента са:",
+       "options": [
+        "напълно доказани",
+        "напълно изключени",
+        "единствените ефекти",
+        "предмет на изследвания и не са доказани еднозначно"
+       ],
+       "correct": 3,
+       "textEn": "The non-thermal effects of EMFs are currently:",
+       "optionsEn": [
+        "fully proven",
+        "completely ruled out",
+        "the only effects",
+        "the subject of research and not unequivocally proven"
+       ]
+      },
+      {
+       "text": "Спътниковите системи GPS, Galileo и ГЛОНАСС се използват за:",
+       "options": [
+        "измерване на pH",
+        "навигация",
+        "пречистване на вода",
+        "измерване на шум"
+       ],
+       "correct": 1,
+       "textEn": "The satellite systems GPS, Galileo and GLONASS are used for:",
+       "optionsEn": [
+        "measuring pH",
+        "navigation",
+        "water purification",
+        "measuring noise"
+       ]
+      },
+      {
+       "text": "ICNIRP е:",
+       "options": [
+        "Международна комисия за защита от нейонизиращо лъчение",
+        "агенция за пречистване на води",
+        "производител на телефони",
+        "орган за контрол на храните"
+       ],
+       "correct": 0,
+       "textEn": "ICNIRP is:",
+       "optionsEn": [
+        "the International Commission on Non-Ionizing Radiation Protection",
+        "a water treatment agency",
+        "a phone manufacturer",
+        "a food control body"
+       ]
+      },
+      {
+       "text": "При IoT и „умния дом“ всяко устройство поотделно излъчва:",
+       "options": [
+        "по-мощно от базова станция",
+        "йонизиращо лъчение",
+        "на много ниска мощност спрямо мобилен телефон",
+        "само в рентгеновия диапазон"
+       ],
+       "correct": 2,
+       "textEn": "In IoT and the \"smart home\", each individual device emits:",
+       "optionsEn": [
+        "more powerfully than a base station",
+        "ionizing radiation",
+        "at very low power compared with a mobile phone",
+        "only in the X-ray range"
+       ]
+      }
+     ]
+    },
+    "hlorirane": {
+     "id": "builtin_okoz1_hlorirane",
+     "titleBg": "Тест: Хлориране на питейна вода",
+     "titleEn": "Test: Chlorination of Drinking Water",
+     "questions": [
+      {
+       "text": "Активната форма за дезинфекция при хлорирането е:",
+       "options": [
+        "хипохлорната киселина (HOCl)",
+        "хлоридният йон (Cl⁻)",
+        "хлороводородът (HCl)",
+        "калциевият карбонат"
+       ],
+       "correct": 0,
+       "textEn": "The active form for disinfection in chlorination is:",
+       "optionsEn": [
+        "hypochlorous acid (HOCl)",
+        "the chloride ion (Cl⁻)",
+        "hydrogen chloride (HCl)",
+        "calcium carbonate"
+       ]
+      },
+      {
+       "text": "Балансът между HOCl и OCl⁻ във водата зависи от:",
+       "options": [
+        "цвета на водата",
+        "обема на резервоара",
+        "pH на водата",
+        "атмосферното налягане"
+       ],
+       "correct": 2,
+       "textEn": "The balance between HOCl and OCl⁻ in water depends on:",
+       "optionsEn": [
+        "the colour of the water",
+        "the volume of the tank",
+        "the pH of the water",
+        "atmospheric pressure"
+       ]
+      },
+      {
+       "text": "Не по-малко от ... контакт между хлора и водата се изисква преди отчитане на остатъчния хлор:",
+       "options": [
+        "1 минута",
+        "30 минути",
+        "5 минути",
+        "3 часа"
+       ],
+       "correct": 1,
+       "textEn": "A contact time between chlorine and water of not less than ... is required before measuring residual chlorine:",
+       "optionsEn": [
+        "1 minute",
+        "30 minutes",
+        "5 minutes",
+        "3 hours"
+       ]
+      },
+      {
+       "text": "Остатъчният хлор в мрежата според презентацията е:",
+       "options": [
+        "3–4 mg/l",
+        "0,03–0,04 mg/l",
+        "10–20 mg/l",
+        "0,3–0,4 mg/l"
+       ],
+       "correct": 3,
+       "textEn": "According to the presentation, residual chlorine in the network is:",
+       "optionsEn": [
+        "3–4 mg/l",
+        "0.03–0.04 mg/l",
+        "10–20 mg/l",
+        "0.3–0.4 mg/l"
+       ]
+      },
+      {
+       "text": "Обикновеното хлориране се прилага за:",
+       "options": [
+        "отпадъчни води",
+        "само басейни",
+        "природно чисти води",
+        "само индустриални охладителни системи"
+       ],
+       "correct": 2,
+       "textEn": "Simple chlorination is applied to:",
+       "optionsEn": [
+        "wastewater",
+        "swimming pools only",
+        "naturally clean waters",
+        "industrial cooling systems only"
+       ]
+      },
+      {
+       "text": "Прехлориране (суперхлориране) е хлориране с доза:",
+       "options": [
+        "многократно по-висока от хлорпоглъщаемостта",
+        "по-ниска от хлорпоглъщаемостта",
+        "равна на нула",
+        "само таблетна"
+       ],
+       "correct": 0,
+       "textEn": "Superchlorination is chlorination with a dose:",
+       "optionsEn": [
+        "many times higher than the chlorine demand",
+        "lower than the chlorine demand",
+        "equal to zero",
+        "in tablet form only"
+       ]
+      },
+      {
+       "text": "Двойно хлориране се прилага за:",
+       "options": [
+        "всички води без изключение",
+        "само дъждовна вода",
+        "само минерални води",
+        "кладенци при епидемични условия и дълги водопроводи"
+       ],
+       "correct": 3,
+       "textEn": "Double chlorination is applied to:",
+       "optionsEn": [
+        "all waters without exception",
+        "rainwater only",
+        "mineral waters only",
+        "wells under epidemic conditions and long water mains"
+       ]
+      },
+      {
+       "text": "Комбинираното хлориране добавя:",
+       "options": [
+        "озон",
+        "амониеви соли (хлорамини)",
+        "ултравиолетово лъчение",
+        "алуминиеви соли"
+       ],
+       "correct": 1,
+       "textEn": "Combined chlorination adds:",
+       "optionsEn": [
+        "ozone",
+        "ammonium salts (chloramines)",
+        "ultraviolet radiation",
+        "aluminium salts"
+       ]
+      },
+      {
+       "text": "Най-ефективен и най-евтин, но изискващ високо ниво на безопасност метод е хлорирането с:",
+       "options": [
+        "натриев хипохлорит",
+        "газообразен хлор",
+        "дихлороизоциануратни таблетки",
+        "хлордиоксид"
+       ],
+       "correct": 1,
+       "textEn": "The most effective and cheapest method, but requiring a high level of safety, is chlorination with:",
+       "optionsEn": [
+        "sodium hypochlorite",
+        "chlorine gas",
+        "dichloroisocyanurate tablets",
+        "chlorine dioxide"
+       ]
+      },
+      {
+       "text": "Натриевият хипохлорит се характеризира с:",
+       "options": [
+        "съхранение под налягане в стоманени бутилки",
+        "твърда форма с неограничена стабилност",
+        "употреба само в големи пречиствателни станции",
+        "лесно дозиране, но деградира при съхранение"
+       ],
+       "correct": 3,
+       "textEn": "Sodium hypochlorite is characterized by:",
+       "optionsEn": [
+        "storage under pressure in steel cylinders",
+        "a solid form with unlimited stability",
+        "use only in large treatment plants",
+        "easy dosing, but it degrades in storage"
+       ]
+      },
+      {
+       "text": "Признак за прясно фекално-битово замърсяване са:",
+       "options": [
+        "амоняк и нитрити",
+        "само нитрати",
+        "само хлориди",
+        "само pH"
+       ],
+       "correct": 0,
+       "textEn": "Signs of fresh faecal-domestic pollution are:",
+       "optionsEn": [
+        "ammonia and nitrites",
+        "nitrates only",
+        "chlorides only",
+        "pH only"
+       ]
+      },
+      {
+       "text": "Нитрати при липса на амоняк и нитрити показват:",
+       "options": [
+        "прясно замърсяване",
+        "липса на всякакво замърсяване",
+        "старо, отминало замърсяване",
+        "повишена мътност"
+       ],
+       "correct": 2,
+       "textEn": "Nitrates in the absence of ammonia and nitrites indicate:",
+       "optionsEn": [
+        "fresh pollution",
+        "no pollution at all",
+        "old, past pollution",
+        "increased turbidity"
+       ]
+      },
+      {
+       "text": "Тригалометаните се образуват при реакция на хлора с:",
+       "options": [
+        "железни соли",
+        "калциеви соли",
+        "въздух",
+        "органични вещества (хумусни киселини)"
+       ],
+       "correct": 3,
+       "textEn": "Trihalomethanes are formed when chlorine reacts with:",
+       "optionsEn": [
+        "iron salts",
+        "calcium salts",
+        "air",
+        "organic matter (humic acids)"
+       ]
+      },
+      {
+       "text": "Мярка за ограничаване на тригалометаните е:",
+       "options": [
+        "повишаване на дозата хлор многократно",
+        "предварителна филтрация и отстраняване на органичното съдържание",
+        "съхранение на водата на светло",
+        "добавяне на повече органика"
+       ],
+       "correct": 1,
+       "textEn": "A measure to limit trihalomethanes is:",
+       "optionsEn": [
+        "increasing the chlorine dose many times",
+        "prior filtration and removal of organic content",
+        "storing water in the light",
+        "adding more organic matter"
+       ]
+      },
+      {
+       "text": "Коагулацията като предварително пречистване се провежда:",
+       "options": [
+        "след хлорирането в мрежата",
+        "само при басейни",
+        "преди хлорирането",
+        "вместо контрол на водата"
+       ],
+       "correct": 2,
+       "textEn": "Coagulation as pre-treatment is carried out:",
+       "optionsEn": [
+        "after chlorination in the network",
+        "only in swimming pools",
+        "before chlorination",
+        "instead of water monitoring"
+       ]
+      },
+      {
+       "text": "CT е:",
+       "options": [
+        "концентрация × време",
+        "температура × мътност",
+        "pH × обем",
+        "налягане ÷ време"
+       ],
+       "correct": 0,
+       "textEn": "CT is:",
+       "optionsEn": [
+        "concentration × time",
+        "temperature × turbidity",
+        "pH × volume",
+        "pressure ÷ time"
+       ]
+      },
+      {
+       "text": "Свободният хлор в басейни по презентацията е:",
+       "options": [
+        "0,3–0,4 mg/l",
+        "10–20 mg/l",
+        "0,6–1,5 mg/l",
+        "5–6 mg/l"
+       ],
+       "correct": 2,
+       "textEn": "According to the presentation, free chlorine in swimming pools is:",
+       "optionsEn": [
+        "0.3–0.4 mg/l",
+        "10–20 mg/l",
+        "0.6–1.5 mg/l",
+        "5–6 mg/l"
+       ]
+      },
+      {
+       "text": "Недостатък на хлорирането е:",
+       "options": [
+        "по-слаба ефективност срещу Cryptosporidium",
+        "липса на остатъчна защита",
+        "висока цена",
+        "невъзможност за контрол"
+       ],
+       "correct": 0,
+       "textEn": "A drawback of chlorination is:",
+       "optionsEn": [
+        "weaker effectiveness against Cryptosporidium",
+        "no residual protection",
+        "high cost",
+        "impossibility of control"
+       ]
+      },
+      {
+       "text": "Метод за обеззаразяване, който не оставя остатъчен ефект в мрежата, е:",
+       "options": [
+        "хлорирането",
+        "хлорамините",
+        "прехлорирането",
+        "UV лъчението"
+       ],
+       "correct": 3,
+       "textEn": "A disinfection method that leaves no residual effect in the network is:",
+       "optionsEn": [
+        "chlorination",
+        "chloramines",
+        "superchlorination",
+        "UV radiation"
+       ]
+      },
+      {
+       "text": "Остатъчният хлор на място се определя колориметрично с:",
+       "options": [
+        "фенолфталеин",
+        "ортотолидин",
+        "метилоранж",
+        "дифениламин"
+       ],
+       "correct": 1,
+       "textEn": "Residual chlorine is determined on site colorimetrically with:",
+       "optionsEn": [
+        "phenolphthalein",
+        "orthotolidine",
+        "methyl orange",
+        "diphenylamine"
+       ]
+      }
+     ]
+    },
+    "hidrometeo": {
+     "id": "builtin_okoz1_hidrometeo",
+     "titleBg": "Тест: Хидрометеорологична станция и методи за измерване на климатичните фактори",
+     "titleEn": "Test: Hydrometeorological Station and Methods for Measuring Climatic Factors",
+     "questions": [
+      {
+       "text": "Температурата на въздуха се измерва на височина:",
+       "options": [
+        "10 m",
+        "1,25–2,0 m над земята",
+        "50 cm под земята",
+        "100 m"
+       ],
+       "correct": 1,
+       "textEn": "Air temperature is measured at a height of:",
+       "optionsEn": [
+        "10 m",
+        "1.25–2.0 m above the ground",
+        "50 cm below the ground",
+        "100 m"
+       ]
+      },
+      {
+       "text": "Анемометърът се поставя на височина:",
+       "options": [
+        "10 cm над земята",
+        "1 km",
+        "под земята",
+        "10 m над открит, равен терен"
+       ],
+       "correct": 3,
+       "textEn": "The anemometer is placed at a height of:",
+       "optionsEn": [
+        "10 cm above the ground",
+        "1 km",
+        "below the ground",
+        "10 m above open, level terrain"
+       ]
+      },
+      {
+       "text": "Будката на Стивънсън:",
+       "options": [
+        "предпазва уредите от пряка слънчева радиация и осигурява движение на въздуха",
+        "затваря въздуха херметично",
+        "е черна и нагряваща",
+        "е вътре в сграда"
+       ],
+       "correct": 0,
+       "textEn": "The Stevenson screen:",
+       "optionsEn": [
+        "protects the instruments from direct solar radiation and allows air movement",
+        "seals the air hermetically",
+        "is black and heating",
+        "is inside a building"
+       ]
+      },
+      {
+       "text": "Вратата на будката се ориентира към:",
+       "options": [
+        "юг",
+        "запад през лятото",
+        "север (в северното полукълбо)",
+        "покрива"
+       ],
+       "correct": 2,
+       "textEn": "The door of the screen faces:",
+       "optionsEn": [
+        "south",
+        "west in summer",
+        "north (in the northern hemisphere)",
+        "the roof"
+       ]
+      },
+      {
+       "text": "Асмановият психрометър се състои от:",
+       "options": [
+        "барометър и дъждомер",
+        "хелиограф и пиранометър",
+        "флюгер и рейка",
+        "сух и мокър термометър с вентилатор"
+       ],
+       "correct": 3,
+       "textEn": "The Assmann psychrometer consists of:",
+       "optionsEn": [
+        "a barometer and a rain gauge",
+        "a heliograph and a pyranometer",
+        "a wind vane and a staff gauge",
+        "a dry and a wet thermometer with a fan"
+       ]
+      },
+      {
+       "text": "Относителната влажност е:",
+       "options": [
+        "f = e + E",
+        "f = e / E × 100 %",
+        "f = E − e",
+        "f = E / 100"
+       ],
+       "correct": 1,
+       "textEn": "Relative humidity is:",
+       "optionsEn": [
+        "f = e + E",
+        "f = e / E × 100 %",
+        "f = E − e",
+        "f = E / 100"
+       ]
+      },
+      {
+       "text": "Дефицитът на насищане е:",
+       "options": [
+        "d = e × E",
+        "d = e / E",
+        "d = E − e",
+        "d = e + E"
+       ],
+       "correct": 2,
+       "textEn": "The saturation deficit is:",
+       "optionsEn": [
+        "d = e × E",
+        "d = e / E",
+        "d = E − e",
+        "d = e + E"
+       ]
+      },
+      {
+       "text": "Нормалното атмосферно налягане е:",
+       "options": [
+        "760 mmHg = 1013,25 hPa",
+        "76 mmHg",
+        "1013,25 mmHg",
+        "1 hPa"
+       ],
+       "correct": 0,
+       "textEn": "Normal atmospheric pressure is:",
+       "optionsEn": [
+        "760 mmHg = 1013.25 hPa",
+        "76 mmHg",
+        "1013.25 mmHg",
+        "1 hPa"
+       ]
+      },
+      {
+       "text": "Анероидът измерва налягането чрез:",
+       "options": [
+        "деформация на вакуумирана метална кутия",
+        "стълб от вода",
+        "електрическа крушка",
+        "огледало"
+       ],
+       "correct": 0,
+       "textEn": "An aneroid measures pressure by:",
+       "optionsEn": [
+        "deformation of an evacuated metal box",
+        "a column of water",
+        "an electric bulb",
+        "a mirror"
+       ]
+      },
+      {
+       "text": "Хелиографът измерва:",
+       "options": [
+        "скорост на вятъра",
+        "налягане",
+        "продължителност на слънчевото греене",
+        "влажност на почвата"
+       ],
+       "correct": 2,
+       "textEn": "A heliograph (sunshine recorder) measures:",
+       "optionsEn": [
+        "wind speed",
+        "pressure",
+        "the duration of sunshine",
+        "soil moisture"
+       ]
+      },
+      {
+       "text": "Пиранометърът измерва:",
+       "options": [
+        "само вятъра",
+        "глобалната слънчева радиация",
+        "само температурата на водата",
+        "само мътността"
+       ],
+       "correct": 1,
+       "textEn": "A pyranometer measures:",
+       "optionsEn": [
+        "only wind",
+        "global solar radiation",
+        "only water temperature",
+        "only turbidity"
+       ]
+      },
+      {
+       "text": "1 mm валеж е равен на:",
+       "options": [
+        "1 литър на 1 km²",
+        "1 mL на 1 km²",
+        "10 литра на 1 cm²",
+        "1 литър на 1 m²"
+       ],
+       "correct": 3,
+       "textEn": "1 mm of precipitation equals:",
+       "optionsEn": [
+        "1 litre per 1 km²",
+        "1 mL per 1 km²",
+        "10 litres per 1 cm²",
+        "1 litre per 1 m²"
+       ]
+      },
+      {
+       "text": "Препятствие е значимо за дъждомера, ако е по-високо от:",
+       "options": [
+        "два пъти разстоянието",
+        "1 mm",
+        "половината от разстоянието до дъждомера",
+        "10 km"
+       ],
+       "correct": 2,
+       "textEn": "An obstacle is significant for a rain gauge if it is higher than:",
+       "optionsEn": [
+        "twice the distance",
+        "1 mm",
+        "half the distance to the rain gauge",
+        "10 km"
+       ]
+      },
+      {
+       "text": "Облачността се изразява в:",
+       "options": [
+        "окти (осмини)",
+        "kg",
+        "hPa",
+        "dB"
+       ],
+       "correct": 0,
+       "textEn": "Cloud cover is expressed in:",
+       "optionsEn": [
+        "oktas (eighths)",
+        "kg",
+        "hPa",
+        "dB"
+       ]
+      },
+      {
+       "text": "Скалата на Бофорт е:",
+       "options": [
+        "0–1000",
+        "−50 до +50",
+        "6–20",
+        "0–12"
+       ],
+       "correct": 3,
+       "textEn": "The Beaufort scale is:",
+       "optionsEn": [
+        "0–1000",
+        "−50 to +50",
+        "6–20",
+        "0–12"
+       ]
+      },
+      {
+       "text": "Розата на ветровете показва:",
+       "options": [
+        "само температурата",
+        "честотата на ветровете по посока",
+        "налягането",
+        "количеството на валежите"
+       ],
+       "correct": 1,
+       "textEn": "The wind rose shows:",
+       "optionsEn": [
+        "only temperature",
+        "the frequency of winds by direction",
+        "pressure",
+        "the amount of precipitation"
+       ]
+      },
+      {
+       "text": "Кататермометърът определя:",
+       "options": [
+        "налягането",
+        "радиацията от слънцето",
+        "нивото на реката",
+        "охлаждащата способност на въздуха и малки скорости на въздуха"
+       ],
+       "correct": 3,
+       "textEn": "The katathermometer determines:",
+       "optionsEn": [
+        "pressure",
+        "solar radiation",
+        "river level",
+        "the cooling power of the air and low air velocities"
+       ]
+      },
+      {
+       "text": "Глобтермометърът (черна сфера) измерва:",
+       "options": [
+        "влажността в g/m³",
+        "радиационната температура",
+        "валежите",
+        "налягането"
+       ],
+       "correct": 1,
+       "textEn": "The globe thermometer (black sphere) measures:",
+       "optionsEn": [
+        "humidity in g/m³",
+        "radiant temperature",
+        "precipitation",
+        "pressure"
+       ]
+      },
+      {
+       "text": "Климатичната норма според СМО е осредняване за период от:",
+       "options": [
+        "1 ден",
+        "1 седмица",
+        "30 години",
+        "1 час"
+       ],
+       "correct": 2,
+       "textEn": "According to the WMO, a climate normal is an average over a period of:",
+       "optionsEn": [
+        "1 day",
+        "1 week",
+        "30 years",
+        "1 hour"
+       ]
+      },
+      {
+       "text": "Хидрометричната вертушка измерва:",
+       "options": [
+        "скоростта на течението във воден обект",
+        "налягането",
+        "валежите",
+        "температурата на въздуха"
+       ],
+       "correct": 0,
+       "textEn": "A hydrometric current meter measures:",
+       "optionsEn": [
+        "the flow velocity in a water body",
+        "pressure",
+        "precipitation",
+        "air temperature"
+       ]
+      }
+     ]
+    },
+    "probi_voda": {
+     "id": "builtin_okoz1_probi_voda",
+     "titleBg": "Тест: Вземане на проби за химичен анализ на вода, консервиране и ред на анализиране",
+     "titleEn": "Test: Sampling Water for Chemical Analysis, Preservation and Order of Analysis",
+     "questions": [
+      {
+       "text": "Пробата от водопроводната мрежа за съответствие се взема:",
+       "options": [
+        "от крана при потребителя",
+        "само от морето",
+        "само от язовира",
+        "само от канализацията"
+       ],
+       "correct": 0,
+       "textEn": "The sample from the water supply network for compliance is taken:",
+       "optionsEn": [
+        "from the consumer's tap",
+        "only from the sea",
+        "only from the reservoir",
+        "only from the sewer"
+       ]
+      },
+      {
+       "text": "Пунктовете за пробовземане при мрежова вода са най-малко:",
+       "options": [
+        "един за област",
+        "десет за квартал",
+        "два за населено място",
+        "нито един"
+       ],
+       "correct": 2,
+       "textEn": "The sampling points for mains water are at least:",
+       "optionsEn": [
+        "one per region",
+        "ten per neighbourhood",
+        "two per settlement",
+        "none"
+       ]
+      },
+      {
+       "text": "Проба за мед, олово и никел се взема:",
+       "options": [
+        "след 1 час източване, 10 литра",
+        "само нощем",
+        "от резервоар на покрива",
+        "без предварително източване, случайна проба, 1 литър"
+       ],
+       "correct": 3,
+       "textEn": "A sample for copper, lead and nickel is taken:",
+       "optionsEn": [
+        "after 1 hour of flushing, 10 litres",
+        "only at night",
+        "from a rooftop tank",
+        "without prior flushing, a random daytime sample, 1 litre"
+       ]
+      },
+      {
+       "text": "Лабораториите за изпитване на питейна вода са акредитирани по:",
+       "options": [
+        "БДС EN ISO 9999 за козметика",
+        "БДС EN ISO/IEC 17025",
+        "Закона за горите",
+        "Закона за лова"
+       ],
+       "correct": 1,
+       "textEn": "Drinking water testing laboratories are accredited according to:",
+       "optionsEn": [
+        "BDS EN ISO 9999 for cosmetics",
+        "BDS EN ISO/IEC 17025",
+        "the Forestry Act",
+        "the Hunting Act"
+       ]
+      },
+      {
+       "text": "Контролният мониторинг от ДЗК е с честота до:",
+       "options": [
+        "0 % от изискванията",
+        "500 % от изискванията",
+        "50 % от изискванията на таблица Б.1",
+        "само веднъж на 10 години"
+       ],
+       "correct": 2,
+       "textEn": "Check monitoring by the state health control (DZK) has a frequency of up to:",
+       "optionsEn": [
+        "0 % of the requirements",
+        "500 % of the requirements",
+        "50 % of the requirements of Table B.1",
+        "only once every 10 years"
+       ]
+      },
+      {
+       "text": "Данните от мониторинга се подават на РЗИ ежемесечно до:",
+       "options": [
+        "20-о число",
+        "1-во число",
+        "30 февруари",
+        "края на годината"
+       ],
+       "correct": 0,
+       "textEn": "Monitoring data are submitted to the RHI monthly by:",
+       "optionsEn": [
+        "the 20th",
+        "the 1st",
+        "30 February",
+        "the end of the year"
+       ]
+      },
+      {
+       "text": "На терен се определят:",
+       "options": [
+        "само метали",
+        "температура, pH и остатъчен хлор",
+        "само пестициди",
+        "само сулфати"
+       ],
+       "correct": 1,
+       "textEn": "Determined on site are:",
+       "optionsEn": [
+        "metals only",
+        "temperature, pH and residual chlorine",
+        "pesticides only",
+        "sulphates only"
+       ]
+      },
+      {
+       "text": "Металите се консервират с:",
+       "options": [
+        "NaOH до pH > 12",
+        "Na₂S₂O₃",
+        "захар",
+        "HNO₃ до pH < 2"
+       ],
+       "correct": 3,
+       "textEn": "Metals are preserved with:",
+       "optionsEn": [
+        "NaOH to pH > 12",
+        "Na₂S₂O₃",
+        "sugar",
+        "HNO₃ to pH < 2"
+       ]
+      },
+      {
+       "text": "Цианидите се консервират с:",
+       "options": [
+        "HNO₃ до pH < 2",
+        "HCl до pH 5",
+        "без консервиране на светло",
+        "NaOH до pH > 12, на тъмно"
+       ],
+       "correct": 3,
+       "textEn": "Cyanides are preserved with:",
+       "optionsEn": [
+        "HNO₃ to pH < 2",
+        "HCl to pH 5",
+        "no preservation, in the light",
+        "NaOH to pH > 12, in the dark"
+       ]
+      },
+      {
+       "text": "Амоняк се консервира с:",
+       "options": [
+        "NaOH до pH > 12",
+        "H₂SO₄ до pH < 2",
+        "оцет",
+        "сол"
+       ],
+       "correct": 1,
+       "textEn": "Ammonia is preserved with:",
+       "optionsEn": [
+        "NaOH to pH > 12",
+        "H₂SO₄ to pH < 2",
+        "vinegar",
+        "salt"
+       ]
+      },
+      {
+       "text": "Пробите за повечето показатели се охлаждат до:",
+       "options": [
+        "под 6 °C",
+        "40 °C",
+        "60 °C",
+        "100 °C"
+       ],
+       "correct": 0,
+       "textEn": "Samples for most parameters are cooled to:",
+       "optionsEn": [
+        "below 6 °C",
+        "40 °C",
+        "60 °C",
+        "100 °C"
+       ]
+      },
+      {
+       "text": "Нитритите (без консервант) трябва да се анализират до:",
+       "options": [
+        "2 месеца",
+        "2 години",
+        "2 дни",
+        "2 седмици"
+       ],
+       "correct": 2,
+       "textEn": "Nitrites (without preservative) must be analysed within:",
+       "optionsEn": [
+        "2 months",
+        "2 years",
+        "2 days",
+        "2 weeks"
+       ]
+      },
+      {
+       "text": "Мътността и БПК₅ имат срок на съхранение:",
+       "options": [
+        "6 месеца",
+        "48 часа",
+        "50 години",
+        "28 дни"
+       ],
+       "correct": 1,
+       "textEn": "Turbidity and BOD₅ have a storage time of:",
+       "optionsEn": [
+        "6 months",
+        "48 hours",
+        "50 years",
+        "28 days"
+       ]
+      },
+      {
+       "text": "Общите метали имат срок на съхранение до:",
+       "options": [
+        "1 час",
+        "48 часа",
+        "14 минути",
+        "6 месеца"
+       ],
+       "correct": 3,
+       "textEn": "Total metals have a storage time of up to:",
+       "optionsEn": [
+        "1 hour",
+        "48 hours",
+        "14 minutes",
+        "6 months"
+       ]
+      },
+      {
+       "text": "Летливите органични вещества се вземат:",
+       "options": [
+        "в отворена кофа",
+        "с въздушен мехур",
+        "в стъклени флакони, догоре без въздух",
+        "в хартиена кесия"
+       ],
+       "correct": 2,
+       "textEn": "Volatile organic compounds are sampled:",
+       "optionsEn": [
+        "in an open bucket",
+        "with an air bubble",
+        "in glass vials, filled to the top without air",
+        "in a paper bag"
+       ]
+      },
+      {
+       "text": "Филтрирането през 0,45 µm се прави за определяне на:",
+       "options": [
+        "разтворени метали",
+        "мътността",
+        "температурата",
+        "цвета на етикета"
+       ],
+       "correct": 0,
+       "textEn": "Filtration through 0.45 µm is done to determine:",
+       "optionsEn": [
+        "dissolved metals",
+        "turbidity",
+        "temperature",
+        "the colour of the label"
+       ]
+      },
+      {
+       "text": "Първи в реда на анализиране са показателите:",
+       "options": [
+        "с най-дълъг срок — металите",
+        "избрани по азбучен ред",
+        "които се променят най-бързо — на терен",
+        "избрани по цена"
+       ],
+       "correct": 2,
+       "textEn": "First in the order of analysis are the parameters:",
+       "optionsEn": [
+        "with the longest holding time — metals",
+        "chosen alphabetically",
+        "that change fastest — on site",
+        "chosen by price"
+       ]
+      },
+      {
+       "text": "Празната (контролна) проба служи за:",
+       "options": [
+        "откриване на замърсяване при вземане и транспорт",
+        "украса",
+        "подслаждане на водата",
+        "измерване на налягане"
+       ],
+       "correct": 0,
+       "textEn": "The blank (control) sample is used for:",
+       "optionsEn": [
+        "detecting contamination during sampling and transport",
+        "decoration",
+        "sweetening the water",
+        "measuring pressure"
+       ]
+      },
+      {
+       "text": "Етикетът на пробата съдържа:",
+       "options": [
+        "само името на кмета",
+        "код, място, дата и час, лице, показател и консервант",
+        "само цвета на съда",
+        "само рекламен слоган"
+       ],
+       "correct": 1,
+       "textEn": "The sample label contains:",
+       "optionsEn": [
+        "only the mayor's name",
+        "code, location, date and time, sampler, parameter and preservative",
+        "only the colour of the container",
+        "only an advertising slogan"
+       ]
+      },
+      {
+       "text": "Натриевият тиосулфат (Na₂S₂O₃) се използва за:",
+       "options": [
+        "повишаване на pH до 12",
+        "подкисляване на метали",
+        "оцветяване",
+        "премахване на остатъчен хлор"
+       ],
+       "correct": 3,
+       "textEn": "Sodium thiosulphate (Na₂S₂O₃) is used for:",
+       "optionsEn": [
+        "raising the pH to 12",
+        "acidifying metals",
+        "colouring",
+        "removing residual chlorine"
+       ]
+      }
+     ]
+    },
+    "kontrol_obekt": {
+     "id": "builtin_okoz1_kontrol_obekt",
+     "titleBg": "Тест: Принципи при контролиране на производствен обект по ЗЗБУТ",
+     "titleEn": "Test: Principles of Inspecting a Workplace under the Health and Safety at Work Act (ZZBUT)",
+     "questions": [
+      {
+       "text": "Специализиран контрол по ЗЗБУТ упражнява:",
+       "options": [
+        "Националният статистически институт",
+        "Агенцията по вписванията",
+        "Комисията за защита на конкуренцията",
+        "ИА „Главна инспекция по труда“"
+       ],
+       "correct": 3,
+       "textEn": "Specialized control under the ZZBUT is exercised by:",
+       "optionsEn": [
+        "the National Statistical Institute",
+        "the Registry Agency",
+        "the Commission for Protection of Competition",
+        "the General Labour Inspectorate Executive Agency"
+       ]
+      },
+      {
+       "text": "Цялостен контрол по спазване на ЗЗБУТ се осъществява от:",
+       "options": [
+        "Министерството на спорта",
+        "Министерството на труда и социалната политика",
+        "Министерството на културата",
+        "Българската народна банка"
+       ],
+       "correct": 1,
+       "textEn": "Overall control of compliance with the ZZBUT is carried out by:",
+       "optionsEn": [
+        "the Ministry of Sport",
+        "the Ministry of Labour and Social Policy",
+        "the Ministry of Culture",
+        "the Bulgarian National Bank"
+       ]
+      },
+      {
+       "text": "Принципът на пропорционалността означава, че:",
+       "options": [
+        "всяко нарушение се наказва еднакво",
+        "се налага най-тежката мярка винаги",
+        "мярката съответства на тежестта на риска и нарушението",
+        "не се налага нищо"
+       ],
+       "correct": 2,
+       "textEn": "The principle of proportionality means that:",
+       "optionsEn": [
+        "every violation is punished the same",
+        "the most severe measure is always imposed",
+        "the measure matches the severity of the risk and the violation",
+        "nothing is imposed"
+       ]
+      },
+      {
+       "text": "Принципът на законосъобразността изисква:",
+       "options": [
+        "действие само в рамките на правомощията и с правно основание",
+        "действие по лична преценка",
+        "игнориране на закона",
+        "изискване на всичко без основание"
+       ],
+       "correct": 0,
+       "textEn": "The principle of legality requires:",
+       "optionsEn": [
+        "acting only within one's powers and on a legal basis",
+        "acting at personal discretion",
+        "ignoring the law",
+        "demanding everything without grounds"
+       ]
+      },
+      {
+       "text": "Принципът на обективността изисква констатациите да са:",
+       "options": [
+        "по предположения",
+        "по факти и доказателства",
+        "по слухове",
+        "по настроение"
+       ],
+       "correct": 1,
+       "textEn": "The principle of objectivity requires findings to be based on:",
+       "optionsEn": [
+        "assumptions",
+        "facts and evidence",
+        "rumours",
+        "mood"
+       ]
+      },
+      {
+       "text": "Принципът на поверителността предвижда да не се разкрива:",
+       "options": [
+        "цветът на сградата",
+        "името на улицата",
+        "броят на прозорците",
+        "източникът на сигнал"
+       ],
+       "correct": 3,
+       "textEn": "The principle of confidentiality provides for not disclosing:",
+       "optionsEn": [
+        "the colour of the building",
+        "the name of the street",
+        "the number of windows",
+        "the source of a complaint"
+       ]
+      },
+      {
+       "text": "Конвенция № 81 на МОТ възлага на инспекцията:",
+       "options": [
+        "да дава технически съвети и да следи за спазването на закона",
+        "само да налага глоби",
+        "само да одобрява реклами",
+        "да управлява предприятията"
+       ],
+       "correct": 0,
+       "textEn": "ILO Convention No. 81 tasks the inspectorate with:",
+       "optionsEn": [
+        "giving technical advice and enforcing the law",
+        "only imposing fines",
+        "only approving advertisements",
+        "managing the enterprises"
+       ]
+      },
+      {
+       "text": "Първият етап при проверка на обект е:",
+       "options": [
+        "налагане на санкция",
+        "закриване на обекта",
+        "подготовка — преглед на данни, злополуки, предишни проверки",
+        "подписване на протокол без проверка"
+       ],
+       "correct": 2,
+       "textEn": "The first stage of an inspection of a workplace is:",
+       "optionsEn": [
+        "imposing a sanction",
+        "closing the workplace",
+        "preparation — reviewing data, accidents, previous inspections",
+        "signing a report without an inspection"
+       ]
+      },
+      {
+       "text": "При началото на проверката проверяващият:",
+       "options": [
+        "влиза скрито",
+        "отказва да се представи",
+        "се легитимира и обявява целта и обхвата",
+        "нарушава производството"
+       ],
+       "correct": 2,
+       "textEn": "At the start of the inspection, the inspector:",
+       "optionsEn": [
+        "enters covertly",
+        "refuses to introduce themselves",
+        "shows identification and announces the purpose and scope",
+        "disrupts production"
+       ]
+      },
+      {
+       "text": "Оценката на риска и превантивните мерки са задължения на работодателя по:",
+       "options": [
+        "чл. 16, ал. 1 ЗЗБУТ",
+        "чл. 1 от Конституцията",
+        "чл. 100 от Наказателния кодекс",
+        "чл. 5 от Закона за туризма"
+       ],
+       "correct": 0,
+       "textEn": "Risk assessment and preventive measures are the employer's obligations under:",
+       "optionsEn": [
+        "Art. 16(1) ZZBUT",
+        "Art. 1 of the Constitution",
+        "Art. 100 of the Criminal Code",
+        "Art. 5 of the Tourism Act"
+       ]
+      },
+      {
+       "text": "Информирането на работещите за рисковете е уредено в:",
+       "options": [
+        "чл. 54б ЗЗБУТ",
+        "чл. 413 КТ",
+        "чл. 25б ЗЗБУТ",
+        "чл. 19 ЗЗБУТ"
+       ],
+       "correct": 3,
+       "textEn": "Informing workers about risks is regulated in:",
+       "optionsEn": [
+        "Art. 54b ZZBUT",
+        "Art. 413 of the Labour Code",
+        "Art. 25b ZZBUT",
+        "Art. 19 ZZBUT"
+       ]
+      },
+      {
+       "text": "При сериозна и непосредствена опасност работодателят:",
+       "options": [
+        "продължава работата",
+        "осигурява преустановяване на работата и евакуация (чл. 21)",
+        "налага глоба на работещите",
+        "изчаква края на смяната"
+       ],
+       "correct": 1,
+       "textEn": "In the event of serious and imminent danger, the employer:",
+       "optionsEn": [
+        "continues the work",
+        "ensures the work is stopped and evacuation (Art. 21)",
+        "fines the workers",
+        "waits for the end of the shift"
+       ]
+      },
+      {
+       "text": "Трудовите злополуки се установяват, разследват и регистрират от:",
+       "options": [
+        "работодателя (чл. 23 ЗЗБУТ)",
+        "съседа",
+        "училището",
+        "търговския регистър"
+       ],
+       "correct": 0,
+       "textEn": "Occupational accidents are established, investigated and registered by:",
+       "optionsEn": [
+        "the employer (Art. 23 ZZBUT)",
+        "the neighbour",
+        "the school",
+        "the commercial register"
+       ]
+      },
+      {
+       "text": "Един от принципите на превенцията по чл. 4, ал. 3 е:",
+       "options": [
+        "увеличаване на рисковете",
+        "игнориране на оценката на риска",
+        "избягване на рисковете",
+        "замяна на безопасното с опасно"
+       ],
+       "correct": 2,
+       "textEn": "One of the principles of prevention under Art. 4(3) is:",
+       "optionsEn": [
+        "increasing risks",
+        "ignoring the risk assessment",
+        "avoiding risks",
+        "replacing the safe with the dangerous"
+       ]
+      },
+      {
+       "text": "При опасност за живота и здравето контролният орган може да:",
+       "options": [
+        "продава оборудването",
+        "спре работата на машина, работно място или обект (КТ, чл. 404)",
+        "назначи нови служители",
+        "раздаде премии"
+       ],
+       "correct": 1,
+       "textEn": "In case of danger to life and health, the control body may:",
+       "optionsEn": [
+        "sell the equipment",
+        "stop the operation of a machine, workplace or facility (Labour Code, Art. 404)",
+        "appoint new staff",
+        "hand out bonuses"
+       ]
+      },
+      {
+       "text": "Задължителното предписание е:",
+       "options": [
+        "покана за чай",
+        "реклама",
+        "поздравително писмо",
+        "мярка за отстраняване на нарушение в определен срок"
+       ],
+       "correct": 3,
+       "textEn": "A mandatory instruction (prescription) is:",
+       "optionsEn": [
+        "an invitation to tea",
+        "an advertisement",
+        "a greeting letter",
+        "a measure to remedy a violation within a set time limit"
+       ]
+      },
+      {
+       "text": "Санкциите за нарушения на ЗЗБУТ се налагат по реда на:",
+       "options": [
+        "Закона за хазарта",
+        "Кодекса на труда (чл. 413–416) и ЗАНН — по препратка на чл. 55 ЗЗБУТ",
+        "Закона за авторското право",
+        "Закона за морското пространство"
+       ],
+       "correct": 1,
+       "textEn": "Sanctions for ZZBUT violations are imposed under:",
+       "optionsEn": [
+        "the Gambling Act",
+        "the Labour Code (Arts. 413–416) and the Administrative Violations and Sanctions Act — by reference in Art. 55 ZZBUT",
+        "the Copyright Act",
+        "the Maritime Space Act"
+       ]
+      },
+      {
+       "text": "Съгласно справочния материал по чл. 402 КТ инспекторите имат право да:",
+       "options": [
+        "изземват личните вещи на работещите",
+        "назначават директора",
+        "променят закона",
+        "разговарят с работещите и вземат проби и измервания"
+       ],
+       "correct": 3,
+       "textEn": "According to the reference material on Art. 402 of the Labour Code, inspectors have the right to:",
+       "optionsEn": [
+        "confiscate workers' personal belongings",
+        "appoint the director",
+        "change the law",
+        "talk to workers and take samples and measurements"
+       ]
+      },
+      {
+       "text": "Колективните мерки за защита са по-предпочитани от:",
+       "options": [
+        "индивидуалните мерки",
+        "оценката на риска",
+        "информирането",
+        "обучението"
+       ],
+       "correct": 0,
+       "textEn": "Collective protective measures are preferred over:",
+       "optionsEn": [
+        "individual measures",
+        "risk assessment",
+        "informing",
+        "training"
+       ]
+      },
+      {
+       "text": "Типична грешка при проверка е:",
+       "options": [
+        "обход на обекта и сверяване с документите",
+        "ясно документиране на констатациите",
+        "само преглед на документи без обход на обекта",
+        "спазване на поверителността"
+       ],
+       "correct": 2,
+       "textEn": "A typical mistake during an inspection is:",
+       "optionsEn": [
+        "walking through the workplace and checking against the documents",
+        "clearly documenting the findings",
+        "only reviewing documents without walking through the workplace",
+        "respecting confidentiality"
+       ]
+      }
+     ]
+    },
+    "kontrol_stm": {
+     "id": "builtin_okoz1_kontrol_stm",
+     "titleBg": "Тест: Провеждане на контрол на службите по трудова медицина",
+     "titleEn": "Test: Inspection of Occupational Health Services",
+     "questions": [
+      {
+       "text": "Контрол върху дейността на СТМ упражняват:",
+       "options": [
+        "общинските съвети",
+        "само съдът",
+        "Националният статистически институт",
+        "органите на държавния здравен контрол (чл. 54а ЗЗБУТ)"
+       ],
+       "correct": 3,
+       "textEn": "Control over the activities of occupational health services (OHS) is exercised by:",
+       "optionsEn": [
+        "municipal councils",
+        "the court only",
+        "the National Statistical Institute",
+        "the state health control authorities (Art. 54a ZZBUT)"
+       ]
+      },
+      {
+       "text": "СТМ се регистрират от:",
+       "options": [
+        "директора на РЗИ",
+        "министъра на здравеопазването",
+        "кмета на общината",
+        "работодателя"
+       ],
+       "correct": 1,
+       "textEn": "OHS are registered by:",
+       "optionsEn": [
+        "the director of the RHI",
+        "the Minister of Health",
+        "the mayor of the municipality",
+        "the employer"
+       ]
+      },
+      {
+       "text": "Минималният състав на СТМ включва лекар по трудова медицина, лице с висше техническо образование и 3 години опит и:",
+       "options": [
+        "технически изпълнител",
+        "юрист",
+        "счетоводител",
+        "шофьор"
+       ],
+       "correct": 0,
+       "textEn": "The minimum staff of an OHS includes an occupational medicine physician, a person with a university technical degree and 3 years' experience, and:",
+       "optionsEn": [
+        "a technical assistant",
+        "a lawyer",
+        "an accountant",
+        "a driver"
+       ]
+      },
+      {
+       "text": "Контролът по чл. 54а, ал. 1 НЕ обхваща:",
+       "options": [
+        "регистрацията и данните за нея",
+        "изпълнението на договорените дейности",
+        "цените на услугите на работодателя",
+        "документите, удостоверяващи дейността"
+       ],
+       "correct": 2,
+       "textEn": "The control under Art. 54a(1) does NOT cover:",
+       "optionsEn": [
+        "registration and the related data",
+        "performance of the contracted activities",
+        "the employer's prices for services",
+        "the documents proving the activities"
+       ]
+      },
+      {
+       "text": "Контролът върху СТМ се извършва:",
+       "options": [
+        "само веднъж при регистрация",
+        "текущо и при жалби и сигнали",
+        "само по желание на службата",
+        "само по време на война"
+       ],
+       "correct": 1,
+       "textEn": "Control over OHS is carried out:",
+       "optionsEn": [
+        "only once at registration",
+        "on an ongoing basis and upon complaints and reports",
+        "only at the service's request",
+        "only in wartime"
+       ]
+      },
+      {
+       "text": "Право на контролните органи е:",
+       "options": [
+        "да уволняват персонала",
+        "да закриват предприятието на работодателя",
+        "да сменят управителя",
+        "свободен достъп до службата"
+       ],
+       "correct": 3,
+       "textEn": "A right of the control authorities is:",
+       "optionsEn": [
+        "to dismiss staff",
+        "to close the employer's enterprise",
+        "to replace the manager",
+        "free access to the service"
+       ]
+      },
+      {
+       "text": "Контролните органи са длъжни да пазят:",
+       "options": [
+        "само личните данни на съседите",
+        "само рекламните материали",
+        "производствената и търговската тайна",
+        "нищо — няма такова задължение"
+       ],
+       "correct": 2,
+       "textEn": "The control authorities are obliged to keep:",
+       "optionsEn": [
+        "only the neighbours' personal data",
+        "only advertising materials",
+        "production and trade secrets",
+        "nothing — there is no such obligation"
+       ]
+      },
+      {
+       "text": "Наказателните постановления за СТМ се издават от:",
+       "options": [
+        "директора на регионалната здравна инспекция",
+        "министъра на финансите",
+        "районния прокурор",
+        "управителя на службата"
+       ],
+       "correct": 0,
+       "textEn": "Penalty decrees for OHS are issued by:",
+       "optionsEn": [
+        "the director of the Regional Health Inspectorate",
+        "the Minister of Finance",
+        "the district prosecutor",
+        "the manager of the service"
+       ]
+      },
+      {
+       "text": "При промяна на обстоятелствата министърът се уведомява в срок до:",
+       "options": [
+        "7 дни",
+        "1 година",
+        "3 месеца",
+        "30 дни"
+       ],
+       "correct": 0,
+       "textEn": "When circumstances change, the minister must be notified within:",
+       "optionsEn": [
+        "7 days",
+        "1 year",
+        "3 months",
+        "30 days"
+       ]
+      },
+      {
+       "text": "Промените в регистъра се отразяват в срок до:",
+       "options": [
+        "1 ден",
+        "1 година",
+        "20 дни",
+        "5 години"
+       ],
+       "correct": 2,
+       "textEn": "Changes to the register are entered within:",
+       "optionsEn": [
+        "1 day",
+        "1 year",
+        "20 days",
+        "5 years"
+       ]
+      },
+      {
+       "text": "Удостоверение за регистрация или мотивиран отказ се издава в срок:",
+       "options": [
+        "1 ден",
+        "1 година",
+        "3 години",
+        "30 дни"
+       ],
+       "correct": 3,
+       "textEn": "A registration certificate or a reasoned refusal is issued within:",
+       "optionsEn": [
+        "1 day",
+        "1 year",
+        "3 years",
+        "30 days"
+       ]
+      },
+      {
+       "text": "Годишните обобщени анализи се предават до:",
+       "options": [
+        "1 януари",
+        "30 юли",
+        "31 декември",
+        "1 март"
+       ],
+       "correct": 1,
+       "textEn": "Annual summary analyses are submitted by:",
+       "optionsEn": [
+        "1 January",
+        "30 July",
+        "31 December",
+        "1 March"
+       ]
+      },
+      {
+       "text": "Здравните досиета се съхраняват:",
+       "options": [
+        "1 година",
+        "5 години",
+        "50 години",
+        "10 години"
+       ],
+       "correct": 2,
+       "textEn": "Health records are kept for:",
+       "optionsEn": [
+        "1 year",
+        "5 years",
+        "50 years",
+        "10 years"
+       ]
+      },
+      {
+       "text": "Основание за заличаване от регистъра са:",
+       "options": [
+        "системни нарушения на основните дейности по чл. 25а",
+        "липса на реклама",
+        "смяна на цвета на печата",
+        "нов телефон на службата"
+       ],
+       "correct": 0,
+       "textEn": "Grounds for removal from the register are:",
+       "optionsEn": [
+        "systematic violations of the main activities under Art. 25a",
+        "lack of advertising",
+        "changing the colour of the stamp",
+        "a new phone number for the service"
+       ]
+      },
+      {
+       "text": "Заповедта за заличаване подлежи на обжалване по:",
+       "options": [
+        "Закона за кредитните институции",
+        "Административнопроцесуалния кодекс",
+        "Закона за туризма",
+        "Закона за хазарта"
+       ],
+       "correct": 1,
+       "textEn": "The order for removal may be appealed under:",
+       "optionsEn": [
+        "the Credit Institutions Act",
+        "the Administrative Procedure Code",
+        "the Tourism Act",
+        "the Gambling Act"
+       ]
+      },
+      {
+       "text": "За първо нарушение регистриралите СТМ лица и ръководителите се наказват с имуществена санкция или глоба от:",
+       "options": [
+        "10 до 50 лв.",
+        "100 до 200 лв.",
+        "50 000 до 100 000 лв.",
+        "1500 до 5000 лв."
+       ],
+       "correct": 3,
+       "textEn": "For a first violation, persons who registered an OHS and the managers are punished with a pecuniary sanction or fine of:",
+       "optionsEn": [
+        "BGN 10 to 50",
+        "BGN 100 to 200",
+        "BGN 50,000 to 100,000",
+        "BGN 1,500 to 5,000"
+       ]
+      },
+      {
+       "text": "При повторно нарушение санкцията за регистриралите СТМ лица е от:",
+       "options": [
+        "10 до 50 лв.",
+        "3000 до 10 000 лв.",
+        "1500 до 5000 лв.",
+        "над 100 000 лв."
+       ],
+       "correct": 1,
+       "textEn": "For a repeated violation, the sanction for persons who registered an OHS is:",
+       "optionsEn": [
+        "BGN 10 to 50",
+        "BGN 3,000 to 10,000",
+        "BGN 1,500 to 5,000",
+        "over BGN 100,000"
+       ]
+      },
+      {
+       "text": "Една от основните дейности на СТМ по чл. 25а, ал. 1 е:",
+       "options": [
+        "управление на банкови сметки",
+        "строителство на сгради",
+        "преподаване на математика",
+        "оценка на професионалните рискове и анализ на здравното състояние"
+       ],
+       "correct": 3,
+       "textEn": "One of the main activities of an OHS under Art. 25a(1) is:",
+       "optionsEn": [
+        "managing bank accounts",
+        "constructing buildings",
+        "teaching mathematics",
+        "assessing occupational risks and analysing health status"
+       ]
+      },
+      {
+       "text": "В състава на СТМ не могат да се включват:",
+       "options": [
+        "лекари по трудова медицина",
+        "технически изпълнители",
+        "служители на МЗ и МТСП и техните контролни органи",
+        "магистри по медицина"
+       ],
+       "correct": 2,
+       "textEn": "The following may NOT be part of an OHS:",
+       "optionsEn": [
+        "occupational medicine physicians",
+        "technical assistants",
+        "employees of the Ministry of Health and the Ministry of Labour and their control bodies",
+        "Masters of Medicine"
+       ]
+      },
+      {
+       "text": "Условията и редът за дейността на СТМ се уреждат с:",
+       "options": [
+        "Наредба № 3/2008 г.",
+        "Закона за пътищата",
+        "Закона за горите",
+        "Закона за киното"
+       ],
+       "correct": 0,
+       "textEn": "The conditions and procedure for the activities of OHS are regulated by:",
+       "optionsEn": [
+        "Ordinance No. 3/2008",
+        "the Roads Act",
+        "the Forestry Act",
+        "the Film Industry Act"
+       ]
+      }
+     ]
+    },
+    "hzz": {
+     "id": "builtin_okoz1_hzz",
+     "titleBg": "Тест: Хигиенно-защитна зона (ХЗЗ) около комуникационни съоръжения",
+     "titleEn": "Test: Hygiene Protection Zone (HPZ) Around Communication Facilities",
+     "questions": [
+      {
+       "text": "Хигиенно-защитната зона е:",
+       "options": [
+        "зона без никакви сгради",
+        "зона само около жилищни сгради",
+        "затворена крива, във всяка точка на която полето е равно на пределно допустимото ниво",
+        "зона само при йонизиращи лъчения"
+       ],
+       "correct": 2,
+       "textEn": "The hygiene protection zone is:",
+       "optionsEn": [
+        "a zone without any buildings",
+        "a zone only around residential buildings",
+        "a closed curve at every point of which the field equals the maximum permissible level",
+        "a zone only for ionizing radiation"
+       ]
+      },
+      {
+       "text": "Нормата по Наредба № 9/1991 г. за честоти над 300 MHz е:",
+       "options": [
+        "10 µW/cm² (= 0,1 W/m²)",
+        "100 µW/cm²",
+        "1 µW/cm²",
+        "0,1 µW/cm²"
+       ],
+       "correct": 0,
+       "textEn": "The norm under Ordinance No. 9/1991 for frequencies above 300 MHz is:",
+       "optionsEn": [
+        "10 µW/cm² (= 0.1 W/m²)",
+        "100 µW/cm²",
+        "1 µW/cm²",
+        "0.1 µW/cm²"
+       ]
+      },
+      {
+       "text": "Наредба № 21/2007 г. се отнася за:",
+       "options": [
+        "питейна вода",
+        "шум в жилищни сгради",
+        "осветление",
+        "мобилни мрежи"
+       ],
+       "correct": 3,
+       "textEn": "Ordinance No. 21/2007 concerns:",
+       "optionsEn": [
+        "drinking water",
+        "noise in residential buildings",
+        "lighting",
+        "mobile networks"
+       ]
+      },
+      {
+       "text": "Към комуникационните съоръжения НЕ спада:",
+       "options": [
+        "мобилната базова станция",
+        "водомерният възел",
+        "радиорелейната станция",
+        "телевизионният предавател"
+       ],
+       "correct": 1,
+       "textEn": "Which of the following is NOT a communication facility?",
+       "optionsEn": [
+        "a mobile base station",
+        "a water meter assembly",
+        "a radio relay station",
+        "a television transmitter"
+       ]
+      },
+      {
+       "text": "Разпределението на полето се определя от честотата, изходната мощност и:",
+       "options": [
+        "диаграмата на насоченост на антената",
+        "цвета на мачтата",
+        "възрастта на жителите",
+        "времето на деня"
+       ],
+       "correct": 0,
+       "textEn": "The field distribution is determined by frequency, output power and:",
+       "optionsEn": [
+        "the antenna radiation pattern",
+        "the colour of the mast",
+        "the age of the residents",
+        "the time of day"
+       ]
+      },
+      {
+       "text": "Методите за оценка на ХЗЗ са:",
+       "options": [
+        "само анкетиране",
+        "само наблюдение на небето",
+        "теоретични модели и измервания",
+        "само вземане на проби от въздух"
+       ],
+       "correct": 2,
+       "textEn": "Methods for assessing the HPZ are:",
+       "optionsEn": [
+        "questionnaires only",
+        "observing the sky only",
+        "theoretical models and measurements",
+        "air sampling only"
+       ]
+      },
+      {
+       "text": "Плътността на мощността в свободно пространство е:",
+       "options": [
+        "S = EIRP × R",
+        "S = EIRP / (4·π·R²)",
+        "S = EIRP + R",
+        "S = R / EIRP"
+       ],
+       "correct": 1,
+       "textEn": "Power density in free space is:",
+       "optionsEn": [
+        "S = EIRP × R",
+        "S = EIRP / (4·π·R²)",
+        "S = EIRP + R",
+        "S = R / EIRP"
+       ]
+      },
+      {
+       "text": "Ако разстоянието от антената се удвои, плътността на мощността:",
+       "options": [
+        "намалява 2 пъти",
+        "се удвоява",
+        "не се променя",
+        "намалява 4 пъти"
+       ],
+       "correct": 3,
+       "textEn": "If the distance from the antenna doubles, the power density:",
+       "optionsEn": [
+        "halves",
+        "doubles",
+        "does not change",
+        "decreases 4 times"
+       ]
+      },
+      {
+       "text": "При EIRP = 20 W и R = 30 m плътността на мощността е около:",
+       "options": [
+        "18 µW/cm²",
+        "180 µW/cm²",
+        "0,018 µW/cm²",
+        "0,18 µW/cm²"
+       ],
+       "correct": 3,
+       "textEn": "With EIRP = 20 W and R = 30 m, the power density is about:",
+       "optionsEn": [
+        "18 µW/cm²",
+        "180 µW/cm²",
+        "0.018 µW/cm²",
+        "0.18 µW/cm²"
+       ]
+      },
+      {
+       "text": "Формулата за S важи за:",
+       "options": [
+        "сграда с много препятствия",
+        "свободно пространство в далечната зона",
+        "близката зона на антената",
+        "подземни обекти"
+       ],
+       "correct": 1,
+       "textEn": "The formula for S applies to:",
+       "optionsEn": [
+        "a building with many obstacles",
+        "free space in the far field",
+        "the near field of the antenna",
+        "underground sites"
+       ]
+      },
+      {
+       "text": "Измерените нива около базови станции според презентацията са:",
+       "options": [
+        "10–50 µW/cm²",
+        "100–500 µW/cm²",
+        "0,1–0,5 µW/cm²",
+        "над 1000 µW/cm²"
+       ],
+       "correct": 2,
+       "textEn": "According to the presentation, measured levels around base stations are:",
+       "optionsEn": [
+        "10–50 µW/cm²",
+        "100–500 µW/cm²",
+        "0.1–0.5 µW/cm²",
+        "above 1000 µW/cm²"
+       ]
+      },
+      {
+       "text": "Измервателните уреди за ЕМП трябва да бъдат:",
+       "options": [
+        "калибрирани, с проследимост към национален еталон",
+        "само ръчно изработени",
+        "без документи",
+        "проверени веднъж при производство"
+       ],
+       "correct": 0,
+       "textEn": "EMF measuring instruments must be:",
+       "optionsEn": [
+        "calibrated, traceable to a national standard",
+        "hand-made only",
+        "without documents",
+        "checked once at manufacture"
+       ]
+      },
+      {
+       "text": "Върху ХЗЗ влияят:",
+       "options": [
+        "само цветът на антената",
+        "релеф, препятствия, посока и наклон на антените",
+        "само видът на облаците",
+        "само броят на жителите"
+       ],
+       "correct": 1,
+       "textEn": "The HPZ is affected by:",
+       "optionsEn": [
+        "only the colour of the antenna",
+        "terrain, obstacles, direction and tilt of the antennas",
+        "only the type of clouds",
+        "only the number of residents"
+       ]
+      },
+      {
+       "text": "Кумулативното облъчване изисква:",
+       "options": [
+        "оценка само на най-слабия източник",
+        "игнориране на съседните източници",
+        "спиране на всички станции",
+        "сумарна оценка на множество съседни източници"
+       ],
+       "correct": 3,
+       "textEn": "Cumulative exposure requires:",
+       "optionsEn": [
+        "assessing only the weakest source",
+        "ignoring neighbouring sources",
+        "shutting down all stations",
+        "a combined assessment of multiple neighbouring sources"
+       ]
+      },
+      {
+       "text": "Първата стъпка при въвеждане на нов обект е:",
+       "options": [
+        "проектна документация",
+        "контролно измерване",
+        "периодичен мониторинг",
+        "продажба на обекта"
+       ],
+       "correct": 0,
+       "textEn": "The first step when introducing a new facility is:",
+       "optionsEn": [
+        "design documentation",
+        "a control measurement",
+        "periodic monitoring",
+        "selling the facility"
+       ]
+      },
+      {
+       "text": "Контролното измерване се прави:",
+       "options": [
+        "преди проектирането",
+        "само при оплакване от съседи",
+        "след монтажа — за потвърждение на изчислените нива",
+        "веднъж на 100 години"
+       ],
+       "correct": 2,
+       "textEn": "The control measurement is made:",
+       "optionsEn": [
+        "before design",
+        "only after complaints from neighbours",
+        "after installation — to confirm the calculated levels",
+        "once every 100 years"
+       ]
+      },
+      {
+       "text": "Периодичният мониторинг се извършва от:",
+       "options": [
+        "РЗИ",
+        "търговски банки",
+        "туристически агенции",
+        "строителни фирми"
+       ],
+       "correct": 0,
+       "textEn": "Periodic monitoring is carried out by:",
+       "optionsEn": [
+        "the Regional Health Inspectorate (RHI)",
+        "commercial banks",
+        "travel agencies",
+        "construction companies"
+       ]
+      },
+      {
+       "text": "Документацията на ХЗЗ включва:",
+       "options": [
+        "само рекламни брошури",
+        "само снимки на антената",
+        "протоколи от измерване, графични карти и становище за съответствие",
+        "договор за наем"
+       ],
+       "correct": 2,
+       "textEn": "HPZ documentation includes:",
+       "optionsEn": [
+        "only advertising brochures",
+        "only photos of the antenna",
+        "measurement reports, graphical maps and a statement of compliance",
+        "a lease contract"
+       ]
+      },
+      {
+       "text": "По-голяма локална експозиция (SAR) от далечна базова станция може да създаде:",
+       "options": [
+        "звездното небе",
+        "собственият мобилен телефон, използван близо до тялото",
+        "слънчевият часовник",
+        "бойлерът"
+       ],
+       "correct": 1,
+       "textEn": "Greater local exposure (SAR) than a distant base station can be created by:",
+       "optionsEn": [
+        "the starry sky",
+        "one's own mobile phone used close to the body",
+        "a sundial",
+        "the water heater"
+       ]
+      },
+      {
+       "text": "Нормата от 10 µW/cm² важи според презентацията за:",
+       "options": [
+        "САЩ и скандинавските страни",
+        "само Украйна",
+        "само радиото",
+        "България, Русия и Унгария"
+       ],
+       "correct": 3,
+       "textEn": "According to the presentation, the 10 µW/cm² norm applies in:",
+       "optionsEn": [
+        "the USA and the Scandinavian countries",
+        "Ukraine only",
+        "radio only",
+        "Bulgaria, Russia and Hungary"
+       ]
+      }
+     ]
     }
    }
   },
