@@ -16677,6 +16677,319 @@
      ]
     }
    }
+  },
+  "rentgen": {
+   "nameBg": "Рентгенови лаборанти",
+   "nameEn": "X-ray (Radiography) Technicians",
+   "tests": {
+    "test1": {
+     "id": "builtin_rentgen_test1",
+     "titleBg": "Тест 1 – Хигиена на детско-юношеската възраст",
+     "titleEn": "Test 1 – Child and Adolescent Hygiene",
+     "questions": [
+      {
+       "text": "Какво изучава хигиената на детско-юношеската възраст?",
+       "options": [
+        "Влиянието на факторите на външната среда върху детския организъм и неговото развитие",
+        "Само инфекциозните заболявания при децата",
+        "Само хранителните навици на подрастващите"
+       ],
+       "correct": 0,
+       "textEn": "What does child and adolescent hygiene study?",
+       "optionsEn": [
+        "The influence of environmental factors on the child's body and its development",
+        "Only infectious diseases in children",
+        "Only the eating habits of adolescents"
+       ]
+      },
+      {
+       "text": "Коя е основната задача на хигиената на детско-юношеската възраст?",
+       "options": [
+        "Лечение само на хронични заболявания",
+        "Разработване на хигиенни и профилактични мерки за правилно развитие на децата",
+        "Ограничаване на физическата активност"
+       ],
+       "correct": 1,
+       "textEn": "What is the main task of child and adolescent hygiene?",
+       "optionsEn": [
+        "Treating only chronic diseases",
+        "Developing hygienic and preventive measures for the proper development of children",
+        "Limiting physical activity"
+       ]
+      },
+      {
+       "text": "Защо детският организъм е по-чувствителен към вредните фактори на околната среда?",
+       "options": [
+        "Поради по-слабо развитата мускулатура",
+        "Поради по-малката телесна маса",
+        "Поради анатомичните и физиологичните си особености"
+       ],
+       "correct": 2,
+       "textEn": "Why is the child's body more sensitive to harmful environmental factors?",
+       "optionsEn": [
+        "Because of less developed muscles",
+        "Because of lower body weight",
+        "Because of its anatomical and physiological features"
+       ]
+      },
+      {
+       "text": "Коя възраст обхваща периода на ранното детство?",
+       "options": [
+        "От раждането до 3 години",
+        "От 3 до 7 години",
+        "От 7 до 12 години"
+       ],
+       "correct": 0,
+       "textEn": "What age does early childhood cover?",
+       "optionsEn": [
+        "From birth to 3 years",
+        "From 3 to 7 years",
+        "From 7 to 12 years"
+       ]
+      },
+      {
+       "text": "Кое е характерно за новороденото през първата година от живота?",
+       "options": [
+        "Напълно развити защитни механизми",
+        "Несъвършени защитни реакции към околната среда",
+        "Липса на риск от инфекциозни заболявания"
+       ],
+       "correct": 1,
+       "textEn": "What is typical of the newborn during the first year of life?",
+       "optionsEn": [
+        "Fully developed defence mechanisms",
+        "Imperfect protective reactions to the environment",
+        "No risk of infectious diseases"
+       ]
+      },
+      {
+       "text": "Кое е особено важно за храненето на кърмачето?",
+       "options": [
+        "Основно хранене със сладки изделия",
+        "Хранене само с плодове и зеленчуци",
+        "Осигуряване на майчина кърма и подходящо дохранване"
+       ],
+       "correct": 2,
+       "textEn": "What is especially important in infant feeding?",
+       "optionsEn": [
+        "Feeding mainly with sweets",
+        "Feeding only with fruit and vegetables",
+        "Providing breast milk and appropriate complementary feeding"
+       ]
+      },
+      {
+       "text": "Каква особеност имат костите в предучилищна възраст?",
+       "options": [
+        "По-голямо съдържание на органични вещества и недостатъчна твърдост",
+        "Напълно завършено вкостяване",
+        "Изключително високо съдържание на минерали"
+       ],
+       "correct": 0,
+       "textEn": "What is a characteristic of bones in preschool age?",
+       "optionsEn": [
+        "A higher content of organic substances and insufficient hardness",
+        "Completed ossification",
+        "An extremely high mineral content"
+       ]
+      },
+      {
+       "text": "Защо в предучилищна възраст е важно възпитаването на правилна стойка?",
+       "options": [
+        "За подобряване на слуха",
+        "Поради податливостта на гръбначния стълб към изкривявания",
+        "За ускоряване на речевото развитие"
+       ],
+       "correct": 1,
+       "textEn": "Why is developing correct posture important in preschool age?",
+       "optionsEn": [
+        "To improve hearing",
+        "Because the spine is susceptible to curvature",
+        "To speed up speech development"
+       ]
+      },
+      {
+       "text": "Кои процеси преобладават във висшата нервна дейност в предучилищна възраст?",
+       "options": [
+        "Процесите на задържане",
+        "Процесите на равновесие",
+        "Процесите на възбуждане"
+       ],
+       "correct": 2,
+       "textEn": "Which processes predominate in higher nervous activity in preschool age?",
+       "optionsEn": [
+        "Inhibitory processes",
+        "Processes of balance",
+        "Excitatory processes"
+       ]
+      },
+      {
+       "text": "Каква трябва да бъде училищната мебел?",
+       "options": [
+        "Съобразена с ръста и пропорциите на ученика",
+        "Еднаква за всички ученици",
+        "Винаги с максимална височина"
+       ],
+       "correct": 0,
+       "textEn": "What should school furniture be like?",
+       "optionsEn": [
+        "Matched to the pupil's height and proportions",
+        "The same for all pupils",
+        "Always at maximum height"
+       ]
+      },
+      {
+       "text": "Какво се случва със зъбите в периода 6–12 години?",
+       "options": [
+        "Поникват всички постоянни зъби едновременно",
+        "Извършва се смяна на млечните зъби",
+        "Спира развитието на зъбите"
+       ],
+       "correct": 1,
+       "textEn": "What happens to the teeth between 6 and 12 years of age?",
+       "optionsEn": [
+        "All permanent teeth erupt at once",
+        "The milk (deciduous) teeth are replaced",
+        "Tooth development stops"
+       ]
+      },
+      {
+       "text": "Кога приблизително настъпва половото съзряване?",
+       "options": [
+        "При момичетата на 6–7 г., при момчетата на 8–9 г.",
+        "При момичетата на 14–15 г., при момчетата на 16–17 г.",
+        "При момичетата на 10–11 г., при момчетата на 12–13 г."
+       ],
+       "correct": 2,
+       "textEn": "Approximately when does sexual maturation begin?",
+       "optionsEn": [
+        "In girls at 6–7, in boys at 8–9 years",
+        "In girls at 14–15, in boys at 16–17 years",
+        "In girls at 10–11, in boys at 12–13 years"
+       ]
+      },
+      {
+       "text": "Колко често трябва да се провеждат медицинските профилактични прегледи на децата?",
+       "options": [
+        "Ежегодно",
+        "На всеки 5 години",
+        "Само при наличие на оплаквания"
+       ],
+       "correct": 0,
+       "textEn": "How often should children's preventive medical check-ups be carried out?",
+       "optionsEn": [
+        "Annually",
+        "Every 5 years",
+        "Only when there are complaints"
+       ]
+      },
+      {
+       "text": "Кое от изброените е антропометрично измерване?",
+       "options": [
+        "Мускулна сила на китката",
+        "Измерване на ръст и тегло",
+        "Витален белодробен капацитет"
+       ],
+       "correct": 1,
+       "textEn": "Which of the following is an anthropometric measurement?",
+       "optionsEn": [
+        "Wrist muscle strength",
+        "Measuring height and weight",
+        "Vital lung capacity"
+       ]
+      },
+      {
+       "text": "Кой е основен елемент на дневния режим на децата?",
+       "options": [
+        "Продължително използване на електронни устройства",
+        "Ограничаване на съня",
+        "Редуване на обучение, хранене, физическа активност и почивка"
+       ],
+       "correct": 2,
+       "textEn": "What is a basic element of children's daily routine?",
+       "optionsEn": [
+        "Prolonged use of electronic devices",
+        "Restricting sleep",
+        "Alternating learning, meals, physical activity and rest"
+       ]
+      },
+      {
+       "text": "Какво може да причини нерационалният училищен режим?",
+       "options": [
+        "Преумора, неврози и загуба на мотивация",
+        "Подобряване на концентрацията",
+        "Увеличаване на работоспособността"
+       ],
+       "correct": 0,
+       "textEn": "What can an irrational school regime cause?",
+       "optionsEn": [
+        "Overfatigue, neuroses and loss of motivation",
+        "Improved concentration",
+        "Increased work capacity"
+       ]
+      },
+      {
+       "text": "Какъв е основният принцип на вътрешната планировка на детските заведения?",
+       "options": [
+        "Свободно преминаване между всички групи",
+        "Групова изолация",
+        "Общо помещение за всички деца"
+       ],
+       "correct": 1,
+       "textEn": "What is the main principle of the internal layout of children's facilities?",
+       "optionsEn": [
+        "Free movement between all groups",
+        "Group isolation",
+        "A common room for all children"
+       ]
+      },
+      {
+       "text": "Какви трябва да бъдат играчките в детските заведения?",
+       "options": [
+        "Изработени от лесно запалими материали",
+        "С остри ръбове за по-лесно хващане",
+        "Безопасни, нетоксични и лесни за почистване"
+       ],
+       "correct": 2,
+       "textEn": "What should toys in children's facilities be like?",
+       "optionsEn": [
+        "Made of easily flammable materials",
+        "With sharp edges for easier grip",
+        "Safe, non-toxic and easy to clean"
+       ]
+      },
+      {
+       "text": "При каква температура на въздуха се определят прохладните въздушни процедури?",
+       "options": [
+        "От 20°C до 14°C",
+        "От 30°C до 25°C",
+        "Под 5°C"
+       ],
+       "correct": 0,
+       "textEn": "At what air temperature are cool air procedures defined?",
+       "optionsEn": [
+        "From 20°C down to 14°C",
+        "From 30°C down to 25°C",
+        "Below 5°C"
+       ]
+      },
+      {
+       "text": "Кога се препоръчва провеждането на слънчеви процедури?",
+       "options": [
+        "Между 12 и 16 часа",
+        "Между 7 и 11 часа",
+        "След 18 часа"
+       ],
+       "correct": 1,
+       "textEn": "When are sun procedures recommended?",
+       "optionsEn": [
+        "Between 12 and 4 p.m.",
+        "Between 7 and 11 a.m.",
+        "After 6 p.m."
+       ]
+      }
+     ]
+    }
+   }
   }
  }
 }
